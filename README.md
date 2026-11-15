@@ -1,8 +1,23 @@
 # Mosaik Bank Customer Experience Tracker 2026
 
+[![tests](https://github.com/mohammedelsayed741996-blip/mosaik-cx-tracker/actions/workflows/tests.yml/badge.svg)](https://github.com/mohammedelsayed741996-blip/mosaik-cx-tracker/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![R](https://img.shields.io/badge/R-survey-276DC3) ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
 A four-wave customer-experience tracking study for a German digital bank, built end to end the way a market research agency would run it: raw survey exports → quality checks → weighting → banner tables with significance testing → key driver analysis → client deck.
 
 > **All survey data is simulated and all brands are fictional** ("Mosaik Bank", "Volta", "Atlas Direkt", "Sparhaus", "Pebble"). The population targets used for weighting are **official Destatis figures**. The simulator plants a known truth (bad respondents, NPS drivers, wave effects), so every analysis step can be checked against the answer it should find.
+
+## Results at a glance
+
+| | |
+|---|---|
+| **Key drivers of NPS** (weighted Shapley regression, R² = 0.33, n = 2,204 Mosaik customers) | **Fees / value for money explains 40 %** of the explained variance, **app ease 28 %** – together about 69 % |
+| **Card fee (Q3)** | NPS fell **15 points** W2 → W3 (significant) |
+| **App relaunch (Q4)** | NPS won back **12 points** W3 → W4 (significant); app ease top-2-box rose 11 points to 76 % |
+| **Priority for the client** | Fees: highest importance (40 %) but only 28 % satisfied → fix the fee story first |
+| **Data quality** | 569 of 12,000 interviews removed (4.7 %); recall and precision **1.000** against the planted bad respondents on all 6 checks |
+| **Verification** | Every R number recomputed independently in pandas (`src/07_crosscheck.py`); **64 pytest tests** run on every push in GitHub Actions |
+
+Full deck: [`Mosaik_CX_Tracker_2026_PREVIEW.pdf`](Mosaik_CX_Tracker_2026_PREVIEW.pdf). Bases and significance rules are on every slide.
 
 <!-- KEY-CHARTS:START (written by src/08_charts_deck.py; do not edit by hand) -->
 
@@ -30,6 +45,38 @@ Mosaik Bank introduced a €4.90 monthly card fee in Q3 2026 and relaunched its 
 | Weighting | Raking per wave to Destatis 12411-0013 (31.12.2025): age band × gender × region, trimmed to 0.3-3.0 |
 | Significance | Column-letter z-tests on effective bases, 95% level; NPS with design-based standard errors (R `survey`) |
 | Questionnaire | Screener, banking relationship, brand funnel, NPS, 8 satisfaction attributes, open end, service, attitudes, demographics; every question, code and routing rule is in [`config/codebook.yaml`](config/codebook.yaml) |
+
+## Architecture
+
+```mermaid
+flowchart LR
+    subgraph SIM["Simulated fieldwork"]
+        S0["00_simulate.py<br/>4 waves · 12,000 completes<br/>+ planted truth"]
+        RAW[("data/raw<br/>CSV · Latin-1 · SPSS")]
+        TRUTH[("data/_truth<br/>bad respondents · driver weights")]
+    end
+    subgraph PY1["Python: preparation"]
+        S1["01 ingest & harmonise"]
+        S2["02 quality checks<br/>6 flags + removal rule"]
+        S3["03 clean & recode<br/>open-end coding"]
+        TG["build_weighting_targets.py<br/>Destatis 12411-0013"]
+    end
+    subgraph R["R: survey statistics"]
+        R4["04 raking & trimming<br/>Kish efficiency"]
+        R5["05 banner tables<br/>z-tests on effective bases"]
+    end
+    subgraph PY2["Python: insight & delivery"]
+        S6["06 weighted Shapley<br/>key drivers + bootstrap"]
+        S7["07 cross-check<br/>R vs pandas ≤ 0.1 pt"]
+        S8["08 charts & deck<br/>PDF · PPTX · README"]
+    end
+    S0 --> RAW --> S1 --> S2 --> S3 --> R4
+    TG --> R4 --> R5 --> S7
+    R4 --> S6 --> S8
+    R5 --> S8
+    S0 --> TRUTH
+    TRUTH -. "answer key" .-> S2 & S6
+```
 
 ## What the pipeline does
 
@@ -68,8 +115,11 @@ python src/06_key_drivers.py
 python src/07_crosscheck.py
 python src/08_charts_deck.py
 
-pytest -q
+pytest -q        # 64 tests, ~10 s
 ```
+
+GitHub Actions runs the pytest suite on every push ([`.github/workflows/tests.yml`](.github/workflows/tests.yml)).
+The R unit tests (`R/tests/`) are run locally as part of the pipeline above.
 
 ## Repository structure
 
@@ -82,7 +132,8 @@ data/clean/    clean, weighted analysis files
 src/           Python steps 00-08
 R/             weighting, tables, significance tests (+ unit tests)
 outputs/       quality report, tables, charts, deck
-tests/         pytest suite
+tests/         pytest suite (64 tests)
+.github/       CI workflow (pytest on every push)
 ```
 
 ## Limitations
@@ -94,3 +145,7 @@ tests/         pytest suite
 ## How AI was used
 
 See [`AI_USAGE.md`](AI_USAGE.md): what was drafted with AI, what was wrong in those drafts, and how each part was verified.
+
+## License
+
+[MIT](LICENSE) © 2026 Mohamed Abdelrasoul
