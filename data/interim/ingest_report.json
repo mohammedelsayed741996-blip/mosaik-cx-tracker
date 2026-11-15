@@ -1,0 +1,185 @@
+{
+  "waves": {
+    "W1": {
+      "source_file": "W1_export.csv",
+      "rows_read": 3350,
+      "rows_by_status": {
+        "1": 3000,
+        "3": 160,
+        "2": 130,
+        "4": 60
+      },
+      "rows_dropped_noncomplete": 350,
+      "rows_kept": 3000,
+      "fixes": {
+        "c2_reason_strip": 1,
+        "refusal_alias_to_-99": 77,
+        "multi_blank_to_0": 35433
+      },
+      "parse_failures": {},
+      "warnings": []
+    },
+    "W2": {
+      "source_file": "W2_export.csv",
+      "rows_read": 3000,
+      "rows_by_status": {
+        "1": 3000
+      },
+      "rows_dropped_noncomplete": 0,
+      "rows_kept": 3000,
+      "fixes": {
+        "columns_renamed": {
+          "QNPS": "C1"
+        },
+        "duration_hms_to_seconds": 3000,
+        "dates_reformatted": 3000,
+        "c2_reason_strip": 1,
+        "c2_reason_restore_euro": 7
+      },
+      "parse_failures": {},
+      "warnings": []
+    },
+    "W3": {
+      "source_file": "W3_export.csv",
+      "rows_read": 3000,
+      "rows_by_status": {
+        "1": 3000
+      },
+      "rows_dropped_noncomplete": 0,
+      "rows_kept": 3000,
+      "fixes": {
+        "age_text_parsed": 81,
+        "state_text_parsed": 151,
+        "state_text_variants": {
+          "NRW": 19,
+          "nrw": 17,
+          "lower saxony": 16,
+          "Nordrhein Westfalen": 15,
+          "Niedersachsen": 9,
+          "bavaria ": 9,
+          "hesse": 9,
+          "BaWü": 8,
+          "BY": 8,
+          "BW": 6,
+          "Baden-Württemberg": 5,
+          "Bayern": 4,
+          "Bayern ": 4,
+          "Sachsen": 4,
+          "saxony": 4,
+          "berlin ": 3,
+          "Berlin": 3,
+          "HH": 3,
+          "Hamburg": 2,
+          "Hessen": 2,
+          "BE": 1
+        },
+        "c2_reason_strip": 0
+      },
+      "parse_failures": {},
+      "warnings": []
+    },
+    "W4": {
+      "source_file": "W4_export.csv",
+      "rows_read": 3000,
+      "rows_by_status": {
+        "1": 3000
+      },
+      "rows_dropped_noncomplete": 0,
+      "rows_kept": 3000,
+      "fixes": {
+        "c2_reason_strip": 147,
+        "c2_reason_fix_mojibake": 14
+      },
+      "parse_failures": {},
+      "warnings": [
+        "W4_export.sav not found; read fallback W4_export.csv instead",
+        "label differs for F2=6: export 'Nicht erwerbstätig' vs codebook 'Not working' (codes are used, labels ignored)"
+      ],
+      "label_differences": [
+        {
+          "column": "F2",
+          "code": 6,
+          "export_label": "Nicht erwerbstätig",
+          "codebook_label": "Not working"
+        }
+      ]
+    }
+  },
+  "total_rows_kept": 12000,
+  "rows_kept_by_wave": {
+    "W1": 3000,
+    "W2": 3000,
+    "W3": 3000,
+    "W4": 3000
+  },
+  "columns": [
+    "wave",
+    "resp_id",
+    "record",
+    "panel_id",
+    "source_file",
+    "status",
+    "start_ts",
+    "end_ts",
+    "duration_s",
+    "device",
+    "age",
+    "gender",
+    "state",
+    "s4_account",
+    "s5_r1",
+    "s5_r2",
+    "s5_r3",
+    "s5_r4",
+    "a1_r1",
+    "a1_r2",
+    "a1_r3",
+    "a1_r4",
+    "a1_r5",
+    "a1_r6",
+    "a1_r7",
+    "main_bank",
+    "a3_tenure",
+    "b1_r1",
+    "b1_r2",
+    "b1_r3",
+    "b1_r4",
+    "b1_r5",
+    "b2_r1",
+    "b2_r2",
+    "b2_r3",
+    "b2_r4",
+    "b2_r5",
+    "c1_nps",
+    "c2_reason",
+    "c3_r1",
+    "c3_r2",
+    "c3_r3",
+    "c3_r4",
+    "c3_r5",
+    "c3_r6",
+    "c3_r7",
+    "c3_r8",
+    "c3x_attn",
+    "c4_overall",
+    "c5_switch",
+    "c6_r1",
+    "c6_r2",
+    "c6_r3",
+    "c6_r4",
+    "c6_r5",
+    "d1_app_freq",
+    "d2_contact",
+    "d3_resolved",
+    "e1_r1",
+    "e1_r2",
+    "e1_r3",
+    "e1_r4",
+    "e1_r5",
+    "e1_r6",
+    "f1_income",
+    "f2_employment",
+    "f3_education"
+  ],
+  "errors": []
+}

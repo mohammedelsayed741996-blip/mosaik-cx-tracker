@@ -1,0 +1,2509 @@
+resp_id,nps_group,c2_reason,codes,method
+W1_000005,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_000007,3,quick and friendly support,3,keyword
+W1_000023,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W1_000024,1,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W1_000025,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000031,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000035,1,interest rates are too low,7,keyword
+W1_000036,2,interest rates are too low,7,keyword
+W1_000042,2,Zinsen sind zu niedrgi,7,keyword
+W1_000048,3,Nichts Besonderes,8,other
+W1_000063,3,Überweisungen sind sofort da,5,keyword
+W1_000069,2,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W1_000072,3,App is super easy to use,2,keyword
+W1_000073,3,ueberweisungen sind sofort da,5,keyword
+W1_000074,3,"schneller, freundlicher kundenservice",3,keyword
+W1_000079,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000080,3,great card for travelling,6,keyword
+W1_000091,3,App ist super einfach,2,keyword
+W1_000097,2,Zinsen sind zu niedrig,7,keyword
+W1_000107,3,"instant transfers, love it",5,keyword
+W1_000109,3,app is super easy to use,2,keyword
+W1_000113,2,chat support never solves anything,3,keyword
+W1_000116,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_000130,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_000133,2,Zinsen sind zu niedrig,7,keyword
+W1_000136,2,Zinsen sind zu niedrig,7,keyword
+W1_000139,2,Zinsen sind zu niedrig,7,keyword
+W1_000148,3,App ist super einfach,2,keyword
+W1_000160,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_000162,1,Mache mir Soregn um die Sicherheit,4,keyword
+W1_000163,2,chat support never solves anything,3,keyword
+W1_000169,3,great card for travelling,6,keyword
+W1_000171,2,"4,90 € im monat für die karte, ernsthaft?",1,keyword
+W1_000172,1,Kundenservice ist kaum erreichbar,3,keyword
+W1_000173,3,App ist super einfach,2,keyword
+W1_000174,2,"4,90 € im Monat fürd ie Karte, ernsthaft?",1,keyword
+W1_000177,3,does what it should,8,other
+W1_000182,1,good good good,8,other
+W1_000184,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000189,2,does what it should,8,other
+W1_000202,3,Keine versteckten Gebühren,1,keyword
+W1_000205,2,zinsen sind zu niedrig,7,keyword
+W1_000209,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000212,1,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W1_000213,2,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W1_000216,3,love how simple the app is,2,keyword
+W1_000222,2,Zinsen sind zu niedrig,7,keyword
+W1_000233,3,fgfgfg,8,other
+W1_000238,2,Gebühren steigen ständig,1,keyword
+W1_000242,1,interest rates are too low,7,keyword
+W1_000243,2,Lange Wartezeiten im Chat,3,keyword
+W1_000251,3,App is super easy to use,2,keyword
+W1_000267,1,waited ages for support,3,keyword
+W1_000273,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_000277,3,Ueberweisungen sind sofort da,5,keyword
+W1_000283,1,interest rates rae too low,7,keyword
+W1_000288,3,its ok,8,other
+W1_000290,3,Die App ist übersichtlich und schnell,2,keyword
+W1_000292,3,Die App ist übersichtlich und schnell,2,keyword
+W1_000295,2,transfers take too long,5,keyword
+W1_000317,2,Gebuehren steigen staendig,1,keyword
+W1_000326,3,love how simple the app is,2,keyword
+W1_000331,3,App is super easy to use,2,keyword
+W1_000335,2,app crashes a lot,2,keyword
+W1_000337,3,"instant transfers, love it",5,keyword
+W1_000338,3,Die App ist uebersichtlich und schnell,2,keyword
+W1_000339,2,fees keep going up,1,keyword
+W1_000341,3,Gute Zinsen aufs Tagesgeld,7,keyword
+W1_000343,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W1_000355,3,"Ich fühle mich sicher, gute iScherheitsfunktionen",4,keyword
+W1_000360,2,App stürzt ständig ab,2,keyword
+W1_000366,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000371,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_000378,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_000379,3,Überweisungen sind sofort da,5,keyword
+W1_000381,3,quick and friendly support,3,keyword
+W1_000382,1,Nichts Besonderes,8,other
+W1_000383,3,I feel my money is safe there,4,keyword
+W1_000396,2,Zinsen sind zu niedrig,7,keyword
+W1_000399,3,loev how simple the app is,2,keyword
+W1_000400,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_000401,2,Zinsen sind zu niedrig,7,keyword
+W1_000403,3,great card for travelling,6,keyword
+W1_000406,1,Lange Wartezeiten im Chat,3,keyword
+W1_000408,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_000415,2,Zinsen sind zu niedrig,7,keyword
+W1_000416,2,Zinsen sind zu niedrig,7,keyword
+W1_000420,3,nichts besonderes,8,other
+W1_000426,2,chat support never solves anything,3,keyword
+W1_000430,1,kundenservice ist kaum erreichbar,3,keyword
+W1_000439,2,Zinsen sind zu niedrig,7,keyword
+W1_000442,2,kundenservice ist kaum erreichbar,3,keyword
+W1_000444,3,ueberweisungen sind sofort da,5,keyword
+W1_000446,3,love how simple the app is,2,keyword
+W1_000448,2,Mache mi rSorgen um die Sicherheit,4,keyword
+W1_000449,2,Gebühren steigen ständig,1,keyword
+W1_000453,2,waited ages for support,3,keyword
+W1_000457,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_000459,3,ok ok ok ok,8,other
+W1_000467,2,qwertz,8,other
+W1_000472,2,waited ages for support,3,keyword
+W1_000474,1,lange wartezeiten im chat,3,keyword
+W1_000479,3,great card for travelling,6,keyword
+W1_000485,2,Zinsen sind zu niedrig,7,keyword
+W1_000493,2,Zinsen sind zu niedrig,7,keyword
+W1_000497,1,card got blocked abroad twcie,6,keyword
+W1_000500,2,its ok,8,other
+W1_000505,2,nsdkjfh,8,other
+W1_000509,2,Lange Wartezeiten im Chat,3,keyword
+W1_000521,3,Überweisungen sind sofort da,5,keyword
+W1_000523,2,karte wurde im ausland gesperrt,6,keyword
+W1_000524,3,"instant transfers, love it",5,keyword
+W1_000526,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_000527,3,App ist super einfach,2,keyword
+W1_000534,1,Lange Wartezeiten im Chat,3,keyword
+W1_000543,1,Nichts Besonderes,8,other
+W1_000544,2,zu teuer seit der monatlichen gebühr,1,keyword
+W1_000560,2,card got blocked abroad twice,6,keyword
+W1_000562,2,interset rates are too low,7,fuzzy
+W1_000563,2,Gebühren steigen ständig,1,keyword
+W1_000566,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_000568,3,"instant transfres, love it",5,fuzzy
+W1_000569,2,interest rates are too low,7,keyword
+W1_000579,1,transfers take too long,5,keyword
+W1_000583,1,Karte wurde im Ausland gesperrt,6,keyword
+W1_000591,2,die neue kartengebühr ist eine frechheit,1,keyword
+W1_000597,1,Passt schon,8,other
+W1_000600,2,too expensive since they added the monthly fee,1,keyword
+W1_000605,2,fgfgfg,8,other
+W1_000606,3,its ok,8,other
+W1_000612,3,Überweisungen sind sofort da,5,keyword
+W1_000617,2,Mache mir Sorgen um dei Sicherheit,4,keyword
+W1_000619,2,Nichts Besonderes,8,other
+W1_000620,2,Passt schon,8,other
+W1_000630,2,Lange Wartezeiten im Chat,3,keyword
+W1_000637,3,app ist supre einfach,2,keyword
+W1_000640,2,chat support never solves anything,3,keyword
+W1_000655,2,fees keep going up,1,keyword
+W1_000659,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_000661,3,Passt schon,8,other
+W1_000664,3,Die App ist übersichtlich und schnell,2,keyword
+W1_000667,3,Überweisungen sind sofort da,5,keyword
+W1_000676,3,Die App ist übersichtlich und schnell,2,keyword
+W1_000678,3,nothing special,8,other
+W1_000684,3,App ist super einfach,2,keyword
+W1_000685,2,Zinsen sind zu niedrig,7,keyword
+W1_000688,3,Keine versteckten Gebühren,1,keyword
+W1_000691,2,card got blocked abroad twice,6,keyword
+W1_000695,3,überweisungen sind sofort da,5,keyword
+W1_000697,3,love how simple the app is,2,keyword
+W1_000700,3,No hidden fees,1,keyword
+W1_000701,2,lange wartezeiten im chat,3,keyword
+W1_000705,3,Keine versteckten Gebuehren,1,keyword
+W1_000714,3,I feel my money is safe there,4,keyword
+W1_000718,3,love how simple the app is,2,keyword
+W1_000731,2,card got blocked abroad twice,6,keyword
+W1_000732,3,"Kostenloses Konto, faire Preise",1,keyword
+W1_000736,2,Nichts Beosnderes,8,other
+W1_000737,2,card got blocked abroda twice,6,keyword
+W1_000739,3,No hidden fees,1,keyword
+W1_000759,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_000762,1,Die App ist unübersichtlich,2,keyword
+W1_000768,1,interest rates are too low,7,keyword
+W1_000769,2,worried about security after the phishing mails,4,keyword
+W1_000779,3,its ok,8,other
+W1_000784,1,Nichts Besonderes,8,other
+W1_000792,1,waited ages for support,3,keyword
+W1_000799,1,Überweisungen dauern zu lange,5,keyword
+W1_000814,2,Nichts Besonderes,8,other
+W1_000820,1,waited ages for support,3,keyword
+W1_000822,1,Kundenservice ist kaum erreichbar,3,keyword
+W1_000826,3,"ich fuehle mich sicher, gute sicherheitsfuntkionen",4,keyword
+W1_000830,1,chat support never solves anything,3,keyword
+W1_000832,2,karte wurde im ausland gesperrt,6,keyword
+W1_000833,1,Die App ist unübersichtlich,2,keyword
+W1_000835,3,love how simple the app is,2,keyword
+W1_000836,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_000837,1,waited ages for support,3,keyword
+W1_000839,2,too expensive since they added the monthly fee,1,keyword
+W1_000848,2,worried about security after the phishing mails,4,keyword
+W1_000849,1,chat support never solves anything,3,keyword
+W1_000855,1,Zinsen sind zu niedrig,7,keyword
+W1_000865,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000876,2,Lange Wartezeiten im Chat,3,keyword
+W1_000885,2,Passt schon,8,other
+W1_000886,3,überweisungen sind sofort da,5,keyword
+W1_000888,1,Lange Wartezeiten im Chat,3,keyword
+W1_000907,1,kundenservice ist kaum erreichbar,3,keyword
+W1_000910,3,Free account and fiar prices,1,keyword
+W1_000913,2,Gebühren steigen ständig,1,keyword
+W1_000921,3,Überweisungen sind sofort da,5,keyword
+W1_000926,3,Gute Karte für Reisen,6,keyword
+W1_000929,3,Alles gut,8,other
+W1_000932,3,App ist super einfach,2,keyword
+W1_000935,2,Karte wurde im Ausalnd gesperrt,6,keyword
+W1_000938,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W1_000942,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000951,3,love how simple the app is,2,keyword
+W1_000953,3,Überweisungen sind sofort da,5,keyword
+W1_000954,3,...,8,other
+W1_000962,2,transfers take too long,5,keyword
+W1_000965,1,Lange Wartezeiten im Chat,3,keyword
+W1_000967,3,Die Appi st uebersichtlich und schnell,2,keyword
+W1_000970,2,trnasfers take too long,5,fuzzy
+W1_000971,2,app crashes a lot,2,keyword
+W1_000975,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_000981,2,Zinsen sind zu niedrig,7,keyword
+W1_000982,1,zu teuer seit der monatlichen gebühr,1,keyword
+W1_000988,3,love how simple the pap is,8,other
+W1_000990,1,card got blocked abroad twice,6,keyword
+W1_000995,1,Zinsen sind zu niedrig,7,keyword
+W1_000996,2,4.90 a month for a card? no thanks,1,keyword
+W1_000997,2,Zinsen sind zu niedrig,7,keyword
+W1_000998,2,transfers take too long,5,keyword
+W1_000999,3,app is super easy to use,2,keyword
+W1_001000,2,4.90 a month for a card? no thanks,1,keyword
+W1_001013,3,Überweisungen sind sofort da,5,keyword
+W1_001014,1,Lange Wartezeiten im Chat,3,keyword
+W1_001023,3,App ist super einfach,2,keyword
+W1_001026,2,zinsen sind zu niedrig,7,keyword
+W1_001035,1,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W1_001042,3,great card fort ravelling,6,keyword
+W1_001048,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W1_001053,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_001055,3,does what it should,8,other
+W1_001062,3,Die App ist übersichtlich und schnell,2,keyword
+W1_001065,3,Alles gut,8,other
+W1_001068,3,gute karte für reisen,6,keyword
+W1_001070,3,Alles gut,8,other
+W1_001073,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_001090,3,App is super easy to use,2,keyword
+W1_001091,2,waited ages for support,3,keyword
+W1_001094,3,Gute Karte für Reisen,6,keyword
+W1_001095,3,Überweisungen sind sofort da,5,keyword
+W1_001099,3,app ist super einfach,2,keyword
+W1_001107,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W1_001109,3,"instant transfers, love it",5,keyword
+W1_001113,3,überweisungne sind sofort da,5,keyword
+W1_001115,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_001126,1,Zinsen sind zu niedrig,7,keyword
+W1_001132,1,Karte wurde im Ausland gesperrt,6,keyword
+W1_001135,3,Überweisungen sind sofort da,5,keyword
+W1_001156,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_001166,2,nichts besonderes,8,other
+W1_001170,3,"instant transfers, love it",5,keyword
+W1_001179,2,passt schon,8,other
+W1_001181,2,interest rates are too low,7,keyword
+W1_001184,1,Passt schon,8,other
+W1_001185,3,Die App ist übersichtlich und schnell,2,keyword
+W1_001186,3,its ok,8,other
+W1_001196,2,Lange Wartezeiten im Chat,3,keyword
+W1_001198,2,nsdkjfh,8,other
+W1_001201,3,quick and friendly support,3,keyword
+W1_001202,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_001204,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W1_001231,2,Nichts Besonderes,8,other
+W1_001237,1,Karte wurde im Ausland gesperrt,6,keyword
+W1_001245,3,Gute Karte für Reisen,6,keyword
+W1_001247,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_001248,1,asdf,8,other
+W1_001263,1,Karte wurde im Ausladn gesperrt,6,keyword
+W1_001264,2,interest rates rae too low,7,keyword
+W1_001266,2,chat support never solves anything,3,keyword
+W1_001270,2,Gebühren steigen ständig,1,keyword
+W1_001272,1,"4,90 € im monat für die karte, ernsthaft?",1,keyword
+W1_001275,3,Überweisungen sind sofort da,5,keyword
+W1_001282,2,interest rates are too low,7,keyword
+W1_001286,3,No hidden fees,1,keyword
+W1_001288,2,jjjjjjj,8,other
+W1_001289,3,Gute Karte für Reisen,6,keyword
+W1_001303,3,great card for travelling,6,keyword
+W1_001307,3,alles gut,8,other
+W1_001320,3,keine versteckten gebuehren,1,keyword
+W1_001321,3,Die App ist übersichtlich und schnell,2,keyword
+W1_001324,2,Lange Wartezeiten im Chat,3,keyword
+W1_001327,3,1234,8,other
+W1_001329,1,interest rates are too low,7,keyword
+W1_001331,3,App ist super einafch,2,keyword
+W1_001338,3,No hidden fees,1,keyword
+W1_001341,3,"instant transfers, love ti",5,keyword
+W1_001343,1,interest rates are too low,7,keyword
+W1_001345,2,Passt schon,8,other
+W1_001352,3,app is super easy to use,2,keyword
+W1_001354,2,Zinsen sind zu niedrig,7,keyword
+W1_001363,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_001368,1,waited ages for support,3,keyword
+W1_001375,1,1234,8,other
+W1_001382,3,Passt schon,8,other
+W1_001387,1,app crashes a lot,2,keyword
+W1_001397,3,Nichts Besonderes,8,other
+W1_001405,3,Die App ist übersichtlich und schnell,2,keyword
+W1_001407,1,-,8,other
+W1_001410,2,card got blocked abroad twice,6,keyword
+W1_001425,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W1_001426,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_001427,1,zu teuer seit der monatlichen gebühr,1,keyword
+W1_001428,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_001431,1,interest rates are too low,7,keyword
+W1_001432,3,qwertz,8,other
+W1_001440,2,interest rates are too low,7,keyword
+W1_001441,1,card got blocked abroad twice,6,keyword
+W1_001445,3,Die App ist übersichtlich und schnell,2,keyword
+W1_001458,1,worried about security after the phishing mails,4,keyword
+W1_001461,2,card got blocked abroad twice,6,keyword
+W1_001467,2,interest rates are too low,7,keyword
+W1_001469,3,app ist super einfach,2,keyword
+W1_001480,1,zinsen sindz u niedrig,7,keyword
+W1_001481,3,Alles gut,8,other
+W1_001487,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W1_001500,1,hard to find anything in the app,2,keyword
+W1_001505,3,love how simple the app is,2,keyword
+W1_001509,1,nichts besonderes,8,other
+W1_001519,2,its ok,8,other
+W1_001520,3,nothing special,8,other
+W1_001531,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_001542,1,interest rtaes are too low,7,keyword
+W1_001546,3,No hidden fees,1,keyword
+W1_001550,3,App ist super einfach,2,keyword
+W1_001568,2,...,8,other
+W1_001570,1,interest rates are too low,7,keyword
+W1_001580,2,Lange Wartezeiten im Chat,3,keyword
+W1_001584,3,ok ok ok ok,8,other
+W1_001591,3,I feel my money is safe there,4,keyword
+W1_001593,3,"Kostenloses Konto, faire Preise",1,keyword
+W1_001595,3,great card for travelling,6,keyword
+W1_001602,2,waited ages for support,3,keyword
+W1_001604,1,Kundenservice ist kaum erreichbar,3,keyword
+W1_001613,3,Überweisungen sind sofort da,5,keyword
+W1_001614,3,Keine versteckten Gebühren,1,keyword
+W1_001616,3,Überweisungen sind sofort da,5,keyword
+W1_001617,3,"Kostenloses Konto, faire Preise",1,keyword
+W1_001630,3,nothing special,8,other
+W1_001632,2,1234,8,other
+W1_001639,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_001647,1,lange wartezeiten im chat,3,keyword
+W1_001653,2,Nichts Besonderes,8,other
+W1_001656,2,transfers take too long,5,keyword
+W1_001661,1,Lange Wartezeiten im Chat,3,keyword
+W1_001684,3,Free account and fair prices,1,keyword
+W1_001696,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_001699,3,qwertz,8,other
+W1_001705,3,"Kostenloses Konto, faire Preise",1,keyword
+W1_001708,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W1_001712,3,Ueberweisungen sind sofort da,5,keyword
+W1_001713,2,Alles gut,8,other
+W1_001715,3,Keine versteckten Gebuehren,1,keyword
+W1_001718,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_001723,3,"Kostenloses Konto, faire Preise",1,keyword
+W1_001728,3,App ist super einfach,2,keyword
+W1_001733,3,Keine versteckten Gebühren,1,keyword
+W1_001738,3,"Kostenloses Konto, faireP reise",1,keyword
+W1_001739,3,great card for travelling,6,keyword
+W1_001758,3,Die App ist uebersichtlich und schnell,2,keyword
+W1_001760,1,interest rates are too low,7,keyword
+W1_001767,3,I feel my money is safe there,4,keyword
+W1_001776,3,No hidden fees,1,keyword
+W1_001777,2,The new card fee is a joke,1,keyword
+W1_001778,1,Zinsen sind zu niedrig,7,keyword
+W1_001783,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_001787,2,waited ages for support,3,keyword
+W1_001796,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_001797,2,Zinsen sind zu niedrig,7,keyword
+W1_001798,1,Zinsen sind zu niedrig,7,keyword
+W1_001804,3,uGte Karte für Reisen,6,keyword
+W1_001814,1,interest rates are too low,7,keyword
+W1_001816,2,lange wartezeiten im chat,3,keyword
+W1_001817,2,zu teuer seit der monatlichen gebühr,1,keyword
+W1_001820,2,worried about security after the phishing mails,4,keyword
+W1_001822,2,interest rates are too low,7,keyword
+W1_001825,1,does what it should,8,other
+W1_001828,3,Alles gut,8,other
+W1_001833,3,Free account and fair prices,1,keyword
+W1_001840,3,Gute Karte für Reisen,6,keyword
+W1_001841,3,"instant transfers, love it",5,keyword
+W1_001845,1,worried about security after the phishing mails,4,keyword
+W1_001850,3,alles gut,8,other
+W1_001851,3,Die App ist übersichtlich und schnell,2,keyword
+W1_001854,2,Zinsen sind zu niedrig,7,keyword
+W1_001858,2,interest rates ar etoo low,7,keyword
+W1_001859,1,nichts besondeers,8,other
+W1_001860,1,App stürzt ständig ab,2,keyword
+W1_001861,2,app crashes a lot,2,keyword
+W1_001865,2,Karte wurdei m Ausland gesperrt,6,keyword
+W1_001866,2,Zinsen sind zu niedrig,7,keyword
+W1_001867,1,jjjjjjj,8,other
+W1_001871,3,no hidden fees,1,keyword
+W1_001876,2,die neue kartengebuehr ist eine frechheit,1,keyword
+W1_001884,3,Überweisungen sind sofort da,5,keyword
+W1_001887,1,worried about security after the phishing mails,4,keyword
+W1_001891,1,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W1_001892,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_001894,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W1_001899,3,Gute Karte für Reisen,6,keyword
+W1_001904,1,chat support never solves anything,3,keyword
+W1_001907,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_001909,3,Überweisunegn sind sofort da,5,keyword
+W1_001912,1,Kundenservice ist kaum erreichbar,3,keyword
+W1_001913,1,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W1_001924,3,"instant transfers, love it",5,keyword
+W1_001930,2,...,8,other
+W1_001953,2,card got blocked abroad twice,6,keyword
+W1_001955,1,Kundenservice ist kaum erreichbar,3,keyword
+W1_001960,2,Gebühren steigen ständig,1,keyword
+W1_001966,3,App is super easy to use,2,keyword
+W1_001967,3,great card for travelling,6,keyword
+W1_001968,2,Zinsen sind zu niedrig,7,keyword
+W1_001975,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_001979,1,Lange Wartezeiten im Chat,3,keyword
+W1_001985,1,Karte wurde im Ausland gesperrt,6,keyword
+W1_001989,2,worried about security after the phishing mails,4,keyword
+W1_001990,1,Zinsen sind zu niedrig,7,keyword
+W1_001995,2,Zinsen sind zu niedrig,7,keyword
+W1_001996,2,chat support never solves anything,3,keyword
+W1_001999,2,Zinsen sind zu niedrig,7,keyword
+W1_002000,3,Die App ist übersichtlich und schnell,2,keyword
+W1_002002,1,Überweisungen dauern zu lange,5,keyword
+W1_002016,3,No hidden fees,1,keyword
+W1_002021,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W1_002024,1,Zinsen sind zu niedrig,7,keyword
+W1_002028,1,interest rates are too low,7,keyword
+W1_002029,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002030,2,Passt schon,8,other
+W1_002031,3,Die App ist uebersichtlich und schnell,2,keyword
+W1_002039,2,card got blocked abroad twice,6,keyword
+W1_002042,2,Nichts Besonderes,8,other
+W1_002045,3,App is super easy to use,2,keyword
+W1_002051,3,no hidden fees,1,keyword
+W1_002053,3,No hidedn fees,1,keyword
+W1_002058,2,its ok,8,other
+W1_002063,3,asdf,8,other
+W1_002065,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W1_002070,2,card got blocked abroad twice,6,keyword
+W1_002073,3,love how simple the app is,2,keyword
+W1_002075,3,Überweisungen sind sofort da,5,keyword
+W1_002076,2,The new card fee is a joke,1,keyword
+W1_002082,3,Ifeel my money is safe there,4,keyword
+W1_002091,3,app ist super einfach,2,keyword
+W1_002092,3,jjjjjjj,8,other
+W1_002096,3,passt schon,8,other
+W1_002106,2,interest rates are too low,7,keyword
+W1_002115,2,Nichts Besonderes,8,other
+W1_002117,1,Lange Wartezeiten im Chat,3,keyword
+W1_002123,3,Überweisungen sind sofort da,5,keyword
+W1_002126,2,interest rates are too low,7,keyword
+W1_002130,3,great card for travelling,6,keyword
+W1_002131,1,worried about security after the phishing mails,4,keyword
+W1_002135,2,chat support never solves anything,3,keyword
+W1_002136,1,Kundenservice ist kaum erreichbar,3,keyword
+W1_002139,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_002145,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002148,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002156,1,nothing special,8,other
+W1_002164,3,qwertz,8,other
+W1_002166,3,Die App ist uebersichtlich und schnell,2,keyword
+W1_002179,2,Zinsen sind zu niedrig,7,keyword
+W1_002183,2,Alles gut,8,other
+W1_002184,3,App is super easy to use,2,keyword
+W1_002190,3,love how simple the app is,2,keyword
+W1_002194,3,app ist super einfach,2,keyword
+W1_002201,1,App stürzt ständig ab,2,keyword
+W1_002202,2,chat support never solves anything,3,keyword
+W1_002206,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W1_002210,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W1_002221,2,transfers take too long,5,keyword
+W1_002225,3,App ist super einfach,2,keyword
+W1_002229,2,Zisnen sind zu niedrig,7,fuzzy
+W1_002230,2,good good good,8,other
+W1_002243,1,waited ages for support,3,keyword
+W1_002249,3,app is super easy to use,2,keyword
+W1_002255,1,Die App ist unübersichtlich,2,keyword
+W1_002260,3,Gute Karte für Reisen,6,keyword
+W1_002261,3,Überweisungen sind sofort da,5,keyword
+W1_002268,3,love how simple the app is,2,keyword
+W1_002269,2,interest rates are too low,7,keyword
+W1_002275,3,qwertz,8,other
+W1_002288,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002293,2,too expensive since they added the monthly fee,1,keyword
+W1_002295,3,"Kostenloses Konto, faire Preise",1,keyword
+W1_002297,2,interest rates are too low,7,keyword
+W1_002303,1,die app ist unuebersichtlich,2,keyword
+W1_002311,3,App is super easy to use,2,keyword
+W1_002317,3,great card for travelling,6,keyword
+W1_002343,2,transfers take too long,5,keyword
+W1_002348,3,great card for travelling,6,keyword
+W1_002349,2,asdf,8,other
+W1_002352,2,Die App ist unübersichtlich,2,keyword
+W1_002356,3,Nichts Besonderes,8,other
+W1_002364,2,worried about security after the phishing mails,4,keyword
+W1_002368,1,jjjjjjj,8,other
+W1_002370,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002371,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002374,3,App is super easy to use,2,keyword
+W1_002380,3,Keine versteckten Gebühren,1,keyword
+W1_002383,3,Ueberweisungen sind sofort da,5,keyword
+W1_002389,3,app ist super einfach,2,keyword
+W1_002390,3,Free account and fair prices,1,keyword
+W1_002394,2,nothing special,8,other
+W1_002399,1,Die neue Kartengebuehr ist iene Frechheit,1,keyword
+W1_002400,1,"4,90 € im monat fuer die karte, ernsthaft?",1,keyword
+W1_002410,2,jjjjjjj,8,other
+W1_002413,1,worried about security after the phishing mails,4,keyword
+W1_002417,1,Kundenesrvice ist kaum erreichbar,3,keyword
+W1_002420,2,chat support never solves anything,3,keyword
+W1_002426,3,Überweisungen sind sofort da,5,keyword
+W1_002439,3,App is super easy to use,2,keyword
+W1_002441,3,i feel my money is safe there,4,keyword
+W1_002444,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002450,1,Kundenservice ist kaum erreichbar,3,keyword
+W1_002452,1,ueberweisungen dauern zu lange,5,keyword
+W1_002453,3,Die App ist übersichtlich und schnell,2,keyword
+W1_002454,2,-,8,other
+W1_002455,2,the new card fee is a joke,1,keyword
+W1_002456,3,Gute Karte fuer Reisen,6,keyword
+W1_002460,3,Ueberweisungen sind sofort da,5,keyword
+W1_002465,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002479,3,its ok,8,other
+W1_002483,3,...,8,other
+W1_002485,2,mache mir sorgen um die sicherheit,4,keyword
+W1_002487,2,worried about security after the phishing mails,4,keyword
+W1_002490,1,"4,90 € im monat fuer die karte, ernsthaft?",1,keyword
+W1_002494,3,App ist super einfach,2,keyword
+W1_002500,3,Ueberweisungen sind sofort da,5,keyword
+W1_002503,2,worried about security after the phishing mails,4,keyword
+W1_002504,3,app ist super einfach,2,keyword
+W1_002516,3,Passt schon,8,other
+W1_002520,2,card got blocked abroad twice,6,keyword
+W1_002524,3,App ist super einfach,2,keyword
+W1_002526,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002537,3,"instant transfers, love it",5,keyword
+W1_002544,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_002553,3,Die Appi st übersichtlich und schnell,2,keyword
+W1_002556,2,waited ages for support,3,keyword
+W1_002557,2,Lange Wartezeiten im Chat,3,keyword
+W1_002559,2,Zinsen sind zu niedrig,7,keyword
+W1_002561,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_002564,3,"instant transfers, love it",5,keyword
+W1_002567,3,App ist super einfach,2,keyword
+W1_002569,3,Die App ist uebersichtlich und schnell,2,keyword
+W1_002575,1,die neue kartengebuehr ist eine frechheit,1,keyword
+W1_002580,1,Alles gut,8,other
+W1_002583,2,Zinsen sind zu niedrig,7,keyword
+W1_002591,1,interest rates are too low,7,keyword
+W1_002594,1,chat support never solves anything,3,keyword
+W1_002598,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W1_002600,3,App ist super einfach,2,keyword
+W1_002604,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002605,2,waited ages ofr support,3,keyword
+W1_002606,2,Überweisungen dauern zu lange,5,keyword
+W1_002613,2,die app ist unübersichtlich,2,keyword
+W1_002615,3,Die App ist uebersichtlich unds chnell,2,keyword
+W1_002618,3,app ist super einfach,2,keyword
+W1_002619,1,app crashes a lto,2,keyword
+W1_002621,3,Überweisungen sind sofort da,5,keyword
+W1_002628,2,interest artes are too low,7,keyword
+W1_002638,3,Überweisungen sind sofort da,5,keyword
+W1_002639,3,"Ich fühle mich sicher, gute Sicherheitsfuntkionen",4,keyword
+W1_002641,3,Passt schon,8,other
+W1_002642,3,great card for travelling,6,keyword
+W1_002648,2,4.90 a month for a card? no thanks,1,keyword
+W1_002651,1,fees keep going up,1,keyword
+W1_002655,2,interest rates are too low,7,keyword
+W1_002656,3,good good good,8,other
+W1_002666,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W1_002671,3,app ist super einfach,2,keyword
+W1_002679,3,App ist super einfach,2,keyword
+W1_002682,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002687,3,"Schneller, freundlicher Kundenservice",3,keyword
+W1_002688,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002690,1,asdf,8,other
+W1_002698,1,waited ages for support,3,keyword
+W1_002713,2,nsdkjfh,8,other
+W1_002716,2,chat support never solves anything,3,keyword
+W1_002718,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_002720,3,app is super easy to use,2,keyword
+W1_002721,3,"instant transfers, love it",5,keyword
+W1_002727,3,great card for travelling,6,keyword
+W1_002728,3,passt schon,8,other
+W1_002730,3,love how simple the app is,2,keyword
+W1_002731,3,does what it should,8,other
+W1_002739,2,its ok,8,other
+W1_002743,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002746,1,interest rates are too low,7,keyword
+W1_002747,3,überweisungen sind sofort da,5,keyword
+W1_002748,3,Gute Karte für Reisen,6,keyword
+W1_002755,3,Überweisungen sind sofort da,5,keyword
+W1_002763,2,Kundenservice ist kaum erreichbar,3,keyword
+W1_002765,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002766,1,chat support never solves anything,3,keyword
+W1_002771,3,Die App ist übersichtlich und schnell,2,keyword
+W1_002782,2,transfers take too long,5,keyword
+W1_002791,3,"Kostenloses Konto, faire Preise",1,keyword
+W1_002800,3,App ist super einfach,2,keyword
+W1_002803,2,Nichts Besonderes,8,other
+W1_002805,3,Keine versteckten Gebühren,1,keyword
+W1_002806,3,Überweisungen sind sofort da,5,keyword
+W1_002811,2,too expensive since they added the monthly fee,1,keyword
+W1_002822,3,love how simple the app is,2,keyword
+W1_002829,2,inteerst rates are too low,7,fuzzy
+W1_002838,3,"instant transfers, love it",5,keyword
+W1_002839,3,Keine versteckten Gebuehren,1,keyword
+W1_002841,2,Mache mir Sorgen um die Sicherhiet,4,keyword
+W1_002850,1,too expensive since they added the monthly fee,1,keyword
+W1_002854,2,-,8,other
+W1_002855,3,Die App ist übersichtlich und schnell,2,keyword
+W1_002856,2,1234,8,other
+W1_002868,1,Nichts Besonderes,8,other
+W1_002869,1,Die App ist unuebersichtlich,2,keyword
+W1_002881,1,its ok,8,other
+W1_002882,3,i feel my money is safe there,4,keyword
+W1_002886,1,1234,8,other
+W1_002888,3,"instant transfers, love it",5,keyword
+W1_002892,2,kundenservice ist kaum erreichbar,3,keyword
+W1_002899,3,Überweisungen sind sofort da,5,keyword
+W1_002902,3,Keine versteckten Gebühren,1,keyword
+W1_002907,2,...,8,other
+W1_002909,3,App ist super einfach,2,keyword
+W1_002911,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002912,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002916,3,App ist suepr einfach,2,keyword
+W1_002924,3,überweisungen sind sofort da,5,keyword
+W1_002925,2,Karte wurde im Ausland gesperrt,6,keyword
+W1_002934,3,Die App ist uebersichtlich und schnell,2,keyword
+W1_002935,2,too expensive since they added the monthly fee,1,keyword
+W1_002937,3,love how simple the app is,2,keyword
+W1_002946,3,App ist super einfach,2,keyword
+W1_002948,2,ueberweisungen dauern zu lange,5,keyword
+W1_002950,3,keine versteckten gebühren,1,keyword
+W1_002953,2,Zinsen sind zu niedrig,7,keyword
+W1_002956,1,Passt schon,8,other
+W1_002960,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W1_002966,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W1_002982,2,mache mir sorgen um die sicherheit,4,keyword
+W1_002984,1,Karte wurde im Ausland gesperrt,6,keyword
+W1_002985,3,Alles gut,8,other
+W1_002989,3,Die App ist übersichtlich und schnell,2,keyword
+W1_002991,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_000005,1,hard to find anything in the app,2,keyword
+W2_000007,1,Zu teuer seit der monatlichen Gebühr,1,keyword
+W2_000008,2,The new card fee is a jkoe,1,keyword
+W2_000009,3,great card for travelling,6,keyword
+W2_000011,2,Zinsen sind zu niedrig,7,keyword
+W2_000013,2,Zinsen sind zu niedrig,7,keyword
+W2_000019,3,Keine versteckten Gebühren,1,keyword
+W2_000021,2,Gebuehren steigen staendig,1,keyword
+W2_000032,2,jjjjjjj,8,other
+W2_000037,2,Ueberweisungen dauern zu lange,5,keyword
+W2_000042,3,Passt schon,8,other
+W2_000062,1,interest rates are too low,7,keyword
+W2_000070,3,Gute Karte fuer Reisen,6,keyword
+W2_000077,2,zinsen sind uz niedrig,7,keyword
+W2_000078,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_000084,3,love how simple the app is,2,keyword
+W2_000086,2,Zinsen sind zu niedrig,7,keyword
+W2_000090,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000091,1,Zu teuer seit der monatlichen Gebühr,1,keyword
+W2_000095,1,Zinsen sind zu niedrig,7,keyword
+W2_000101,2,Mache mir Sorgen um dei Sicherheit,4,keyword
+W2_000110,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_000125,2,Die App ist unübersichtlich,2,keyword
+W2_000126,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_000128,2,Alles gut,8,other
+W2_000129,3,good interest on savings,7,keyword
+W2_000136,2,1234,8,other
+W2_000142,3,Passt schon,8,other
+W2_000148,3,Überweisungen sind sofort da,5,keyword
+W2_000158,3,Keine versteckten Gebühren,1,keyword
+W2_000161,2,Zinsen sidn zu niedrig,7,keyword
+W2_000162,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_000165,2,Lange Wartezeiten im Chat,3,keyword
+W2_000174,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W2_000175,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000182,2,lange wartezeiten im chat,3,keyword
+W2_000202,3,"instant transfers, love it",5,keyword
+W2_000203,2,Nichts Besonderes,8,other
+W2_000206,2,Zinsen sind zu niedrig,7,keyword
+W2_000207,3,-,8,other
+W2_000212,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_000213,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_000217,3,Gute Karte für Reisen,6,keyword
+W2_000221,2,fees keep going up,1,keyword
+W2_000227,2,App stuerzt staendig ab,2,keyword
+W2_000233,3,love how simple the pap is,8,other
+W2_000238,3,quick and friendyl support,3,keyword
+W2_000243,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_000244,2,The new card fee is a joke,1,keyword
+W2_000246,3,Die App ist übersichtlich und schnell,2,keyword
+W2_000247,3,I feel my money is safe there,4,keyword
+W2_000250,2,does what it should,8,other
+W2_000267,3,1234,8,other
+W2_000273,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_000276,1,interest rates are too low,7,keyword
+W2_000279,3,great card for travelling,6,keyword
+W2_000280,3,"ich fühle mich sicher, gute sicherheitsfunktionen",4,keyword
+W2_000284,1,card got blocked abroad twice,6,keyword
+W2_000306,3,does what it should,8,other
+W2_000330,1,-,8,other
+W2_000332,2,does what it should,8,other
+W2_000334,2,Lange Wartezeiten im Chat,3,keyword
+W2_000335,1,Überweisungen dauern zu lange,5,keyword
+W2_000336,3,Die App ist übersichtlich und schnell,2,keyword
+W2_000337,2,Zinsen sind zu niedrig,7,keyword
+W2_000338,3,"Kostenloses Konto, faire Preise",1,keyword
+W2_000343,2,interest rates are too low,7,keyword
+W2_000345,3,Alles gut,8,other
+W2_000353,3,App ist super einfach,2,keyword
+W2_000388,2,4.90 a month for a card? no thanks,1,keyword
+W2_000389,3,Die App ist übersichtlich und schnell,2,keyword
+W2_000390,3,Gute Karte für Reisen,6,keyword
+W2_000402,2,ok ok ok ok,8,other
+W2_000408,3,asdf,8,other
+W2_000420,3,Ueberweisungen sind sofort da,5,keyword
+W2_000423,2,worried about security after the phishing mails,4,keyword
+W2_000429,2,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W2_000441,2,its ok,8,other
+W2_000442,1,Gebuehren steigen staendig,1,keyword
+W2_000449,2,chat support never solves anything,3,keyword
+W2_000450,1,waited ages for support,3,keyword
+W2_000454,3,App ist super einfach,2,keyword
+W2_000457,2,waited ages for support,3,keyword
+W2_000470,3,Nichts Besonderes,8,other
+W2_000471,2,interest rates are too low,7,keyword
+W2_000478,3,Die App ist übersichtlich und schnell,2,keyword
+W2_000479,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000497,1,waited ages for support,3,keyword
+W2_000499,2,1234,8,other
+W2_000501,3,"instant transfers, love it",5,keyword
+W2_000510,1,interest rates are too low,7,keyword
+W2_000513,3,App is super easy to use,2,keyword
+W2_000519,2,kundenservice ist kaum erreichbar,3,keyword
+W2_000522,3,ok ok ok ok,8,other
+W2_000528,2,Zinsen sind zu niedrig,7,keyword
+W2_000529,2,The new card fee is a joke,1,keyword
+W2_000533,3,Ueberweisungen sind sofort da,5,keyword
+W2_000542,3,Nichts Besonderes,8,other
+W2_000547,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000549,3,"instant transfers, love it",5,keyword
+W2_000555,3,love how simple the app is,2,keyword
+W2_000561,2,fgfgfg,8,other
+W2_000563,2,fees keep going up,1,keyword
+W2_000577,3,No hidden fees,1,keyword
+W2_000583,3,App ist super einfach,2,keyword
+W2_000586,3,gute karte für reisen,6,keyword
+W2_000587,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000589,3,überweisungen sind sofort da,5,keyword
+W2_000590,2,Zinsen sind zu niedrig,7,keyword
+W2_000594,3,uGte Karte für Reisen,6,keyword
+W2_000599,2,lange wartezeiten im chat,3,keyword
+W2_000607,2,transfers take too long,5,keyword
+W2_000616,2,worried about security after the phishing mails,4,keyword
+W2_000617,3,Gute Karte für Reisen,6,keyword
+W2_000623,3,Ueberwesiungen sind sofort da,5,fuzzy
+W2_000627,1,nothing special,8,other
+W2_000628,3,ok ok ok ok,8,other
+W2_000629,1,qwertz,8,other
+W2_000639,1,Karte wurde im Ausland gesperrt,6,keyword
+W2_000643,1,interest rates are too low,7,keyword
+W2_000650,2,Ueberweisungen dauern zu lange,5,keyword
+W2_000652,3,Die App ist uebersichtlich und schnell,2,keyword
+W2_000658,1,App stürzt ständig ab,2,keyword
+W2_000679,2,card got blocked abroad twice,6,keyword
+W2_000680,2,chat support never solves anything,3,keyword
+W2_000691,1,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W2_000697,2,chat support never solves anything,3,keyword
+W2_000703,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000708,2,The new card fee is a joke,1,keyword
+W2_000709,2,good good good,8,other
+W2_000717,1,chat support never solves anything,3,keyword
+W2_000729,3,Alles gut,8,other
+W2_000734,3,good interest on savings,7,keyword
+W2_000737,3,Die App ist uebersichtlich und schnell,2,keyword
+W2_000742,2,die neue kartengebuehr ist eine frechheit,1,keyword
+W2_000751,2,chat support never solves anything,3,keyword
+W2_000754,1,Zinsen sind zu niedrig,7,keyword
+W2_000757,2,The new card fee is a joke,1,keyword
+W2_000761,3,"instant transfers, love it",5,keyword
+W2_000763,3,Überweisungen sind sofort da,5,keyword
+W2_000766,3,App ist super einfach,2,keyword
+W2_000768,3,Gute Karte fuer Reisen,6,keyword
+W2_000769,3,Gute Karte für Reisen,6,keyword
+W2_000770,3,App ist super einfach,2,keyword
+W2_000775,2,App stuerz tstaendig ab,2,keyword
+W2_000777,2,gebuehren steigen staendig,1,keyword
+W2_000778,1,Zinsen sind zu niedrig,7,keyword
+W2_000795,2,Zinsen sind zu niedrig,7,keyword
+W2_000796,2,waited ages for support,3,keyword
+W2_000800,3,Keine versteckten Gebühren,1,keyword
+W2_000801,2,app crashes a lot,2,keyword
+W2_000803,3,Überweisungen sind sofort da,5,keyword
+W2_000805,3,"instant transfers, love it",5,keyword
+W2_000818,1,Lange Wartezeiten im Chat,3,keyword
+W2_000819,3,Alles gut,8,other
+W2_000827,2,Mache mir Sorgne um die Sicherheit,4,keyword
+W2_000830,2,Gebühren steigen ständig,1,keyword
+W2_000840,3,"instant transfers, love it",5,keyword
+W2_000843,1,interest rates are too low,7,keyword
+W2_000845,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_000851,3,Die App ist übersichtlich und schnell,2,keyword
+W2_000855,2,card got blocked abroad twice,6,keyword
+W2_000858,3,Gute Karte fuer Reisen,6,keyword
+W2_000861,3,"schneller, freundlicher kundenservice",3,keyword
+W2_000864,2,chat support never solves anything,3,keyword
+W2_000868,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W2_000871,2,Lange Wratezeiten im Chat,3,keyword
+W2_000875,3,Überweisungen sin dsofort da,5,keyword
+W2_000879,1,Zinsen sind zu niedrig,7,keyword
+W2_000883,2,gebühren steigen ständig,1,keyword
+W2_000884,2,Zinsen sind zu niedrig,7,keyword
+W2_000885,1,Kundenservice ist kaum erreichbar,3,keyword
+W2_000896,3,"Kostenloses Konto, faire Preise",1,keyword
+W2_000900,3,Free account and fair prices,1,keyword
+W2_000905,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000907,2,Zinsen sind zu niedrig,7,keyword
+W2_000911,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_000912,3,App ist super einfach,2,keyword
+W2_000916,1,nsdkjfh,8,other
+W2_000919,1,Passt schon,8,other
+W2_000923,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_000928,2,card got blocked abroad twice,6,keyword
+W2_000932,2,Gebuehren steigen staendig,1,keyword
+W2_000933,3,die app ist übersichtlich und schnell,2,keyword
+W2_000937,1,4.90 a month for a card? no thanks,1,keyword
+W2_000943,3,love how simple the app is,2,keyword
+W2_000947,2,worried about security after the phishing mails,4,keyword
+W2_000948,3,"instant transfers, love it",5,keyword
+W2_000955,2,4.90 a month for a card? no thanks,1,keyword
+W2_000961,3,App ist super einfach,2,keyword
+W2_000971,2,nsdkjfh,8,other
+W2_000975,3,nothing special,8,other
+W2_000976,3,I feel my money is safe there,4,keyword
+W2_000978,1,card got blocked abroad twice,6,keyword
+W2_000989,2,too expensive since they added the monhtly fee,1,keyword
+W2_000994,1,Zinsen sind zu niedrig,7,keyword
+W2_001002,2,Mach emir Sorgen um die Sicherheit,4,keyword
+W2_001009,2,Mache mir Sorgen umd ie Sicherheit,4,keyword
+W2_001013,3,Die App ist übersichtlich und schnell,2,keyword
+W2_001024,2,Überweisungen dauern zu lange,5,keyword
+W2_001026,2,chat support never solves anything,3,keyword
+W2_001027,3,Überweisungen sind sofort da,5,keyword
+W2_001029,1,Zinsen sind zu niedrig,7,keyword
+W2_001033,3,Die App ist übersichtlich und schnell,2,keyword
+W2_001041,2,interest rates are too low,7,keyword
+W2_001043,1,zinsen sind zu niedrig,7,keyword
+W2_001050,3,x,8,other
+W2_001052,2,Zinsen sind zu niedrig,7,keyword
+W2_001053,3,love how simple the app is,2,keyword
+W2_001054,3,Gute Karte fuer Reisen,6,keyword
+W2_001057,3,love how simple the app is,2,keyword
+W2_001058,1,Mache mi rSorgen um die Sicherheit,4,keyword
+W2_001060,2,interest rates are too low,7,keyword
+W2_001062,3,App is super easy to use,2,keyword
+W2_001066,3,"instant transfers, love it",5,keyword
+W2_001068,2,waited ages for support,3,keyword
+W2_001080,3,"Kostenloses Konto, faire Preise",1,keyword
+W2_001081,1,hard to find anything in the app,2,keyword
+W2_001083,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_001092,3,Gute Karte fuer Reisen,6,keyword
+W2_001100,3,überweisungen sind sofort da,5,keyword
+W2_001102,2,lange wartezeiten im chat,3,keyword
+W2_001107,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W2_001108,1,karte wurde im ausland gesperrt,6,keyword
+W2_001119,2,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W2_001127,3,"Schneller, freundlicher Kundenservice",3,keyword
+W2_001131,1,worried about security after the phishing mails,4,keyword
+W2_001133,2,Zinsen sind zu niedrig,7,keyword
+W2_001148,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_001152,2,Zinsen sind zu niedrig,7,keyword
+W2_001160,2,transfers take too long,5,keyword
+W2_001166,2,interest rates are too low,7,keyword
+W2_001170,2,Passt schon,8,other
+W2_001175,2,Zinsen sind zu niedrig,7,keyword
+W2_001176,3,App ist super einfach,2,keyword
+W2_001203,2,zu teuer seit der monatlichen gebühr,1,keyword
+W2_001204,2,interest rates are too low,7,keyword
+W2_001213,3,Alles gut,8,other
+W2_001214,2,does what it should,8,other
+W2_001220,1,lange wartezeiten im chat,3,keyword
+W2_001221,3,"Kostenloses Konto, faire Preise",1,keyword
+W2_001223,3,App ist super einfach,2,keyword
+W2_001237,3,"instant transfers, love it",5,keyword
+W2_001244,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W2_001245,2,zinsen sind zu niedrig,7,keyword
+W2_001247,2,Zinsen sind zu niedirg,7,keyword
+W2_001253,1,interest rates are too low,7,keyword
+W2_001267,2,Überweisungen dauern zu lange,5,keyword
+W2_001269,3,Passt schon,8,other
+W2_001278,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_001281,2,app crashes a lot,2,keyword
+W2_001282,2,Zinsen sind zu niedrig,7,keyword
+W2_001285,2,Zinsen sind zu niedrig,7,keyword
+W2_001290,3,jjjjjjj,8,other
+W2_001297,3,Gute Karte fuer Reisen,6,keyword
+W2_001298,3,App is spuer easy to use,2,keyword
+W2_001302,3,love how simple the app is,2,keyword
+W2_001303,1,Nichts Besonderes,8,other
+W2_001307,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_001315,3,App ist super einfach,2,keyword
+W2_001322,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_001330,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W2_001332,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_001337,1,mache mir osrgen um die sicherheit,4,keyword
+W2_001340,1,worried about security after the phishing mails,4,keyword
+W2_001341,3,Die App ist übersichtlich und schnell,2,keyword
+W2_001342,2,zu teuer seit der monatlichen gebühr,1,keyword
+W2_001345,2,1234,8,other
+W2_001346,2,Gebühren steigen ständig,1,keyword
+W2_001367,1,interest rates are too low,7,keyword
+W2_001370,2,Die App ist unuebersichtlich,2,keyword
+W2_001379,1,waited ages for support,3,keyword
+W2_001380,2,Zinsen sind zu niedrig,7,keyword
+W2_001381,1,interest rates are too low,7,keyword
+W2_001383,1,transfers take too long,5,keyword
+W2_001386,1,zu teuer seit der monatlichen gebuehr,1,keyword
+W2_001391,3,App ist super einfach,2,keyword
+W2_001397,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_001398,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_001399,2,Nichts Besonderes,8,other
+W2_001400,2,mache mir sorgen um die sicherheit,4,keyword
+W2_001403,1,Kundenservice ist kaum erreichbar,3,keyword
+W2_001410,2,chat support never solves anything,3,keyword
+W2_001417,2,zinsen sind zu niedirg,7,keyword
+W2_001419,2,fees keep going up,1,keyword
+W2_001420,3,App ist super einfach,2,keyword
+W2_001425,1,good good good,8,other
+W2_001427,3,gute karte für reisen,6,keyword
+W2_001439,2,mache mir sorgen um die sicherheit,4,keyword
+W2_001441,2,worried about security afte rthe phishing mails,4,keyword
+W2_001444,3,x,8,other
+W2_001445,1,...,8,other
+W2_001446,1,x,8,other
+W2_001457,3,...,8,other
+W2_001467,2,Überweisungen dauern zu lange,5,keyword
+W2_001470,2,mache mir sorgen um die sicherheit,4,keyword
+W2_001485,2,too expensive since they added the monthly fee,1,keyword
+W2_001488,1,hard to find anything in the app,2,keyword
+W2_001489,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_001492,3,Passt schon,8,other
+W2_001494,2,Zinsen sind zu niedrig,7,keyword
+W2_001497,2,card got blocked abroad twice,6,keyword
+W2_001498,2,interest rates are too low,7,keyword
+W2_001500,3,love how simple the app is,2,keyword
+W2_001506,3,Free account and fair prices,1,keyword
+W2_001507,3,"instant transfers, love it",5,keyword
+W2_001511,3,App is super easy to use,2,keyword
+W2_001518,2,1234,8,other
+W2_001526,2,Passt schon,8,other
+W2_001533,3,fgfgfg,8,other
+W2_001534,3,Keine versteckten Gebühren,1,keyword
+W2_001537,3,"Schneller, freundlicher Kundenservice",3,keyword
+W2_001543,2,worried about security after the phishing mails,4,keyword
+W2_001546,1,passt schon,8,other
+W2_001552,1,worried about security after the phishing mails,4,keyword
+W2_001562,3,pAp ist super einfach,8,other
+W2_001563,3,jjjjjjj,8,other
+W2_001566,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_001571,1,Zinsen sind zu niedrig,7,keyword
+W2_001578,2,waited ages for support,3,keyword
+W2_001581,3,Keine versteckten Gebühren,1,keyword
+W2_001582,2,waited ages for support,3,keyword
+W2_001588,3,Überweiusngen sind sofort da,5,fuzzy
+W2_001590,3,App ist super einfach,2,keyword
+W2_001591,1,interest rates are too low,7,keyword
+W2_001596,2,Zinsen sind zu niedrig,7,keyword
+W2_001597,3,good good good,8,other
+W2_001601,3,great card for travelling,6,keyword
+W2_001602,2,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W2_001604,3,"Kostenloses Konto, faire Preise",1,keyword
+W2_001608,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_001611,2,qwertz,8,other
+W2_001625,1,Karte wurde im Ausland gesperrt,6,keyword
+W2_001629,2,app crashes a lot,2,keyword
+W2_001630,3,die app ist übersichtlich und cshnell,2,keyword
+W2_001634,1,Lange Wartezeiten im Chat,3,keyword
+W2_001636,1,Nichts Besonderes,8,other
+W2_001643,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_001650,3,Alles gut,8,other
+W2_001654,2,interest rates are too low,7,keyword
+W2_001655,3,Keine versteckten Gebühren,1,keyword
+W2_001661,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_001662,2,chat support never solves anything,3,keyword
+W2_001669,3,Die App ist übersichtlich und schnell,2,keyword
+W2_001673,2,Überweisungen dauern zu lange,5,keyword
+W2_001674,3,App is super easy to use,2,keyword
+W2_001677,2,card got blocked abroad twice,6,keyword
+W2_001680,2,waited ages for support,3,keyword
+W2_001682,3,Überweisungen sind sofort da,5,keyword
+W2_001685,1,interest rates are too low,7,keyword
+W2_001699,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_001709,2,4.90 a month for a card? no thanks,1,keyword
+W2_001710,3,App is super easy to use,2,keyword
+W2_001714,3,Die App ist übersichtlich und schnell,2,keyword
+W2_001718,3,App ist super einfach,2,keyword
+W2_001720,1,card got blocked abroad twice,6,keyword
+W2_001721,3,free account and fair prices,1,keyword
+W2_001723,1,chat support never solves anything,3,keyword
+W2_001724,3,good interest on savings,7,keyword
+W2_001725,3,Die App sit übersichtlich und schnell,2,keyword
+W2_001728,3,quick and friendly support,3,keyword
+W2_001738,1,interest rates are too low,7,keyword
+W2_001750,3,app ist super einfach,2,keyword
+W2_001752,3,ifeel my money is safe there,4,keyword
+W2_001754,3,überweisungen sind sofort da,5,keyword
+W2_001757,3,App is super easy to use,2,keyword
+W2_001759,2,Gebuehren steigen staendig,1,keyword
+W2_001768,3,"instant transfers, love it",5,keyword
+W2_001779,3,Überweisungen sind sofort da,5,keyword
+W2_001787,3,Die App ist übersichtlich und schnell,2,keyword
+W2_001788,2,Mache mir Sorgen um die Sichehreit,4,fuzzy
+W2_001789,2,die app ist unübersichtlich,2,keyword
+W2_001792,2,Zinsen sind zu niedrig,7,keyword
+W2_001793,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_001798,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_001800,1,znisen sind zu niedrig,7,fuzzy
+W2_001808,2,Zinsen sind zu niedrig,7,keyword
+W2_001810,1,Zinsen sind zu niedrig,7,keyword
+W2_001815,3,Die App ist uebersichtlich und schnell,2,keyword
+W2_001816,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_001818,1,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W2_001819,2,...,8,other
+W2_001820,2,gebuehren steigen staendig,1,keyword
+W2_001826,2,its ok,8,other
+W2_001832,1,Überweisungen dauern zu lange,5,keyword
+W2_001836,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_001837,1,Nichts Besonderes,8,other
+W2_001845,1,Zisnen sind zu niedrig,7,fuzzy
+W2_001848,3,"Schneller, freundlicher Kundenservice",3,keyword
+W2_001859,3,I feel my money is safe there,4,keyword
+W2_001869,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W2_001873,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_001875,3,x,8,other
+W2_001878,2,The new card fee is a joke,1,keyword
+W2_001879,3,"Kostenloses Konto, faire Preise",1,keyword
+W2_001884,3,great card for travelling,6,keyword
+W2_001891,3,"Schneller, freundlicher Kundenservice",3,keyword
+W2_001892,3,great card for travelling,6,keyword
+W2_001898,1,Zinsen sind zu niedrig,7,keyword
+W2_001902,3,love how simple the app is,2,keyword
+W2_001903,2,waited ages for support,3,keyword
+W2_001909,3,app is super easy to use,2,keyword
+W2_001926,2,fees keep going up,1,keyword
+W2_001930,2,Gebühren steigen ständig,1,keyword
+W2_001932,2,hard to find anything in the app,2,keyword
+W2_001934,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_001944,3,App is super easy to use,2,keyword
+W2_001945,3,If eel my money is safe there,4,keyword
+W2_001952,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_001969,2,card got blocked abroad twice,6,keyword
+W2_001977,2,1234,8,other
+W2_001980,3,Gute Karte für Reisen,6,keyword
+W2_001983,1,mache mir sorgen um die sicherheit,4,keyword
+W2_001984,2,does what it should,8,other
+W2_001987,2,interest rates are too low,7,keyword
+W2_001999,1,Karte wurde im Ausland gesperrt,6,keyword
+W2_002010,3,Überweisungen sind sofort da,5,keyword
+W2_002013,2,worried about security after the phishing mails,4,keyword
+W2_002015,3,"Ich fühle mich sicher, gute Sicherhietsfunktionen",4,keyword
+W2_002027,3,Passt schon,8,other
+W2_002033,2,1234,8,other
+W2_002036,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002042,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_002044,2,Karte wurde im uAsland gesperrt,6,keyword
+W2_002045,2,Zinsen sindz u niedrig,7,keyword
+W2_002062,3,überweisungen sind sofort da,5,keyword
+W2_002065,3,App is super easy to ues,2,keyword
+W2_002072,2,Zinsen sind zu niedrig,7,keyword
+W2_002074,1,Kundenservice ist akum erreichbar,3,keyword
+W2_002078,1,die neue kartengebühr ist eine frechheit,1,keyword
+W2_002079,3,good good good,8,other
+W2_002090,2,chat support never solves anything,3,keyword
+W2_002091,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_002105,1,passt schon,8,other
+W2_002107,2,Lange Wartezeiten im Chat,3,keyword
+W2_002108,1,Die App ist unuebersichtlich,2,keyword
+W2_002109,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_002111,1,fees keep going up,1,keyword
+W2_002123,3,App is super easy to use,2,keyword
+W2_002130,2,interest rates are too low,7,keyword
+W2_002141,2,Lange Wartezeiten im Chat,3,keyword
+W2_002157,3,Die App ist uebersichtlich und schnell,2,keyword
+W2_002166,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_002168,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_002172,1,Karte wurde im Ausland gesperrt,6,keyword
+W2_002182,2,lange wartezeiten im chat,3,keyword
+W2_002192,2,Lange Wartezeiten im Chat,3,keyword
+W2_002195,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002198,1,Lange Wartezeiten im Chat,3,keyword
+W2_002202,1,karte wurde im ausland gesperrt,6,keyword
+W2_002208,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002213,1,Karte wurde im Ausland gesperrt,6,keyword
+W2_002216,2,app crashes a lot,2,keyword
+W2_002221,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_002227,2,die neue kartengebühr ist eine frechheit,1,keyword
+W2_002229,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W2_002230,2,waited ages for support,3,keyword
+W2_002248,1,Alles gut,8,other
+W2_002254,3,"ich fühle mich sicher, gute sicherheitsfunktionen",4,keyword
+W2_002255,3,"instant transfers, love it",5,keyword
+W2_002259,3,1234,8,other
+W2_002262,2,interest rates are too low,7,keyword
+W2_002265,3,Überweisungen sind sofort da,5,keyword
+W2_002275,2,karte wurde im ausland gesperrt,6,keyword
+W2_002286,3,Gute Zinsen aufs Tagesgeld,7,keyword
+W2_002287,2,fees keep going up,1,keyword
+W2_002290,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002301,2,does what it should,8,other
+W2_002303,3,Gute Zinsen aufs Tagesgeld,7,keyword
+W2_002309,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_002316,1,The new card fee is a joke,1,keyword
+W2_002317,2,Lange Wartezeiten im Chat,3,keyword
+W2_002320,3,überweisungen sind sofort da,5,keyword
+W2_002321,3,"schneller, freundlicher kundenservice",3,keyword
+W2_002325,2,Gebühren steigen ständig,1,keyword
+W2_002326,3,Keine versteckten Gebuehren,1,keyword
+W2_002327,2,Nichts Besonderes,8,other
+W2_002329,3,Alles gut,8,other
+W2_002350,1,App stürzt ständig ab,2,keyword
+W2_002351,3,Gute Zinsen aufs Tagesgeld,7,keyword
+W2_002355,2,worried about security after the phishing mails,4,keyword
+W2_002356,1,-,8,other
+W2_002359,3,Gute Karte für Reisen,6,keyword
+W2_002360,3,Keine versteckten Gebühren,1,keyword
+W2_002366,1,zinsen sind zu niedrig,7,keyword
+W2_002370,1,worried about security after the phishing mails,4,keyword
+W2_002372,3,love how simple the app is,2,keyword
+W2_002377,2,Passt schon,8,other
+W2_002378,2,Überweisungen dauern zu lange,5,keyword
+W2_002387,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_002389,3,App ist super einfach,2,keyword
+W2_002390,1,its ok,8,other
+W2_002395,2,zinsen sind zu niedrig,7,keyword
+W2_002398,3,Überweisungen sind sofort da,5,keyword
+W2_002412,1,card got blocked abroad twice,6,keyword
+W2_002419,3,ok ok ok ok,8,other
+W2_002425,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_002429,2,app stürzt ständig ab,2,keyword
+W2_002437,2,chat support never solves anything,3,keyword
+W2_002438,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_002456,2,nsdkjfh,8,other
+W2_002457,3,Gute Karte fuer Reisen,6,keyword
+W2_002458,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002459,3,oN hidden fees,1,keyword
+W2_002462,1,Lange Wartezeiten im Chat,3,keyword
+W2_002468,2,"4,90 € im monat für die karte, ernsthaft?",1,keyword
+W2_002473,1,interest rates are too low,7,keyword
+W2_002479,3,"Ich fuehle mich sciher, gute Sicherheitsfunktionen",4,keyword
+W2_002480,2,Zinsen sind zu niedrig,7,keyword
+W2_002503,2,Überweisungen dauern zu lange,5,keyword
+W2_002510,3,überweisungen sind sofort da,5,keyword
+W2_002515,3,Überweisungen sind sofort da,5,keyword
+W2_002521,1,interest rates are too low,7,keyword
+W2_002522,2,amche mir sorgen um die sicherheit,4,keyword
+W2_002528,2,Lange Wartezeiten im Chat,3,keyword
+W2_002537,1,waited ages for support,3,keyword
+W2_002540,1,app crashes a lot,2,keyword
+W2_002541,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002543,3,gute zinsen aufs tagesgeld,7,keyword
+W2_002544,3,Ueberweisungen sind sofort da,5,keyword
+W2_002551,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_002553,2,Lange Wartezeiten im Chat,3,keyword
+W2_002560,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_002562,3,jjjjjjj,8,other
+W2_002567,3,Keine versteckten Gebuehren,1,keyword
+W2_002574,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W2_002575,1,The new card fee is a joke,1,keyword
+W2_002576,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W2_002577,3,Gute Zinsen aufs Tagesgeld,7,keyword
+W2_002581,2,Nichts Besonderes,8,other
+W2_002589,2,waited ages for support,3,keyword
+W2_002590,2,4.90 a month for a card? no thanks,1,keyword
+W2_002591,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_002593,3,qwertz,8,other
+W2_002598,2,passt schon,8,other
+W2_002599,1,waited ages for spuport,3,keyword
+W2_002602,3,"instant trasnfers, love it",5,fuzzy
+W2_002603,3,"ich fühle mich sicher, gute sicherheitsfunktionen",4,keyword
+W2_002615,2,4.90 a month for a card? no thanks,1,keyword
+W2_002616,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002627,3,Die App ist übersichtlich und schnell,2,keyword
+W2_002629,3,App ist super einfach,2,keyword
+W2_002632,2,Lange Wartezeiten im Chat,3,keyword
+W2_002641,2,Zinsen sind zu niedrig,7,keyword
+W2_002646,2,chat support never solves anything,3,keyword
+W2_002649,3,app ist super einfach,2,keyword
+W2_002662,3,Gute Karte für Reisen,6,keyword
+W2_002663,2,chat support never solves anything,3,keyword
+W2_002676,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_002684,3,Free account and fair prices,1,keyword
+W2_002697,3,I feel my money is safe there,4,keyword
+W2_002709,3,die app ist übersichtlich und schnell,2,keyword
+W2_002715,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_002716,2,Passt schon,8,other
+W2_002723,3,Überweisungen sind sofort da,5,keyword
+W2_002725,3,tis ok,8,other
+W2_002733,2,passt schon,8,other
+W2_002743,2,fees keep going up,1,keyword
+W2_002746,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_002751,2,Zinsen sind zu niedrig,7,keyword
+W2_002756,3,Ueberweisungen sind sofort da,5,keyword
+W2_002757,1,Karte wurde im Ausland gesperrt,6,keyword
+W2_002758,2,interest rates are too low,7,keyword
+W2_002759,1,fees keep going up,1,keyword
+W2_002760,1,interest rates are too low,7,keyword
+W2_002761,3,"instant transfers, love it",5,keyword
+W2_002768,2,transfers take too long,5,keyword
+W2_002775,1,app crashes a lot,2,keyword
+W2_002776,3,loev how simple the app is,2,keyword
+W2_002784,1,The new card fee is a joke,1,keyword
+W2_002786,3,Alles gut,8,other
+W2_002792,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_002800,1,Karte wurde im Ausland gesperrt,6,keyword
+W2_002801,3,Ueberweisungen sind sofort da,5,keyword
+W2_002806,2,Lange Wartezeiten im Chat,3,keyword
+W2_002807,3,"kostenloses konto, faire preise",1,keyword
+W2_002817,2,Überweisungen dauern zu lange,5,keyword
+W2_002823,1,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W2_002824,2,-,8,other
+W2_002825,2,Zinsen sind zu niedrig,7,keyword
+W2_002830,2,Karte wurde im Ausland gesperrt,6,keyword
+W2_002831,3,Überweisungen sind sofort da,5,keyword
+W2_002835,1,Karte wurde im Auslan dgesperrt,6,keyword
+W2_002837,1,card got blocked abroad twice,6,keyword
+W2_002840,3,App ist usper einfach,2,keyword
+W2_002847,3,I feel my money is safe there,4,keyword
+W2_002852,3,app is super easy to use,2,keyword
+W2_002857,3,Überweisungen sind sofort da,5,keyword
+W2_002859,3,App is super easyt o use,2,keyword
+W2_002860,3,Free account and fair prices,1,keyword
+W2_002864,2,zinsen sind zu niedrig,7,keyword
+W2_002867,3,love how simple the app is,2,keyword
+W2_002869,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W2_002875,2,Zinsen sind zu niedrig,7,keyword
+W2_002883,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W2_002887,2,Gebuehren steigen staendig,1,keyword
+W2_002888,3,no hidden fees,1,keyword
+W2_002890,3,Überweisungen sind sofort da,5,keyword
+W2_002897,2,ok ok ok ok,8,other
+W2_002911,1,worried about security after the phishing mails,4,keyword
+W2_002917,2,interset rates are too low,7,fuzzy
+W2_002918,3,Keine versteckten Gebuehren,1,keyword
+W2_002931,3,App ist super einfach,2,keyword
+W2_002933,3,"Ich fuehle mich sihcer, gute Sicherheitsfunktionen",4,keyword
+W2_002943,3,"Schneller, freundlicher Kundenservice",3,keyword
+W2_002944,2,interest rates are too low,7,keyword
+W2_002950,3,App ist super einfach,2,keyword
+W2_002951,2,Zinsen sind zu niedrig,7,keyword
+W2_002953,1,mache mir sorgen um die sicherheit,4,keyword
+W2_002957,3,i feel my mnoey is safe there,4,keyword
+W2_002967,3,"kostenloses konto, faire preise",1,keyword
+W2_002969,2,jjjjjjj,8,other
+W2_002977,3,"ich fuehle mich sicher, gute sicherheitsfunktionen",4,keyword
+W2_002979,3,ok ok ok ok,8,other
+W2_002984,2,Kundenservice ist kaum erreichbar,3,keyword
+W2_002985,2,transfers take too long,5,keyword
+W3_000008,1,asdf,8,other
+W3_000017,1,waited ages for support,3,keyword
+W3_000018,3,Passt schon,8,other
+W3_000019,1,nothing special,8,other
+W3_000024,3,i feel my money is safe there,4,keyword
+W3_000025,2,good good good,8,other
+W3_000031,1,fees keep going up,1,keyword
+W3_000033,3,Die App ist übersichtlich und schnell,2,keyword
+W3_000043,2,Zinsen sind zu niedrig,7,keyword
+W3_000044,2,x,8,other
+W3_000050,3,"instan ttransfers, love it",5,keyword
+W3_000051,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_000053,3,easy to set up an etf savings plan,7,keyword
+W3_000059,2,waited ages for support,3,keyword
+W3_000064,3,alles gut,8,other
+W3_000065,2,Lange Wartezeiten im Chat,3,keyword
+W3_000068,3,Passt schon,8,other
+W3_000073,1,4.90 a month for a card? no htanks,1,keyword
+W3_000078,3,die app ist übersichtlich und schnell,2,keyword
+W3_000084,2,zinsen sind zu niedrig,7,keyword
+W3_000090,1,Gebuehren steigen staendig,1,keyword
+W3_000092,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W3_000094,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_000096,2,investing options are limited,7,keyword
+W3_000109,1,Zinsen sind zu niedrig,7,keyword
+W3_000114,1,mache mir sorgen um die sicherheit,4,keyword
+W3_000121,2,interest rates aer too low,7,keyword
+W3_000122,1,Zinsen sind zu niedrig,7,keyword
+W3_000124,2,Zinsen sind zu niedrig,7,keyword
+W3_000125,2,karte wurde im ausland gesperrt,6,keyword
+W3_000129,3,App ist super einfach,2,keyword
+W3_000138,1,...,8,other
+W3_000152,2,worried about security after the phishing mails,4,keyword
+W3_000155,1,Kundenservice is tkaum erreichbar,3,keyword
+W3_000157,2,nothing special,8,other
+W3_000160,2,card got blocked abroad twice,6,keyword
+W3_000162,2,Lange Wartezeiten im Chta,3,keyword
+W3_000165,3,App ist super einfach,2,keyword
+W3_000166,1,Überweisungen dauern zu lange,5,keyword
+W3_000167,1,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_000168,1,investing options are limited,7,keyword
+W3_000182,3,"instant transfers, love it",5,keyword
+W3_000186,3,love how simple the app is,2,keyword
+W3_000193,2,investing options are limited,7,keyword
+W3_000195,3,Überweisungen sind sofort da,5,keyword
+W3_000196,2,interest rates are too low,7,keyword
+W3_000199,1,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_000200,2,kundenservice ist kaum erreichbar,3,keyword
+W3_000201,3,Die App ist übersichtlich und schnell,2,keyword
+W3_000205,1,Gebühren steigen ständig,1,keyword
+W3_000218,2,interest rates are too low,7,keyword
+W3_000220,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_000222,1,Gebühren steigen ständig,1,keyword
+W3_000223,2,Gebühren steigen ständig,1,keyword
+W3_000224,2,chat support never solves anything,3,keyword
+W3_000231,2,zinsen sind zu niedrig,7,keyword
+W3_000240,2,its ok,8,other
+W3_000243,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_000257,1,chat support never solves anything,3,keyword
+W3_000259,3,App is super easy to use,2,keyword
+W3_000263,2,nichts besonderes,8,other
+W3_000266,3,Nichts Besonderes,8,other
+W3_000277,2,Zinsen sind zu niedrig,7,keyword
+W3_000280,1,Lange Wartezeiten im Chat,3,keyword
+W3_000286,1,App stürzt ständig ab,2,keyword
+W3_000287,1,interest rates are too low,7,keyword
+W3_000288,2,die app ist unuebersichtlich,2,keyword
+W3_000290,1,Lange Wartezeiten im Chat,3,keyword
+W3_000292,3,I feel my money is safe there,4,keyword
+W3_000298,2,chat support never solves anything,3,keyword
+W3_000329,3,nichts besonderes,8,other
+W3_000330,2,Zinsen sind zu niedrig,7,keyword
+W3_000344,2,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_000356,1,fees ekep going up,1,keyword
+W3_000359,3,überweisungen sind sofort da,5,keyword
+W3_000360,1,Kundenservice ist kaum erreichbar,3,keyword
+W3_000367,2,gebuehren steigen staendig,1,keyword
+W3_000368,3,Überweisungen sind sofort da,5,keyword
+W3_000369,2,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_000370,1,interest rates are too low,7,keyword
+W3_000378,1,Alles gut,8,other
+W3_000383,2,hard to find anything in the app,2,keyword
+W3_000384,2,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W3_000391,1,4.90 a month for a card? no thanks,1,keyword
+W3_000412,3,Gute Karte für Reisen,6,keyword
+W3_000422,2,Alles gut,8,other
+W3_000424,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_000446,3,"Schneller, freundlicher Kundenservice",3,keyword
+W3_000447,3,nsdkjfh,8,other
+W3_000451,2,überweisungen dauern zu lange,5,keyword
+W3_000453,1,Zinsen sidn zu niedrig,7,keyword
+W3_000466,1,4.90 a month for a card? no thanks,1,keyword
+W3_000470,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_000472,2,too expensive since they added the monthly fee,1,keyword
+W3_000475,1,too expensive since they added the monthly fee,1,keyword
+W3_000483,2,its ok,8,other
+W3_000484,3,No hidden fees,1,keyword
+W3_000488,3,Gute Karte für Reisen,6,keyword
+W3_000490,3,"Kostenloses Konto, faire Preise",1,keyword
+W3_000492,2,nsdkjfh,8,other
+W3_000505,3,"instant transfers, love it",5,keyword
+W3_000507,2,app crashes a lot,2,keyword
+W3_000514,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_000517,2,nohting special,8,other
+W3_000523,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_000524,1,qwertz,8,other
+W3_000527,3,eas yto set up an ETF savings plan,7,keyword
+W3_000537,1,app crashes a lot,2,keyword
+W3_000543,1,kundenservice ist kaum erreichabr,3,keyword
+W3_000559,2,transfers take too long,5,keyword
+W3_000564,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_000565,3,Ap pist super einfach,8,other
+W3_000566,1,Passt schon,8,other
+W3_000569,1,Karte wurde im Ausland gesperrt,6,keyword
+W3_000579,2,Lange Wartezeiten im Chat,3,keyword
+W3_000580,3,Die App ist übersichtlich und schnell,2,keyword
+W3_000585,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_000595,3,App ist super einfach,2,keyword
+W3_000599,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_000602,3,I feel my money is safe there,4,keyword
+W3_000605,3,I feel my money is safe there,4,keyword
+W3_000606,2,Zinsen sind zu niedrig,7,keyword
+W3_000613,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_000619,3,"schneller, freundlicher kundenservice",3,keyword
+W3_000620,2,chat support never solves anything,3,keyword
+W3_000622,3,does whati t should,8,other
+W3_000624,3,Die App ist übersichtlich und schnell,2,keyword
+W3_000629,1,zu wenig anlagemöglichkeiten,7,keyword
+W3_000631,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_000636,3,app ist super einfach,2,keyword
+W3_000638,2,Zinsen sind zu niedrig,7,keyword
+W3_000643,3,I feel my money is safe there,4,keyword
+W3_000647,1,Nichts Beosnderes,8,other
+W3_000655,3,"Ich fühle mich sichre, gute Sicherheitsfunktionen",4,keyword
+W3_000663,2,investing options are limited,7,keyword
+W3_000665,3,Gute Karte für Reisen,6,keyword
+W3_000666,2,Gebühren steigen ständig,1,keyword
+W3_000669,2,interest rates are too low,7,keyword
+W3_000675,2,Zinsen sind zu niderig,7,keyword
+W3_000688,2,nothing special,8,other
+W3_000711,2,card got blocked abroad twice,6,keyword
+W3_000712,2,chat support never solves anything,3,keyword
+W3_000716,3,App is super easy to use,2,keyword
+W3_000718,2,chat support never solves anything,3,keyword
+W3_000720,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_000722,2,4.90 a month for a card? no thanks,1,keyword
+W3_000728,3,App ist super einfach,2,keyword
+W3_000729,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_000736,3,Alles gut,8,other
+W3_000739,2,notihng special,8,other
+W3_000740,3,"ich fühle mich sicher, gute sicherheitsfunktionen",4,keyword
+W3_000743,1,4.90 a month for a card? no thanks,1,keyword
+W3_000746,1,üebrweisungen dauern zu lange,5,fuzzy
+W3_000750,2,qwertz,8,other
+W3_000753,3,App is super easy to use,2,keyword
+W3_000755,2,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_000757,3,Gute Zinsen aufs Tagesgeld,7,keyword
+W3_000761,2,zinsen sind zu niedrig,7,keyword
+W3_000762,2,Lange Wartezeiten im Chat,3,keyword
+W3_000771,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_000774,2,worried about security after the phishing mails,4,keyword
+W3_000775,3,Überweisungen sind sofort da,5,keyword
+W3_000781,3,its ok,8,other
+W3_000782,2,1234,8,other
+W3_000786,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_000792,1,Gebühren steigen ständig,1,keyword
+W3_000795,2,investing options are limited,7,keyword
+W3_000806,3,"Schneller, freundlicher Kundenservice",3,keyword
+W3_000807,3,Passt schon,8,other
+W3_000813,1,4.90 a month for a card? no thanks,1,keyword
+W3_000816,3,Überweisungen sind sofort da,5,keyword
+W3_000820,3,Die App ist übersichtlich udn schnell,2,keyword
+W3_000821,3,"instant transfers, love it",5,keyword
+W3_000823,1,Karte wurde im Ausland gesperrt,6,keyword
+W3_000830,3,Die App ist übersichtlich und schnell,2,keyword
+W3_000852,1,Zinsen sind zu niedrig,7,keyword
+W3_000855,2,transfers take too long,5,keyword
+W3_000860,3,"Kostenloses Konto, faire Preise",1,keyword
+W3_000873,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_000874,2,Gebühren steigen ständig,1,keyword
+W3_000880,3,Die App ist übersichtlich und schnell,2,keyword
+W3_000883,1,fees keep going up,1,keyword
+W3_000884,2,ok ok ok ok,8,other
+W3_000885,2,Zinsen sind zu niedrig,7,keyword
+W3_000898,2,The new card fee is a joke,1,keyword
+W3_000899,2,card got blocked abroad twice,6,keyword
+W3_000907,1,investing options are limited,7,keyword
+W3_000917,3,"instant transfers, love it",5,keyword
+W3_000918,3,Die App ist übersichtlich und schnell,2,keyword
+W3_000923,2,too expensive since they added the monthly fee,1,keyword
+W3_000924,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_000926,1,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W3_000929,1,investing options are limited,7,keyword
+W3_000930,1,Zu teuer seit der monatlicehn Gebuehr,1,keyword
+W3_000936,2,worried about security after the phishing mails,4,keyword
+W3_000937,2,Zinsen sind zu niedrig,7,keyword
+W3_000943,3,Gute Kartef uer Reisen,6,keyword
+W3_000947,1,transfers take tool ong,5,keyword
+W3_000949,3,does what it should,8,other
+W3_000952,2,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W3_000953,1,Lange Wartezeiten im Chat,3,keyword
+W3_000955,2,Ueberweisungen dauern zu lange,5,keyword
+W3_000956,3,No hidden fees,1,keyword
+W3_000957,2,Gebühren steigen stnädig,1,keyword
+W3_000966,3,fgfgfg,8,other
+W3_000967,1,chat support never solves aynthing,3,keyword
+W3_000968,2,Zinsen sind zu niedrig,7,keyword
+W3_000972,1,interest rates are too low,7,keyword
+W3_000976,2,-,8,other
+W3_000978,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_000982,2,Überweisungen dauern zu lange,5,keyword
+W3_000986,2,lange wartezeiten im chat,3,keyword
+W3_000987,2,interest rates are too low,7,keyword
+W3_000990,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_000999,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_001000,2,transfers take too long,5,keyword
+W3_001003,3,its ok,8,other
+W3_001014,2,4.90 a month for a card? no thanks,1,keyword
+W3_001023,2,interest rates are too low,7,keyword
+W3_001029,1,chat support never solves anything,3,keyword
+W3_001033,1,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W3_001034,3,Passt schon,8,other
+W3_001039,2,zinsen sind zu niedrig,7,keyword
+W3_001044,2,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_001052,3,App is super easy to use,2,keyword
+W3_001056,3,App ist super einfach,2,keyword
+W3_001059,2,lales gut,8,other
+W3_001062,3,does what it should,8,other
+W3_001069,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_001074,2,-,8,other
+W3_001075,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001078,2,card got blocked abroad twice,6,keyword
+W3_001081,1,investing options are limited,7,keyword
+W3_001084,2,Lange Wartezeiten im Chat,3,keyword
+W3_001089,3,ETF-Sparlpan ganz einfach,7,keyword
+W3_001096,1,ok ok ok ok,8,other
+W3_001111,2,Die App ist unuebersichtlich,2,keyword
+W3_001116,3,"Schneller, freundlicher Kundenservice",3,keyword
+W3_001119,1,gebuehren steigen staendig,1,keyword
+W3_001120,2,4.90 a month for a card? no thanks,1,keyword
+W3_001122,1,investing options are limited,7,keyword
+W3_001125,3,Überweisungen sind sofort da,5,keyword
+W3_001126,3,die app ist übersichtlich und schnell,2,keyword
+W3_001129,2,inetrest rates are too low,7,fuzzy
+W3_001132,1,fgfgfg,8,other
+W3_001133,3,Die App ist uebersichtlich und schnell,2,keyword
+W3_001140,1,investing options are limited,7,keyword
+W3_001142,2,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W3_001149,1,waited ages for support,3,keyword
+W3_001160,2,fees keep going up,1,keyword
+W3_001161,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001162,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_001169,3,"isntant transfers, love it",5,keyword
+W3_001170,2,investing options are limited,7,keyword
+W3_001181,2,does what it should,8,other
+W3_001186,1,fees keep going up,1,keyword
+W3_001190,1,Zinsen sind zu niedrig,7,keyword
+W3_001201,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_001202,3,Alles gut,8,other
+W3_001204,3,Überweisungen sind sofort da,5,keyword
+W3_001210,2,Zinsen sind zu niedrig,7,keyword
+W3_001226,2,Die neue Kartengebuehr ist ein eFrechheit,1,keyword
+W3_001234,3,"instant transfers, love it",5,keyword
+W3_001237,1,good good good,8,other
+W3_001238,3,Guet Karte für Reisen,6,keyword
+W3_001239,1,Zinsen sind zu nierdig,7,keyword
+W3_001247,2,Zinsen sind zu niedrig,7,keyword
+W3_001249,2,card got blocked abroad twice,6,keyword
+W3_001251,3,easy to set up an ETF savings plan,7,keyword
+W3_001256,2,Lange Wartezeiten im Chat,3,keyword
+W3_001260,2,waited ages for support,3,keyword
+W3_001261,1,Lange Wartezeiten im Chat,3,keyword
+W3_001267,1,x,8,other
+W3_001269,3,-,8,other
+W3_001270,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001290,1,interest rates are too low,7,keyword
+W3_001292,2,"4,90 € im mona tfür die karte, ernsthaft?",1,keyword
+W3_001295,2,chat support never solves anything,3,keyword
+W3_001303,3,Überweisungen sind sofort da,5,keyword
+W3_001305,3,I feel my money is safe there,4,keyword
+W3_001306,1,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_001309,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_001310,1,interest rates are too low,7,keyword
+W3_001311,1,Nichts Besonderes,8,other
+W3_001314,3,free account and fair prices,1,keyword
+W3_001315,2,4.90 a month for a card? no thanks,1,keyword
+W3_001316,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_001317,2,Zinsen sind zu niedrig,7,keyword
+W3_001328,1,Kundenservice ist kaum erreichbar,3,keyword
+W3_001336,3,Nichts Besonderes,8,other
+W3_001345,2,nothing special,8,other
+W3_001356,3,"Schneller, freundlicher Kundenservice",3,keyword
+W3_001359,3,"Ich fühle mcih sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001364,3,Die App ist uebersichtlich und schnell,2,keyword
+W3_001365,3,i feel my money is safe there,4,keyword
+W3_001366,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_001369,3,App ist super einfach,2,keyword
+W3_001370,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_001377,1,chat support never solves anything,3,keyword
+W3_001385,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_001388,1,chat support never solves anything,3,keyword
+W3_001390,3,App ist super einfach,2,keyword
+W3_001397,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_001399,3,pAp is super easy to use,8,other
+W3_001412,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_001413,2,Überweisungen dauern zu lange,5,keyword
+W3_001415,2,zinsen sind zu niedrig,7,keyword
+W3_001416,2,Nichts Besonderes,8,other
+W3_001422,1,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_001426,1,4.90 a month for a card? no thanks,1,keyword
+W3_001436,3,fgfgfg,8,other
+W3_001440,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001445,1,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W3_001452,3,"instant transfers, love it",5,keyword
+W3_001453,2,lange wartezeiten im chat,3,keyword
+W3_001454,2,Lange Wartezeiten im Chat,3,keyword
+W3_001463,3,Alles gut,8,other
+W3_001467,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W3_001468,3,Ueberweisungen sind sofortd a,5,keyword
+W3_001472,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001477,2,Zinsen sind zu niedrig,7,keyword
+W3_001479,2,Zinsen sind zu niedrig,7,keyword
+W3_001487,2,interest rates are too low,7,keyword
+W3_001491,3,Gute Karte für Reisen,6,keyword
+W3_001509,2,jjjjjjj,8,other
+W3_001515,2,waited ages for support,3,keyword
+W3_001526,3,Überweisungen sind sofort da,5,keyword
+W3_001534,1,chat support never solves anything,3,keyword
+W3_001536,3,great card for travelling,6,keyword
+W3_001541,3,Ueberweisungen sind sofort da,5,keyword
+W3_001548,2,waited ages for support,3,keyword
+W3_001552,2,Zinsen sind zu niedrig,7,keyword
+W3_001556,3,I feel my money is safe there,4,keyword
+W3_001560,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001569,2,Überweisungen dauern zu lange,5,keyword
+W3_001571,1,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W3_001572,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_001575,1,Zinsen sind zu niedrig,7,keyword
+W3_001579,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001582,1,Lange Wartezeiten im Chat,3,keyword
+W3_001583,3,jjjjjjj,8,other
+W3_001585,1,chat support never solves anything,3,keyword
+W3_001586,3,nichtsb esonderes,8,other
+W3_001588,2,waited ages for support,3,keyword
+W3_001590,3,die app ist übersichtlich und schnell,2,keyword
+W3_001594,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001595,2,Karet wurde im Ausland gesperrt,6,fuzzy
+W3_001598,3,great card for travelling,6,keyword
+W3_001611,3,etf-sparplan ganz einfach,7,keyword
+W3_001613,2,fgfgfg,8,other
+W3_001615,3,ok ok ok ok,8,other
+W3_001623,1,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W3_001624,2,Die App ist unuebersichtlich,2,keyword
+W3_001626,1,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W3_001628,3,Die App ist uebersichtlich und schnell,2,keyword
+W3_001638,2,investing otpions are limited,7,keyword
+W3_001647,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_001652,3,App ist super einfach,2,keyword
+W3_001657,2,card got blocked abroad twice,6,keyword
+W3_001661,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_001662,1,The new card fee is a joke,1,keyword
+W3_001664,2,chat support never solves anything,3,keyword
+W3_001669,3,-,8,other
+W3_001671,1,Zu teuer seit der monatlichen Gebühr,1,keyword
+W3_001676,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_001677,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001680,3,App ist super einfach,2,keyword
+W3_001688,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001692,2,card got blocked abroad twice,6,keyword
+W3_001695,3,Ueberweisungen sind sofort da,5,keyword
+W3_001699,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001700,1,The new card fee is a joke,1,keyword
+W3_001705,1,waited ages for support,3,keyword
+W3_001715,1,Alles gut,8,other
+W3_001717,1,Passt schon,8,other
+W3_001719,2,kundenservice ist kaum erreichbar,3,keyword
+W3_001724,2,zu wenig anlagemöglichkeiten,7,keyword
+W3_001729,3,Nichts Besonderes,8,other
+W3_001745,1,interest rates are too low,7,keyword
+W3_001754,2,Lange Wartezeiten im Chat,3,keyword
+W3_001779,2,Lange Wartezeiten im Chat,3,keyword
+W3_001783,2,waited ages for support,3,keyword
+W3_001789,3,Alles gtu,8,other
+W3_001792,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001794,2,nichts besonderes,8,other
+W3_001795,3,Gute Karte für Reisen,6,keyword
+W3_001800,1,interest rates are too low,7,keyword
+W3_001804,2,worried about security after the phishing mails,4,keyword
+W3_001817,1,does what it should,8,other
+W3_001820,3,App ist super einfach,2,keyword
+W3_001822,3,fgfgfg,8,other
+W3_001824,1,Kundenservice ist kaum erreichbar,3,keyword
+W3_001834,1,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W3_001840,2,The new card fee is a joke,1,keyword
+W3_001844,3,love how simple the app is,2,keyword
+W3_001851,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001854,1,interest rates are too low,7,keyword
+W3_001855,1,fees keep going up,1,keyword
+W3_001856,1,Die App ist unuebersichtlich,2,keyword
+W3_001858,3,Überweisungen sind sofort da,5,keyword
+W3_001861,3,Nichts Besonderes,8,other
+W3_001871,2,interest rates are too low,7,keyword
+W3_001872,2,transfers take too long,5,keyword
+W3_001876,1,Alles gut,8,other
+W3_001879,2,nothing special,8,other
+W3_001881,2,Alles gut,8,other
+W3_001884,2,Lange Wartezeiten im Chat,3,keyword
+W3_001885,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_001889,3,App is super easy to use,2,keyword
+W3_001892,3,Überweisungen sind sofort da,5,keyword
+W3_001895,1,4.90 a month for a card? no thanks,1,keyword
+W3_001905,1,waited ages for support,3,keyword
+W3_001909,2,card got bolcked abroad twice,6,keyword
+W3_001914,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001919,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_001926,1,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W3_001930,3,easy to set up an ETF savings plan,7,keyword
+W3_001931,2,interest rates are too low,7,keyword
+W3_001935,3,Ueberweisungen sind sofort da,5,keyword
+W3_001939,3,Ueberweisungen sind sofort da,5,keyword
+W3_001941,3,jjjjjjj,8,other
+W3_001942,2,its ok,8,other
+W3_001947,3,App ist super einfach,2,keyword
+W3_001955,2,Zinsen sind zu niedrig,7,keyword
+W3_001956,3,Nichts Besonderes,8,other
+W3_001957,2,Alles gut,8,other
+W3_001958,2,Zinsen sind zu niedrig,7,keyword
+W3_001960,3,Passt schon,8,other
+W3_001965,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_001967,2,fees keep going up,1,keyword
+W3_001969,1,Zinsen sind zu niedrig,7,keyword
+W3_001975,1,"4,90 € im monat für die karte, ernsthaft?",1,keyword
+W3_001979,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001981,2,The new card fee is a joke,1,keyword
+W3_001984,3,Die App ist übersichtlich und schnell,2,keyword
+W3_001993,1,Zu teuer seit der monatlichen Gbeühr,1,keyword
+W3_001994,1,worried about security after the phishing mails,4,keyword
+W3_001999,3,nothing special,8,other
+W3_002000,2,does what it should,8,other
+W3_002016,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W3_002017,1,Zinsen sind zu niedrig,7,keyword
+W3_002018,2,fees keep going up,1,keyword
+W3_002019,2,-,8,other
+W3_002021,2,too expensive since they added the monthly fee,1,keyword
+W3_002023,2,zinsen sind zu niedrig,7,keyword
+W3_002026,1,card got blocked abroad twice,6,keyword
+W3_002027,2,Alles gut,8,other
+W3_002029,3,quick and friendly support,3,keyword
+W3_002036,2,lange wartezeiten im chat,3,keyword
+W3_002042,2,Zinsen sind zu niedrig,7,keyword
+W3_002049,1,Nichts Besonderes,8,other
+W3_002060,3,1234,8,other
+W3_002065,3,Überweisungen sind sofort da,5,keyword
+W3_002066,2,Gebühren steigen ständig,1,keyword
+W3_002067,1,Zinsen sind zu niedrig,7,keyword
+W3_002068,2,interest rates are too low,7,keyword
+W3_002075,3,I feel my money is safe tehre,4,keyword
+W3_002083,3,Die App ist übersichtlich und schnell,2,keyword
+W3_002085,3,Die App ist übersichtlich und schnell,2,keyword
+W3_002092,2,Zinsen sind zu niedrig,7,keyword
+W3_002099,3,easy to set up an ETF savings plan,7,keyword
+W3_002101,2,zu teuer seit der monatlichen gebuehr,1,keyword
+W3_002105,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_002110,3,love how simple the app is,2,keyword
+W3_002111,2,Lange Wartezeiten im Chat,3,keyword
+W3_002121,2,worried about security after the phishing mails,4,keyword
+W3_002131,1,chat support never solves anything,3,keyword
+W3_002138,1,App stürzt ständig ab,2,keyword
+W3_002140,2,waited ages for support,3,keyword
+W3_002141,1,zu wenig anlagemoeglichkeiten,7,keyword
+W3_002160,2,investing options are limited,7,keyword
+W3_002161,2,hard to find anything in the app,2,keyword
+W3_002167,1,kundenservice ist kaum rereichbar,3,keyword
+W3_002171,1,Mache mi rSorgen um die Sicherheit,4,keyword
+W3_002173,2,-,8,other
+W3_002178,1,Kundenservice ist kaum erreichbar,3,keyword
+W3_002179,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_002183,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W3_002189,3,überweisungen sidn sofort da,5,keyword
+W3_002191,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W3_002192,1,interest rates ar etoo low,7,keyword
+W3_002197,2,Passt schon,8,other
+W3_002202,3,Gute Karte für Reisen,6,keyword
+W3_002206,2,Lange Wartezeiten im Chat,3,keyword
+W3_002207,2,Überweisungen dauern zu lange,5,keyword
+W3_002224,3,App ist super einfach,2,keyword
+W3_002230,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_002233,3,Überweisungen sind sofort da,5,keyword
+W3_002241,2,Nichts Besonderes,8,other
+W3_002245,1,Zinsen sind zu niedrig,7,keyword
+W3_002246,3,Ueberweisungen sind sofort da,5,keyword
+W3_002247,1,Kundenservice ist kaum erreichbar,3,keyword
+W3_002249,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W3_002250,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_002252,3,Alles gut,8,other
+W3_002257,3,its ok,8,other
+W3_002258,1,App stürzt ständig ab,2,keyword
+W3_002263,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_002267,3,easy to set up an ETF savings plan,7,keyword
+W3_002285,3,"instant transfers, love it",5,keyword
+W3_002290,3,App ist super einfach,2,keyword
+W3_002298,3,nothing special,8,other
+W3_002304,3,App is super easy to use,2,keyword
+W3_002308,3,"instant transfers, love it",5,keyword
+W3_002313,3,olve how simple the app is,2,keyword
+W3_002317,3,itso k,8,other
+W3_002329,1,4.90 a month for a card? no thanks,1,keyword
+W3_002332,1,Zinsen sind zu niedrig,7,keyword
+W3_002334,1,Nichts Besonderes,8,other
+W3_002335,3,passt schon,8,other
+W3_002336,2,interest rates are too low,7,keyword
+W3_002338,2,Zinsen sind zu niedrig,7,keyword
+W3_002339,3,App ist super einfach,2,keyword
+W3_002344,2,"4,90 € im Monat für die Kart,e ernsthaft?",1,keyword
+W3_002346,1,Zu wenig Anlagemöglcihkeiten,7,keyword
+W3_002347,1,Kundenservice ist kaum erreichbar,3,keyword
+W3_002351,3,easy to set up an ETF savings plan,7,keyword
+W3_002368,1,waited ages for support,3,keyword
+W3_002374,3,-,8,other
+W3_002380,2,transfers take too long,5,keyword
+W3_002383,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_002391,2,Zu wenig Anlagemoeglichkeiten,7,keyword
+W3_002399,3,ETF-Sparplan ganz einfach,7,keyword
+W3_002402,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_002406,2,too expensive since they added the monthly fee,1,keyword
+W3_002410,3,No hidden fees,1,keyword
+W3_002421,2,card got blocked abroad twice,6,keyword
+W3_002424,1,app crashes a lot,2,keyword
+W3_002431,1,its ok,8,other
+W3_002433,1,Alles gut,8,other
+W3_002438,2,Zu teuer siet der monatlichen Gebuehr,1,keyword
+W3_002442,3,"instant transfers, love it",5,keyword
+W3_002443,1,4.90 a month for a card? no thanks,1,keyword
+W3_002449,3,love how simple the app is,2,keyword
+W3_002452,2,Lange Wartezeiten im Chat,3,keyword
+W3_002454,1,Lange Wartezeiten im Chat,3,keyword
+W3_002456,2,investing options are limited,7,keyword
+W3_002459,1,its ok,8,other
+W3_002464,1,app crasehs a lot,2,keyword
+W3_002469,1,Zinsen sind zu niedrig,7,keyword
+W3_002470,2,does what it should,8,other
+W3_002471,2,waited ages for support,3,keyword
+W3_002472,1,hard to find anything in the app,2,keyword
+W3_002477,3,i feel my money is safe there,4,keyword
+W3_002486,1,Lange Wartezeiten im Chat,3,keyword
+W3_002496,1,card got blocked abroad twice,6,keyword
+W3_002497,2,card got blocked abroad twice,6,keyword
+W3_002501,2,Lange Wartezeiten im Chat,3,keyword
+W3_002503,1,Passt schon,8,other
+W3_002504,2,interest rates are too low,7,keyword
+W3_002507,1,too expensive since they added the monthly fee,1,keyword
+W3_002526,2,Zinsen sind zu niedrig,7,keyword
+W3_002527,1,Gebuehren steigen staendig,1,keyword
+W3_002537,2,card got blocked abroad twice,6,keyword
+W3_002553,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_002559,2,feesk eep going up,8,other
+W3_002561,2,fgfgfg,8,other
+W3_002562,2,Gebühren steigen ständig,1,keyword
+W3_002567,2,Gebuehren steigen staendig,1,keyword
+W3_002575,2,too expensive since they added the monthly fee,1,keyword
+W3_002578,1,Zinsen sind zu niedrig,7,keyword
+W3_002580,2,Karte wurde im Ausland gesperrt,6,keyword
+W3_002582,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_002585,2,card got blocked abroad twcie,6,keyword
+W3_002587,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_002589,2,fgfgfg,8,other
+W3_002596,1,does what it should,8,other
+W3_002599,3,Überweisungen sind sofort da,5,keyword
+W3_002606,2,Gebühren steigen ständig,1,keyword
+W3_002607,2,worried about security after the phishing mails,4,keyword
+W3_002618,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_002619,2,waited ages for support,3,keyword
+W3_002621,2,Passt schon,8,other
+W3_002622,1,too expensive since they added the monthly fee,1,keyword
+W3_002623,1,zinsen sind zu niedrig,7,keyword
+W3_002628,3,Gute Karte für Reisen,6,keyword
+W3_002632,2,waited ages for support,3,keyword
+W3_002633,2,...,8,other
+W3_002662,1,Lange Wartezeiten im Chat,3,keyword
+W3_002666,3,"instant transfers, love it",5,keyword
+W3_002671,3,ETF-Sparplan ganz einfach,7,keyword
+W3_002674,2,interest rates are too low,7,keyword
+W3_002675,2,Zu teuer seit der monatlichen Gbeühr,1,keyword
+W3_002683,3,Gute Karte für Reisen,6,keyword
+W3_002684,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_002685,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W3_002691,3,1234,8,other
+W3_002695,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_002696,3,Gute Karte für Reisen,6,keyword
+W3_002706,2,Alles gut,8,other
+W3_002713,2,worried about security after the phishing mails,4,keyword
+W3_002721,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_002731,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_002735,3,"instant transfers, love it",5,keyword
+W3_002737,3,Keine versteckten Gebuehren,1,keyword
+W3_002741,1,waited ages for support,3,keyword
+W3_002743,3,"instant transfers, love it",5,keyword
+W3_002745,3,Ueberweisungen sind sofort da,5,keyword
+W3_002747,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W3_002748,3,Die App ist übersichtlich und schnell,2,keyword
+W3_002750,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W3_002756,1,its ok,8,other
+W3_002763,1,The new card fee is a joke,1,keyword
+W3_002770,2,investing options are limited,7,keyword
+W3_002779,1,Zinsen sind zu niedrgi,7,keyword
+W3_002786,2,x,8,other
+W3_002791,3,Überweisungen sind sofort da,5,keyword
+W3_002804,2,Gebühren steigen ständig,1,keyword
+W3_002811,2,card got blocked abroad twice,6,keyword
+W3_002819,2,Lange Wartezeiten im Chat,3,keyword
+W3_002831,2,Zinsen sind zu niedrig,7,keyword
+W3_002838,1,chat support never solves anything,3,keyword
+W3_002839,1,The new card fee is a joke,1,keyword
+W3_002847,3,ueberweisungen sind sofort da,5,keyword
+W3_002849,2,...,8,other
+W3_002855,2,card got blocked abroad twice,6,keyword
+W3_002858,2,Lange Wartezeiten im Chat,3,keyword
+W3_002860,1,Karte wurde im Ausland gesperrt,6,keyword
+W3_002861,1,interest rates are too low,7,keyword
+W3_002872,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W3_002873,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W3_002874,1,Kundenservice ist kaum erreichbar,3,keyword
+W3_002884,2,...,8,other
+W3_002886,1,interest rates are too low,7,keyword
+W3_002888,3,Die App ist übersichtlich und schnell,2,keyword
+W3_002898,2,Überweisungen dauern zu lange,5,keyword
+W3_002902,2,Zinsen sind zu niedrig,7,keyword
+W3_002922,3,Überweisungen sind sofort da,5,keyword
+W3_002923,3,ueberwiesungen sind sofort da,5,fuzzy
+W3_002934,2,The new card fee is a joke,1,keyword
+W3_002935,3,"ich fühle mich sicher, gute sicherheitsfunktionen",4,keyword
+W3_002939,2,Kundenservice ist kaum erreichbar,3,keyword
+W3_002952,3,ETF-Sparplan ganz einfach,7,keyword
+W3_002954,3,app is super easy to use,2,keyword
+W3_002955,2,Überweisungen dauern zu lange,5,keyword
+W3_002964,2,Alles gut,8,other
+W3_002970,2,does what it should,8,other
+W3_002975,2,investing options are limited,7,keyword
+W3_002976,2,The new card fee is a joke,1,keyword
+W3_002981,3,nothing special,8,other
+W3_002988,3,"instant transfers, love it",5,keyword
+W3_002989,1,interest rates are too low,7,keyword
+W3_002993,2,waited ages for support,3,keyword
+W4_000002,2,nichts besonderes,8,other
+W4_000019,2,the new card fee is a joke,1,keyword
+W4_000023,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000035,2,investing options are limited,7,keyword
+W4_000036,3,App ist super einfach,2,keyword
+W4_000038,3,App ist super einfach,2,keyword
+W4_000039,1,Zinsen sind zu niedrig,7,keyword
+W4_000049,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_000055,2,card got blocked abroad twiec,6,keyword
+W4_000060,2,Zinsen sind zu niedrig,7,keyword
+W4_000067,2,Zinsen sind zu niedrig,7,keyword
+W4_000069,2,investing options are limited,7,keyword
+W4_000070,3,great card for rtavelling,6,keyword
+W4_000074,2,its ok,8,other
+W4_000077,2,qwertz,8,other
+W4_000086,2,Nichts Besonderes,8,other
+W4_000087,1,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_000089,3,App ist super einfach,2,keyword
+W4_000092,3,I feel my money is safe there,4,keyword
+W4_000098,1,too expensive since they added the monthly fee,1,keyword
+W4_000101,3,App is super easy to use,2,keyword
+W4_000102,1,zinsen sind zu niedrig,7,keyword
+W4_000106,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_000111,3,App ist super einfach,2,keyword
+W4_000118,1,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_000123,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_000128,3,love how simple the app is,2,keyword
+W4_000136,3,überweisungen sind sofort da,5,keyword
+W4_000140,2,card got blocked abroad twice,6,keyword
+W4_000144,3,great card for travelling,6,keyword
+W4_000146,1,worried about security after the phishing mails,4,keyword
+W4_000152,2,zinsen sind zu niedrig,7,keyword
+W4_000156,3,"Kostenloses Konto, faire Preise",1,keyword
+W4_000158,2,Überweisungen dauern zu lange,5,keyword
+W4_000163,3,Alles gut,8,other
+W4_000173,3,Die App ist uebersichtlich und schnell,2,keyword
+W4_000185,2,mache mir sorgen um die sicherheit,4,keyword
+W4_000186,1,interest rates are too low,7,keyword
+W4_000193,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000198,1,...,8,other
+W4_000202,3,App ist super einfach,2,keyword
+W4_000206,3,ok ok ok ok,8,other
+W4_000208,3,Ueberweisungen sind sofort da,5,keyword
+W4_000209,3,love how simple the app is,2,keyword
+W4_000224,3,App ist super einfach,2,keyword
+W4_000238,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000239,2,asdf,8,other
+W4_000244,3,App ist super einfach,2,keyword
+W4_000245,1,Nichts Besonderes,8,other
+W4_000248,2,zu teuer seit der monatlichen gebühr,1,keyword
+W4_000249,3,Gute Zinsen aufs Tagesgled,7,keyword
+W4_000252,2,investing options are limited,7,keyword
+W4_000257,2,Lange Wartezeiten im Chat,3,keyword
+W4_000259,2,Zinsen sind zu niedrig,7,keyword
+W4_000261,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_000265,2,investing options are limited,7,keyword
+W4_000270,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_000273,2,Zinsen sind zu niedrig,7,keyword
+W4_000274,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_000281,1,Zu wenig Anlagemoeglichkeiten,7,keyword
+W4_000282,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W4_000304,3,love how simple the app is,2,keyword
+W4_000306,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_000307,2,-,8,other
+W4_000316,2,investing options are limited,7,keyword
+W4_000320,1,Alles gut,8,other
+W4_000323,2,fese keep going up,8,other
+W4_000324,3,"Schneller, freundlicher Kundenservice",3,keyword
+W4_000326,3,gute zinsen aufs tagesgeld,7,keyword
+W4_000334,1,nsdkjfh,8,other
+W4_000345,3,Überweisungen sind sofort da,5,keyword
+W4_000348,2,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_000352,2,Zinsen sind zu niedrig,7,keyword
+W4_000357,1,chat support never solves anything,3,keyword
+W4_000358,1,waited ages for support,3,keyword
+W4_000359,3,App is super easy to use,2,keyword
+W4_000367,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_000374,1,Kundenservice ist kaum erreichbar,3,keyword
+W4_000376,2,Die neue Kartengebhür ist eine Frechheit,6,keyword
+W4_000379,3,good interest on savings,7,keyword
+W4_000389,3,love how simple the app is,2,keyword
+W4_000393,2,interest rates are too low,7,keyword
+W4_000395,3,Keine versteckten Gebühren,1,keyword
+W4_000396,1,4.90 a month for a card? no thanks,1,keyword
+W4_000397,3,App ist super einfach,2,keyword
+W4_000400,3,I feel my money is safe there,4,keyword
+W4_000403,2,interest rate sare too low,7,keyword
+W4_000404,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_000410,1,karte wrude im ausland gesperrt,6,keyword
+W4_000413,2,interest rates are too low,7,keyword
+W4_000416,3,etf-sparplan ganz einfach,7,keyword
+W4_000417,1,Gebuehren steigen staendig,1,keyword
+W4_000423,3,great card for travelling,6,keyword
+W4_000426,1,waited ages for support,3,keyword
+W4_000428,1,does what it should,8,other
+W4_000429,2,Zinsen sind zu niedrig,7,keyword
+W4_000433,2,interest rates are too low,7,keyword
+W4_000436,3,App ist super einfach,2,keyword
+W4_000438,2,1234,8,other
+W4_000443,3,Überweisungen sind sofort da,5,keyword
+W4_000456,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000460,2,the new card fee is a joke,1,keyword
+W4_000466,2,nothing special,8,other
+W4_000467,3,App ist super einfach,2,keyword
+W4_000472,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_000480,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_000482,1,Lange Wartezeiten im Chat,3,keyword
+W4_000484,1,chat support never solves anything,3,keyword
+W4_000490,3,Die App ist übersichtlich und schnell,2,keyword
+W4_000491,3,App ist super einfach,2,keyword
+W4_000504,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_000516,2,hard to find anything in the app,2,keyword
+W4_000517,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000520,2,-,8,other
+W4_000521,1,ueberweisungen dauern zu lange,5,keyword
+W4_000532,2,Überweisungen dauern zu lange,5,keyword
+W4_000533,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_000535,2,Zu wenig Alnagemöglichkeiten,8,other
+W4_000537,2,fees keep going up,1,keyword
+W4_000542,1,its ok,8,other
+W4_000546,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000548,2,überweisungen dauer nzu lange,5,keyword
+W4_000550,2,interest rates are too low,7,keyword
+W4_000554,2,card got blocked abroad twice,6,keyword
+W4_000556,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_000558,2,The new card fee is a joke,1,keyword
+W4_000561,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_000569,1,Alles gut,8,other
+W4_000571,2,Zinsen sind zu niedrig,7,keyword
+W4_000581,2,waietd ages for support,3,keyword
+W4_000588,2,jjjjjjj,8,other
+W4_000591,3,Überweisungen sind sofort da,5,keyword
+W4_000598,2,4.90 a month for a card? no thanks,1,keyword
+W4_000613,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_000619,3,"instant transfers, love it",5,keyword
+W4_000620,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_000621,2,too expensive since they added the monthly fee,1,keyword
+W4_000622,3,gute karte für reisen,6,keyword
+W4_000626,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_000633,3,app ist super einfach,2,keyword
+W4_000637,3,its ok,8,other
+W4_000643,3,Alles gut,8,other
+W4_000647,3,Die App ist übersichtlich und schnell,2,keyword
+W4_000654,3,Gute Karte für Reisen,6,keyword
+W4_000657,2,Lange Wartezeiten im Chat,3,keyword
+W4_000658,1,chat support never solves anything,3,keyword
+W4_000664,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_000674,2,Lange Wartezeiten im Chat,3,keyword
+W4_000688,2,nothing special,8,other
+W4_000705,3,"instant transfers, love it",5,keyword
+W4_000724,2,Passt schon,8,other
+W4_000728,1,Kundenservice ist kaum erreichbar,3,keyword
+W4_000736,3,Überweisungen sind sofort da,5,keyword
+W4_000745,2,card got blocked abroad twice,6,keyword
+W4_000750,2,Passt schon,8,other
+W4_000766,2,interest rates are too low,7,keyword
+W4_000767,2,Zinsen sind zu niedrig,7,keyword
+W4_000770,1,fgfgfg,8,other
+W4_000771,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_000775,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_000794,2,Kundenserviec ist kaum erreichbar,3,keyword
+W4_000795,3,etf-sparplan ganz einfach,7,keyword
+W4_000800,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_000819,3,Die App ist übersichtlich und schnell,2,keyword
+W4_000824,3,Die App ist übersichtlich und schnell,2,keyword
+W4_000825,1,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W4_000830,3,Passt schon,8,other
+W4_000833,2,its ok,8,other
+W4_000837,2,chat support never solves anything,3,keyword
+W4_000845,1,Lange Wartezeiten im Chat,3,keyword
+W4_000849,2,its ok,8,other
+W4_000855,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000856,2,zinsen sind zu niedrig,7,keyword
+W4_000861,2,"4,90 € im monat für die karte, ernsthaft?",1,keyword
+W4_000862,1,too expensive since they added the monthly fee,1,keyword
+W4_000870,1,nothing special,8,other
+W4_000883,1,nichts besonderes,8,other
+W4_000892,1,Kundenservice ist kaum erreichbar,3,keyword
+W4_000896,3,ETF-Sparplan ganz einfach,7,keyword
+W4_000899,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000906,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_000907,2,-,8,other
+W4_000911,2,interest rates are too low,7,keyword
+W4_000918,1,Gebühren steigen ständig,1,keyword
+W4_000931,3,1234,8,other
+W4_000936,3,App ist super einfach,2,keyword
+W4_000947,3,app is super easy to use,2,keyword
+W4_000950,1,worried about security after the phishing mails,4,keyword
+W4_000953,2,chat spuport never solves anything,3,keyword
+W4_000961,3,App ist super einfach,2,keyword
+W4_000962,2,Zinsen sind zu niedrig,7,keyword
+W4_000966,2,Lange Wartezeiten im Chat,3,keyword
+W4_000969,3,app ist super einfach,2,keyword
+W4_000970,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W4_000971,3,ok ok ok ok,8,other
+W4_000973,2,The new card fee is a joke,1,keyword
+W4_000979,3,"Schneller, freundlicher Kundenservice",3,keyword
+W4_000983,3,itso k,8,other
+W4_000988,1,Alles gut,8,other
+W4_000997,1,Zu wenig Anlagemoeglichkeiten,7,keyword
+W4_001001,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_001011,3,Überweisungen sind sofort da,5,keyword
+W4_001025,2,Zinsen sind zu niedrig,7,keyword
+W4_001031,3,Überweisungen sind sofort da,5,keyword
+W4_001033,2,zinsen sind zu niedrig,7,keyword
+W4_001035,1,too expensive since they added the monthly fee,1,keyword
+W4_001046,3,Free account and fair prices,1,keyword
+W4_001050,1,Alles gut,8,other
+W4_001059,2,investing options are limited,7,keyword
+W4_001066,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_001073,3,Überweisungen sind sofort da,5,keyword
+W4_001076,1,kundenservice ist kaum erreichbar,3,keyword
+W4_001084,3,pasts schon,8,other
+W4_001085,3,x,8,other
+W4_001115,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_001123,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_001126,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_001128,3,does what it should,8,other
+W4_001129,2,...,8,other
+W4_001132,1,chat support never solves anything,3,keyword
+W4_001133,3,love how simple the app is,2,keyword
+W4_001135,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_001136,2,fees keepg oing up,1,keyword
+W4_001137,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_001140,2,interest rates are oto low,7,keyword
+W4_001149,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_001152,3,ueberweisungen sind sofort da,5,keyword
+W4_001156,2,zu wenig anlagemoeglichkeiten,7,keyword
+W4_001164,3,App ist super einfach,2,keyword
+W4_001165,3,App ist super einfach,2,keyword
+W4_001168,3,App is super easy to use,2,keyword
+W4_001187,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_001188,3,love how simple the app is,2,keyword
+W4_001189,1,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_001197,1,Zinsen sind zu niedrig,7,keyword
+W4_001204,3,nohting special,8,other
+W4_001212,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_001217,1,Lange Wartezeiten imC hat,3,keyword
+W4_001219,1,Zu teuer seit der monatlichen Gebuehr,1,keyword
+W4_001222,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_001225,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_001226,1,Zu teure seit der monatlichen Gebühr,1,keyword
+W4_001229,2,card got blocked abroad twice,6,keyword
+W4_001234,2,lange wartezeiten im chat,3,keyword
+W4_001236,3,Die App ist übersichtlich und schnell,2,keyword
+W4_001242,3,-,8,other
+W4_001248,2,Gebuehren steigen staendig,1,keyword
+W4_001249,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_001251,1,chat support never solves anything,3,keyword
+W4_001255,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_001260,3,easy to set up an ETF savings plan,7,keyword
+W4_001262,3,"instant transfers, love it",5,keyword
+W4_001264,1,lange wartezeiten im chat,3,keyword
+W4_001270,3,Gute Karte fürR eisen,6,keyword
+W4_001272,3,Die App ist übersichtlich und schnell,2,keyword
+W4_001274,2,fees keep going up,1,keyword
+W4_001277,3,App is super easy to use,2,keyword
+W4_001278,1,waited ages for support,3,keyword
+W4_001280,2,Mache mir Sorgen um die Sicherheti,4,keyword
+W4_001284,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_001291,3,nothing special,8,other
+W4_001292,3,great card for travelling,6,keyword
+W4_001294,3,I feel my money is safe there,4,keyword
+W4_001296,3,does what it should,8,other
+W4_001298,3,App is super easy to use,2,keyword
+W4_001300,2,Passts chon,8,other
+W4_001301,2,Lange Wartezeiten im Chat,3,keyword
+W4_001302,2,Lange Wartezeiten mi Chat,3,keyword
+W4_001303,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_001304,3,app ist super einfach,2,keyword
+W4_001305,2,nsdkjfh,8,other
+W4_001310,2,Überweisungen dauern zu lange,5,keyword
+W4_001315,3,ueberweisungen sind sofort da,5,keyword
+W4_001317,3,app ist super einfach,2,keyword
+W4_001325,3,great card for travelling,6,keyword
+W4_001326,3,App ist super einfach,2,keyword
+W4_001329,3,"instant transfers, love it",5,keyword
+W4_001330,1,does what it should,8,other
+W4_001337,3,Ueberweisungen sind sofort da,5,keyword
+W4_001343,3,"schneller, freundlicherk undenservice",3,keyword
+W4_001344,3,love how simple the app is,2,keyword
+W4_001346,1,lange wartezeiten im chat,3,keyword
+W4_001356,3,Die App ist uebersichtlich udn schnell,2,keyword
+W4_001360,3,x,8,other
+W4_001364,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_001371,2,investing options are limited,7,keyword
+W4_001374,3,"instant transfers, love it",5,keyword
+W4_001376,2,investing options are limited,7,keyword
+W4_001379,2,transfers take too long,5,keyword
+W4_001382,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_001386,2,Zinsen sind zu niedrig,7,keyword
+W4_001387,2,worried about security after the phishing mails,4,keyword
+W4_001390,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_001402,3,does what i tshould,8,other
+W4_001403,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_001404,3,"instant transfers ,love it",5,keyword
+W4_001409,1,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_001411,1,Lange Wartezeiten im Chat,3,keyword
+W4_001413,2,the new card fee is a jkoe,1,keyword
+W4_001421,3,App is super easy to use,2,keyword
+W4_001441,1,Gebühren steigen ständig,1,keyword
+W4_001443,2,lange wartezeiten im chat,3,keyword
+W4_001450,1,Lange Wartezeiten im Chat,3,keyword
+W4_001452,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_001455,2,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_001457,1,Gebühren steigen ständig,1,keyword
+W4_001459,2,Zinsen sind zu inedrig,7,keyword
+W4_001470,2,1234,8,other
+W4_001471,3,x,8,other
+W4_001472,3,"instant transfers, love it",5,keyword
+W4_001473,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_001478,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_001481,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_001492,3,"Kostenloses Konto, faire Preise",1,keyword
+W4_001494,2,card got blocked abroad twice,6,keyword
+W4_001495,1,Alles gut,8,other
+W4_001497,3,App ist super einfach,2,keyword
+W4_001517,3,Ueberweisungen sind sofort da,5,keyword
+W4_001523,2,card got blocked abroad twice,6,keyword
+W4_001526,2,Zu teuer esit der monatlichen Gebuehr,1,keyword
+W4_001527,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_001538,3,App is super easy to use,2,keyword
+W4_001541,3,...,8,other
+W4_001543,3,Ueberweisungen sind sofort da,5,keyword
+W4_001547,3,app ist super einfach,2,keyword
+W4_001549,3,App is super easy to use,2,keyword
+W4_001552,1,mache mir sorgenu m die sicherheit,4,keyword
+W4_001553,3,App is super easy to use,2,keyword
+W4_001554,3,Die App ist übersichtlich und schnell,2,keyword
+W4_001558,1,Lange Wartezeiten im Chat,3,keyword
+W4_001560,3,App ist super einfach,2,keyword
+W4_001562,3,App ist super einfach,2,keyword
+W4_001563,3,Nichts Besonderes,8,other
+W4_001566,1,card got blockeda broad twice,6,keyword
+W4_001573,3,"instant transfers, love it",5,keyword
+W4_001590,3,Ueberweisungen sind sofort da,5,keyword
+W4_001591,2,waited ages for support,3,keyword
+W4_001594,2,Lange Wartezeiten im Chat,3,keyword
+W4_001620,1,x,8,other
+W4_001621,1,chat support never solves anything,3,keyword
+W4_001624,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_001631,3,Gute Karte für Reisen,6,keyword
+W4_001633,2,Nichts Besonderes,8,other
+W4_001634,3,"Schneller, freundlicher Kundenservice",3,keyword
+W4_001635,3,love hows imple the app is,2,keyword
+W4_001642,2,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_001643,1,interest rates are too low,7,keyword
+W4_001653,1,chat support never solves anything,3,keyword
+W4_001656,1,Lange Wartezeiten im Chat,3,keyword
+W4_001668,1,chat support never solves anything,3,keyword
+W4_001676,3,App ist super einfach,2,keyword
+W4_001678,1,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_001688,1,The new card fee is a joke,1,keyword
+W4_001694,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_001697,2,its ok,8,other
+W4_001698,3,App ist super einfach,2,keyword
+W4_001701,2,interest rates are too low,7,keyword
+W4_001703,2,Nichts Besonderes,8,other
+W4_001706,2,zu wenig anlagemöglichkeiten,7,keyword
+W4_001710,2,interest rates are too low,7,keyword
+W4_001712,3,I feel my money is safe there,4,keyword
+W4_001716,2,Zinsen sind zu niedrig,7,keyword
+W4_001723,1,ok ok ok ok,8,other
+W4_001733,2,worried about security after the phishing mails,4,keyword
+W4_001736,2,card got blocked abroad twice,6,keyword
+W4_001748,2,fees keep going up,1,keyword
+W4_001751,2,worried about security after the phishing mails,4,keyword
+W4_001754,1,karte wurde im ausland gesperrt,6,keyword
+W4_001756,1,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_001763,3,i feel my money is safe there,4,keyword
+W4_001764,2,Passt schon,8,other
+W4_001766,3,Überweisungen sind sofortd a,5,keyword
+W4_001767,1,Kundenservice ist kaum erreichbar,3,keyword
+W4_001768,1,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_001776,3,Überweisungen sind sofort da,5,keyword
+W4_001787,3,ok ok ok ok,8,other
+W4_001791,1,Gebuehren steigen staendig,1,keyword
+W4_001793,3,Überweisungen sind sofort da,5,keyword
+W4_001799,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_001816,2,card got blocked abroad twice,6,keyword
+W4_001817,3,Passt schon,8,other
+W4_001828,1,zu wenig anlagemöglichkeiten,7,keyword
+W4_001829,3,DieA pp ist übersichtlich und schnell,2,keyword
+W4_001832,2,Passt schon,8,other
+W4_001837,2,card got blocked abroad twice,6,keyword
+W4_001839,1,interest rates are too low,7,keyword
+W4_001840,1,Mcahe mir Sorgen um die Sicherheit,4,keyword
+W4_001845,2,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_001853,1,Zu wenig Anlagemoeglichkeiten,7,keyword
+W4_001855,3,App ist super einfach,2,keyword
+W4_001858,2,interest rates are too low,7,keyword
+W4_001860,3,ETF-Sparplan ganz einfach,7,keyword
+W4_001861,1,fees keep going up,1,keyword
+W4_001868,3,-,8,other
+W4_001874,3,"instant transfers, love it",5,keyword
+W4_001877,2,interest rates are too low,7,keyword
+W4_001889,1,Zinsen sind zu niedrig,7,keyword
+W4_001898,2,4.90 a month for a card? no thanks,1,keyword
+W4_001900,3,easy to set up an ETF savings plan,7,keyword
+W4_001916,3,überweisungen sind sofort da,5,keyword
+W4_001922,1,Kundenservice ist kaum erreichbar,3,keyword
+W4_001928,3,rgeat card for travelling,6,keyword
+W4_001931,3,love how simple the app is,2,keyword
+W4_001941,3,Die App ist übersichtlich und schnell,2,keyword
+W4_001946,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_001962,2,Uebreweisungen dauern zu lange,5,fuzzy
+W4_001972,2,Lange Wartezeiten im Chat,3,keyword
+W4_001973,3,ETF-Sparplan ganz einfach,7,keyword
+W4_001978,3,App is super easy to use,2,keyword
+W4_001984,3,app is super easy to use,2,keyword
+W4_001987,1,transfers take too long,5,keyword
+W4_001990,3,die app ist übersichtlich und schnell,2,keyword
+W4_001995,3,die app ist uebersichtlich und schnell,2,keyword
+W4_002026,3,love how simple the app is,2,keyword
+W4_002035,1,The new card fee is a joke,1,keyword
+W4_002038,3,does what it should,8,other
+W4_002052,3,love how simple hte app is,2,keyword
+W4_002053,1,interest rates are too low,7,keyword
+W4_002057,3,die appi st übersichtlich und schnell,2,keyword
+W4_002058,2,too expensive since they added the monthly fee,1,keyword
+W4_002065,3,"Schneller, freundlicher Kundenservice",3,keyword
+W4_002069,2,Nichts Besonderes,8,other
+W4_002077,2,Mcahe mir Sorgen um die Sicherheit,4,keyword
+W4_002078,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_002083,2,Zinsen sind zu niedrig,7,keyword
+W4_002096,3,App ist super einfach,2,keyword
+W4_002097,1,Karte wurde im Ausland gesperrt,6,keyword
+W4_002101,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_002105,2,karte wurde im ausland gesperrt,6,keyword
+W4_002106,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_002110,3,Die App ist übersichtilch und schnell,2,keyword
+W4_002118,2,Zinsen sind zu niedrig,7,keyword
+W4_002121,2,Nichts Besonderes,8,other
+W4_002122,2,worried abotu security after the phishing mails,4,keyword
+W4_002124,3,Die App ist uebersichtlich und schnell,2,keyword
+W4_002126,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002128,2,waited ages for support,3,keyword
+W4_002133,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_002135,2,lange wartezeiten im chat,3,keyword
+W4_002136,1,ok ok ok ok,8,other
+W4_002137,3,1234,8,other
+W4_002139,2,does what it should,8,other
+W4_002141,1,"4,90 € im Monat fuer die Karte, ernsthaft?",1,keyword
+W4_002143,3,App ist super einfach,2,keyword
+W4_002154,1,Lange Wartezeiten im Chat,3,keyword
+W4_002162,3,ETF-Sparplan ganz einfach,7,keyword
+W4_002170,2,does what it should,8,other
+W4_002173,2,interest rates are too low,7,keyword
+W4_002175,1,Gebühren steigen ständig,1,keyword
+W4_002177,3,ETF-Sparplan ganz einfach,7,keyword
+W4_002178,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002182,2,1234,8,other
+W4_002191,1,Zinsen sind zu neidrig,7,keyword
+W4_002192,3,App is super easy to use,2,keyword
+W4_002204,2,Zu wenig Anlagemoeglichkeiten,7,keyword
+W4_002207,2,ok ok ok ok,8,other
+W4_002208,2,waited ages for support,3,keyword
+W4_002210,2,Zinsen sind zu niedrig,7,keyword
+W4_002211,1,mache mir sorgen um die sicherheit,4,keyword
+W4_002213,3,Überweisungen sind sofort da,5,keyword
+W4_002231,3,Gute Karte fuerR eisen,6,keyword
+W4_002233,3,ETF-Spaprlan ganz einfach,7,keyword
+W4_002240,3,ETF-Sparplan ganz einfach,7,keyword
+W4_002241,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002246,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_002249,3,Überweisungen sind sofort da,5,keyword
+W4_002258,2,interest rates are too low,7,keyword
+W4_002265,3,Gute Karte für Reisen,6,keyword
+W4_002268,2,Zinsen sind zu niedrig,7,keyword
+W4_002273,2,nsdkjfh,8,other
+W4_002276,3,"instant transfers, love it",5,keyword
+W4_002279,2,zinsen sind zu niedrig,7,keyword
+W4_002280,3,Die App ist übersichtlich und schnell,2,keyword
+W4_002282,1,Zinsen sind zu niedrig,7,keyword
+W4_002285,2,karte wurde im ausland gesperrt,6,keyword
+W4_002287,2,4.90 a month for a card? no thanks,1,keyword
+W4_002288,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_002289,1,waited ages fors upport,3,keyword
+W4_002310,2,Zinsen sind zu niedrig,7,keyword
+W4_002317,1,interest rates are too low,7,keyword
+W4_002318,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_002319,3,Die App ist übersichtlich und schnell,2,keyword
+W4_002323,3,love how simple the app is,2,keyword
+W4_002329,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_002341,3,Überweisungen sind sofort da,5,keyword
+W4_002345,3,Nichts Besonderes,8,other
+W4_002346,1,fgfgfg,8,other
+W4_002350,3,Keine versteckten Gebuehren,1,keyword
+W4_002373,1,zinsen sind zu niedrig,7,keyword
+W4_002378,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_002385,2,Zinsen sind zu niedrig,7,keyword
+W4_002388,2,Die App ist unübersichtlich,2,keyword
+W4_002399,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_002402,2,...,8,other
+W4_002407,3,"Kostenloses Konto, faire Preise",1,keyword
+W4_002408,1,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002421,3,Die App ist übersichtlich und schnell,2,keyword
+W4_002423,2,gebühren steigen ständig,1,keyword
+W4_002427,2,mache mri sorgen um die sicherheit,4,keyword
+W4_002432,2,fees keep going up,1,keyword
+W4_002436,3,Ueberweisungen sind sofort da,5,keyword
+W4_002437,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_002438,1,4.90 a month for a card? no thanks,1,keyword
+W4_002441,1,passt schon,8,other
+W4_002447,1,too expensive since they added the monthly fee,1,keyword
+W4_002451,3,Gute Karte fuer Reisen,6,keyword
+W4_002460,2,chat support never solves anything,3,keyword
+W4_002467,3,"instant transfers, love it",5,keyword
+W4_002468,1,Passt schon,8,other
+W4_002473,2,1234,8,other
+W4_002479,1,interest rates are too low,7,keyword
+W4_002480,3,Gute Karte für Reisen,6,keyword
+W4_002485,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_002486,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002487,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_002489,2,too expensive since they added the monthly fee,1,keyword
+W4_002497,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_002503,3,Gute Zinsen aufs Tagesgeld,7,keyword
+W4_002526,3,"instant transfers, love it",5,keyword
+W4_002533,1,Nichts Besonderes,8,other
+W4_002534,1,"4,90 € im monat für die karte, ernsthaft?",1,keyword
+W4_002543,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002548,3,"instant transfers, love it",5,keyword
+W4_002550,3,"Kostenloses Konto, faire Preise",1,keyword
+W4_002552,3,App ist super einfach,2,keyword
+W4_002557,3,Keine vertseckten Gebühren,1,keyword
+W4_002561,1,Karte wurde im Ausland gesperrt,6,keyword
+W4_002562,2,Alles gut,8,other
+W4_002565,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W4_002572,2,Zinsen sind zu niedrig,7,keyword
+W4_002573,2,x,8,other
+W4_002576,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002579,3,die app ist übersichtlich und schnell,2,keyword
+W4_002594,1,Karte wurde im Ausland gesperrt,6,keyword
+W4_002603,3,love how simple the app is,2,keyword
+W4_002617,3,Die App ist uebersichtlich und schnell,2,keyword
+W4_002619,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_002631,2,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_002640,3,"instant transfers, love it",5,keyword
+W4_002651,3,Passt schon,8,other
+W4_002652,1,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W4_002655,2,interest rates are too low,7,keyword
+W4_002657,3,Die App ist uebersichtlich und schnell,2,keyword
+W4_002670,1,Gebühren steigen ständig,1,keyword
+W4_002680,1,interest rates are too low,7,keyword
+W4_002681,3,love how simple the app is,2,keyword
+W4_002683,3,app ist super einfach,2,keyword
+W4_002690,3,Die App ist übersichtlich und schnell,2,keyword
+W4_002694,3,die app ist übersichtlich und schnell,2,keyword
+W4_002697,3,great card for travelling,6,keyword
+W4_002710,3,App is super easy to use,2,keyword
+W4_002715,2,Zinsen sind zu niedrig,7,keyword
+W4_002716,3,-,8,other
+W4_002718,3,"ich fuehle mich sicher, gute sicherheitsfunktionen",4,keyword
+W4_002727,3,app its super einfach,2,keyword
+W4_002737,1,Die App ist unübersichtlich,2,keyword
+W4_002743,3,nichts besonderes,8,other
+W4_002747,3,App is super easy to use,2,keyword
+W4_002750,1,Lange Wartezeiten im Chat,3,keyword
+W4_002753,2,Gebühren steigen ständig,1,keyword
+W4_002757,3,etf-sparplan ganz einfach,7,keyword
+W4_002772,1,Gebuehren steigen staendig,1,keyword
+W4_002773,2,The new card fee is a joke,1,keyword
+W4_002779,3,App is super easy to use,2,keyword
+W4_002782,3,I feel my money is safe there,4,keyword
+W4_002792,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_002798,2,chat support never solves anythnig,3,keyword
+W4_002800,2,good good good,8,other
+W4_002801,2,jjjjjjj,8,other
+W4_002805,2,worried about security after the phishing mails,4,keyword
+W4_002806,1,interest rates are too low,7,keyword
+W4_002810,2,Karte wurde im Ausland gesperrt,6,keyword
+W4_002813,1,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W4_002819,3,love how simple the app is,2,keyword
+W4_002828,1,investing options are limited,7,keyword
+W4_002834,2,interest rates are too low,7,keyword
+W4_002835,2,Kundenservice ist kaum erreichbar,3,keyword
+W4_002837,2,its ok,8,other
+W4_002843,2,Lange Wartezeiten im Chat,3,keyword
+W4_002844,2,interest rates are too low,7,keyword
+W4_002845,2,Zinsen sind zu niedrig,7,keyword
+W4_002847,2,4.90 a month for a card? no thanks,1,keyword
+W4_002848,1,Die neue Kartengebühr ist eine Frechheit,1,keyword
+W4_002851,3,"Ich fühle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_002862,2,Nichts Besonderes,8,other
+W4_002865,3,App is super easy to use,2,keyword
+W4_002882,3,Überweisungen sind sofort da,5,keyword
+W4_002888,3,love how simple the app is,2,keyword
+W4_002894,2,the new card fee is a joke,1,keyword
+W4_002896,1,chat support never solves anything,3,keyword
+W4_002898,2,zinsen sind zu niedrig,7,keyword
+W4_002900,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W4_002913,2,Zinsen sind zu niedrig,7,keyword
+W4_002915,2,Zinsen sind zu niedrig,7,keyword
+W4_002916,1,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_002919,3,"Schneller, freundlicher Kundenservice",3,keyword
+W4_002928,2,Zu wenig Anlagemöglichkeiten,7,keyword
+W4_002938,3,App ist super einfach,2,keyword
+W4_002939,2,Mache mir Sorgen um die Sicherheit,4,keyword
+W4_002946,3,Überweisungen sind sofort da,5,keyword
+W4_002947,3,I feel my money is safe there,4,keyword
+W4_002949,2,Zinsen sind zu niedrig,7,keyword
+W4_002958,2,gebühren steigen ständig,1,keyword
+W4_002964,3,überweisungen sind sofort da,5,keyword
+W4_002965,3,App ist super einfach,2,keyword
+W4_002970,3,-,8,other
+W4_002979,2,Die neue Kartengebuehr ist eine Frechheit,1,keyword
+W4_002984,3,"Ich fuehle mich sicher, gute Sicherheitsfunktionen",4,keyword
+W4_002985,2,"4,90 € im Monat für die Karte, ernsthaft?",1,keyword
+W4_002988,1,x,8,other
+W4_002990,2,Zu teuer seit der monatlichen Gebühr,1,keyword
+W4_002992,2,4.90 a month for a card? no thanks,1,keyword
+W4_002994,1,zu teuer seit der monatlichen gebuehr,1,keyword

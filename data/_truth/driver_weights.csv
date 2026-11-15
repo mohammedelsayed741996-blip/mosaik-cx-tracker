@@ -1,0 +1,8 @@
+attribute,item,true_weight,true_rank
+fees,c3_r3,0.3,1
+app,c3_r1,0.25,2
+security,c3_r5,0.2,3
+service,c3_r4,0.12,4
+speed,c3_r2,0.05,5
+card,c3_r6,0.05,6
+interest,c3_r7,0.05,7

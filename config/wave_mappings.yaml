@@ -1,0 +1,223 @@
+# =============================================================================
+# Mosaik Bank CX Tracker 2026 - wave mappings for step 01 (ingest & harmonise)
+# -----------------------------------------------------------------------------
+# How each wave's raw export is read and turned into the standard layout.
+#
+#   standard_columns   raw column -> clean variable, for the standard export.
+#                      Must agree with the `raw:` fields in codebook.yaml
+#                      (01_ingest_harmonise.py checks this on every run).
+#   waves.<n>          file, format and the wave's known deviations:
+#     rename           wave-specific raw name -> standard raw name
+#     drop             raw columns deliberately ignored (none should exist
+#                      silently: an unknown column stops the run)
+#     encoding         text encoding of a CSV export
+#     date_formats     strptime formats tried in order for start/end dates
+#     duration_format  seconds | hms (h:mm:ss text)
+#     refused_aliases  extra codes meaning "refused" -> mapped to -99
+#     multi_blank_is_zero   true = unticked multi-select items exported blank
+#     text_fields      fixes to apply to free-text columns
+#     state_free_text  S3 may contain typed state names instead of codes
+#     age_free_text    S1 may contain text such as "34 Jahre"
+#
+# Every fix applied is counted per wave in data/interim/ingest_report.json.
+# =============================================================================
+
+version: "1.0"
+
+# Only these dispositions are analysed; the rest are counted, then dropped
+keep_status: [1]
+
+# Columns whose -99 refusal code can appear under an alias in some waves
+refusal_columns: [S2, F1]
+
+standard_columns:
+  # identifiers and paradata
+  record: record
+  panel_id: panel_id
+  status: status
+  start_date: start_ts
+  end_date: end_ts
+  qtime: duration_s
+  device: device
+  # S: screener
+  S1: age
+  S2: gender
+  S3: state
+  S4: s4_account
+  S5r1: s5_r1
+  S5r2: s5_r2
+  S5r3: s5_r3
+  S5r4: s5_r4
+  # A: banking relationship
+  A1r1: a1_r1
+  A1r2: a1_r2
+  A1r3: a1_r3
+  A1r4: a1_r4
+  A1r5: a1_r5
+  A1r6: a1_r6
+  A1r7: a1_r7
+  A2: main_bank
+  A3: a3_tenure
+  # B: brand funnel
+  B1r1: b1_r1
+  B1r2: b1_r2
+  B1r3: b1_r3
+  B1r4: b1_r4
+  B1r5: b1_r5
+  B2r1: b2_r1
+  B2r2: b2_r2
+  B2r3: b2_r3
+  B2r4: b2_r4
+  B2r5: b2_r5
+  # C: Mosaik experience
+  C1: c1_nps
+  C2: c2_reason
+  C3r1: c3_r1
+  C3r2: c3_r2
+  C3r3: c3_r3
+  C3r4: c3_r4
+  C3r5: c3_r5
+  C3r6: c3_r6
+  C3r7: c3_r7
+  C3r8: c3_r8          # added in W3
+  C3x: c3x_attn
+  C4: c4_overall
+  C5: c5_switch
+  C6r1: c6_r1
+  C6r2: c6_r2
+  C6r3: c6_r3
+  C6r4: c6_r4
+  C6r5: c6_r5
+  # D: usage and service
+  D1: d1_app_freq
+  D2: d2_contact
+  D3: d3_resolved
+  # E: attitudes
+  E1r1: e1_r1
+  E1r2: e1_r2
+  E1r3: e1_r3
+  E1r4: e1_r4
+  E1r5: e1_r5
+  E1r6: e1_r6
+  # F: demographics
+  F1: f1_income
+  F2: f2_employment
+  F3: f3_education
+
+# Multi-select items and the condition under which each was asked.
+# Used to turn "blank = not ticked" back into 0 without touching
+# "blank = not asked". Conditions refer to clean names.
+multi_select_routing:
+  s5_r1: all
+  s5_r2: all
+  s5_r3: all
+  s5_r4: all
+  a1_r1: all
+  a1_r2: all
+  a1_r3: all
+  a1_r4: all
+  a1_r5: all
+  a1_r6: all
+  a1_r7: all
+  b1_r1: all
+  b1_r2: all
+  b1_r3: all
+  b1_r4: all
+  b1_r5: all
+  b2_r1: "b1_r1 == 1"
+  b2_r2: "b1_r2 == 1"
+  b2_r3: "b1_r3 == 1"
+  b2_r4: "b1_r4 == 1"
+  b2_r5: "b1_r5 == 1"
+  # section C was shown to whoever answered C1 (routing as administered)
+  c6_r1: "c1_nps.notna()"
+  c6_r2: "c1_nps.notna()"
+  c6_r3: "c1_nps.notna()"
+  c6_r4: "c1_nps.notna()"
+  c6_r5: "c1_nps.notna()"
+
+waves:
+  1:
+    file: W1_export.csv
+    format: csv
+    encoding: utf-8
+    date_formats: ["%Y-%m-%d %H:%M:%S"]
+    duration_format: seconds
+    rename: {}
+    drop: []
+    refused_aliases: [99]          # agency used 99 and -99 for "refused"
+    multi_blank_is_zero: true      # unticked items exported blank, not 0
+    text_fields: {C2: [strip]}
+    state_free_text: false
+    age_free_text: false
+
+  2:
+    file: W2_export.csv
+    format: csv
+    encoding: latin-1              # not UTF-8: reading as UTF-8 fails on umlauts
+    date_formats: ["%d.%m.%Y %H:%M"]
+    duration_format: hms           # e.g. 0:16:04
+    rename: {QNPS: C1}             # NPS column renamed in this export
+    drop: []
+    refused_aliases: []
+    multi_blank_is_zero: false
+    # Latin-1 cannot hold the euro sign: the export wrote "?" instead
+    text_fields: {C2: [strip, restore_euro]}
+    state_free_text: false
+    age_free_text: false
+
+  3:
+    file: W3_export.csv
+    format: csv
+    encoding: utf-8
+    date_formats: ["%Y-%m-%d %H:%M:%S"]
+    duration_format: seconds
+    rename: {}
+    drop: []
+    refused_aliases: []
+    multi_blank_is_zero: false
+    text_fields: {C2: [strip]}
+    state_free_text: true          # "Bayern", "bavaria ", "BY", ...
+    age_free_text: true            # "34 Jahre", "24 years"
+
+  4:
+    file: W4_export.sav
+    format: sav                    # SPSS with value labels (needs pyreadstat)
+    # Used only if the .sav is missing (the simulator writes these when
+    # pyreadstat is not installed)
+    fallback_file: W4_export.csv
+    fallback_labels: W4_export.labels.json
+    encoding: utf-8
+    date_formats: ["%Y-%m-%d %H:%M:%S"]
+    duration_format: seconds
+    rename: {}
+    drop: []
+    refused_aliases: []
+    multi_blank_is_zero: false
+    text_fields: {C2: [strip, fix_mojibake]}   # trailing spaces; "MÃ¼nchen"
+    state_free_text: false
+    age_free_text: false
+    check_value_labels: true       # compare embedded labels with the codebook
+
+# -----------------------------------------------------------------------------
+# Free-text state lookup (S3). Keys are normalised before lookup:
+# lower case, umlauts spelled out (ü -> ue), anything but a-z/0-9 removed.
+# Codes follow the codebook value set `state` (official order 1-16).
+# -----------------------------------------------------------------------------
+state_lookup:
+  1:  [schleswigholstein, sh]
+  2:  [hamburg, hh]
+  3:  [niedersachsen, lowersaxony, ni, nds]
+  4:  [bremen, hb]
+  5:  [nordrheinwestfalen, northrhinewestphalia, nrw, nw]
+  6:  [hessen, hesse, he]
+  7:  [rheinlandpfalz, rhinelandpalatinate, rp, rlp]
+  8:  [badenwuerttemberg, badenwurttemberg, bawue, bawu, bw]
+  9:  [bayern, bavaria, by]
+  10: [saarland, sl]
+  11: [berlin, be]
+  12: [brandenburg, bb]
+  13: [mecklenburgvorpommern, mecklenburgwesternpomerania, mv]
+  14: [sachsen, saxony, sn]
+  15: [sachsenanhalt, saxonyanhalt, st]
+  16: [thueringen, thuringia, th]

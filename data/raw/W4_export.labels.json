@@ -1,0 +1,406 @@
+{
+  "variable_labels": {
+    "record": "Record number within wave",
+    "panel_id": "Panel member ID",
+    "status": "Interview disposition",
+    "start_date": "Interview start",
+    "end_date": "Interview end",
+    "qtime": "Interview length (seconds)",
+    "device": "Device",
+    "S1": "Age",
+    "S2": "Gender",
+    "S3": "Federal state",
+    "S4": "Has current account with online access",
+    "S5r1": "Works in: banking / financial services",
+    "S5r2": "Works in: market research",
+    "S5r3": "Works in: advertising / media",
+    "S5r4": "Works in: none of these",
+    "A1r1": "Bank used: Mosaik Bank",
+    "A1r2": "Bank used: Volta",
+    "A1r3": "Bank used: Atlas Direkt",
+    "A1r4": "Bank used: Sparhaus",
+    "A1r5": "Bank used: Pebble",
+    "A1r6": "Bank used: Other bank",
+    "A1r7": "Bank used: None",
+    "A2": "Main bank",
+    "A3": "Tenure with Mosaik",
+    "B1r1": "Aware: Mosaik Bank",
+    "B1r2": "Aware: Volta",
+    "B1r3": "Aware: Atlas Direkt",
+    "B1r4": "Aware: Sparhaus",
+    "B1r5": "Aware: Pebble",
+    "B2r1": "Would consider: Mosaik Bank",
+    "B2r2": "Would consider: Volta",
+    "B2r3": "Would consider: Atlas Direkt",
+    "B2r4": "Would consider: Sparhaus",
+    "B2r5": "Would consider: Pebble",
+    "C1": "Likelihood to recommend Mosaik (0-10)",
+    "C2": "Main reason for NPS score (open end)",
+    "C3r1": "Satisfaction: app ease",
+    "C3r2": "Satisfaction: transfer speed",
+    "C3r3": "Satisfaction: fees / value for money",
+    "C3r4": "Satisfaction: customer service",
+    "C3r5": "Satisfaction: security & trust",
+    "C3r6": "Satisfaction: card features",
+    "C3r7": "Satisfaction: savings interest",
+    "C3r8": "Satisfaction: investing features",
+    "C3x": "Attention check (correct answer = 4)",
+    "C4": "Overall satisfaction with Mosaik",
+    "C5": "Likelihood to switch main account (12 months)",
+    "C6r1": "Mosaik product: current account",
+    "C6r2": "Mosaik product: savings",
+    "C6r3": "Mosaik product: credit card",
+    "C6r4": "Mosaik product: investing",
+    "C6r5": "Mosaik product: overdraft",
+    "D1": "Mosaik app use frequency",
+    "D2": "Contacted service in last 3 months",
+    "D3": "Issue resolved",
+    "E1r1": "I would switch banks for a better interest rate",
+    "E1r2": "I prefer a bank with branches I can visit",
+    "E1r3": "I am comfortable banking only through an app",
+    "E1r4": "Sustainability matters in my choice of bank",
+    "E1r5": "I invest money regularly",
+    "E1r6": "Security matters more to me than new features",
+    "F1": "Monthly net household income",
+    "F2": "Employment status",
+    "F3": "Highest education"
+  },
+  "value_labels": {
+    "status": {
+      "1": "Complete",
+      "2": "Partial",
+      "3": "Screened out",
+      "4": "Over quota"
+    },
+    "device": {
+      "1": "Desktop",
+      "2": "Mobile",
+      "3": "Tablet"
+    },
+    "S2": {
+      "1": "Male",
+      "2": "Female",
+      "3": "Diverse",
+      "-99": "Prefer not to say"
+    },
+    "S3": {
+      "1": "Schleswig-Holstein",
+      "2": "Hamburg",
+      "3": "Niedersachsen",
+      "4": "Bremen",
+      "5": "Nordrhein-Westfalen",
+      "6": "Hessen",
+      "7": "Rheinland-Pfalz",
+      "8": "Baden-Wuerttemberg",
+      "9": "Bayern",
+      "10": "Saarland",
+      "11": "Berlin",
+      "12": "Brandenburg",
+      "13": "Mecklenburg-Vorpommern",
+      "14": "Sachsen",
+      "15": "Sachsen-Anhalt",
+      "16": "Thueringen"
+    },
+    "S4": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "S5r1": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "S5r2": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "S5r3": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "S5r4": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A1r1": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A1r2": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A1r3": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A1r4": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A1r5": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A1r6": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A1r7": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "A2": {
+      "1": "Mosaik Bank",
+      "2": "Volta",
+      "3": "Atlas Direkt",
+      "4": "Sparhaus",
+      "5": "Pebble",
+      "6": "Other bank"
+    },
+    "A3": {
+      "1": "Less than 1 year",
+      "2": "1-2 years",
+      "3": "3-5 years",
+      "4": "More than 5 years"
+    },
+    "B1r1": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B1r2": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B1r3": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B1r4": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B1r5": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B2r1": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B2r2": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B2r3": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B2r4": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "B2r5": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "C1": {
+      "0": "0 - Not at all likely",
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6",
+      "7": "7",
+      "8": "8",
+      "9": "9",
+      "10": "10 - Extremely likely"
+    },
+    "C3r1": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3r2": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3r3": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3r4": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3r5": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3r6": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3r7": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3r8": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied",
+      "-97": "Don't know"
+    },
+    "C3x": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied"
+    },
+    "C4": {
+      "1": "Very dissatisfied",
+      "2": "Dissatisfied",
+      "3": "Neither",
+      "4": "Satisfied",
+      "5": "Very satisfied"
+    },
+    "C5": {
+      "1": "Very unlikely",
+      "2": "Unlikely",
+      "3": "Neither",
+      "4": "Likely",
+      "5": "Very likely"
+    },
+    "C6r1": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "C6r2": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "C6r3": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "C6r4": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "C6r5": {
+      "0": "Not selected",
+      "1": "Selected"
+    },
+    "D1": {
+      "1": "Daily",
+      "2": "Weekly",
+      "3": "Monthly",
+      "4": "Less than monthly"
+    },
+    "D2": {
+      "0": "No",
+      "1": "Yes"
+    },
+    "D3": {
+      "1": "Yes, at first contact",
+      "2": "Yes, after several contacts",
+      "3": "No"
+    },
+    "E1r1": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither",
+      "4": "Agree",
+      "5": "Strongly agree"
+    },
+    "E1r2": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither",
+      "4": "Agree",
+      "5": "Strongly agree"
+    },
+    "E1r3": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither",
+      "4": "Agree",
+      "5": "Strongly agree"
+    },
+    "E1r4": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither",
+      "4": "Agree",
+      "5": "Strongly agree"
+    },
+    "E1r5": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither",
+      "4": "Agree",
+      "5": "Strongly agree"
+    },
+    "E1r6": {
+      "1": "Strongly disagree",
+      "2": "Disagree",
+      "3": "Neither",
+      "4": "Agree",
+      "5": "Strongly agree"
+    },
+    "F1": {
+      "1": "Under EUR 1,500",
+      "2": "EUR 1,500-2,499",
+      "3": "EUR 2,500-3,499",
+      "4": "EUR 3,500-4,499",
+      "5": "EUR 4,500-5,999",
+      "6": "EUR 6,000 or more",
+      "-99": "Prefer not to say"
+    },
+    "F2": {
+      "1": "Full-time employed",
+      "2": "Part-time employed",
+      "3": "Self-employed",
+      "4": "Student / trainee",
+      "5": "Retired",
+      "6": "Nicht erwerbstätig"
+    },
+    "F3": {
+      "1": "Lower secondary (Hauptschule)",
+      "2": "Intermediate secondary (Realschule)",
+      "3": "Upper secondary (Abitur)",
+      "4": "Vocational / master craftsman",
+      "5": "University degree"
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "rows_in": 12000,
+  "removed_by_wave": {
+    "W1": 136,
+    "W2": 142,
+    "W3": 145,
+    "W4": 146
+  },
+  "rows_out": 11431,
+  "special_codes_to_na": {
+    "gender": {
+      "-99": 151
+    },
+    "c3_r7": {
+      "-97.0": 304
+    },
+    "c3_r8": {
+      "-97.0": 511
+    },
+    "f1_income": {
+      "-99": 674
+    }
+  },
+  "gender_w_imputed": 229,
+  "c2_coding": {
+    "answers": 2508,
+    "method": {
+      "keyword": 2094,
+      "other": 397,
+      "fuzzy": 17
+    },
+    "multi_coded": 0,
+    "code_counts": {
+      "c2_code_1": 372,
+      "c2_code_2": 353,
+      "c2_code_3": 319,
+      "c2_code_4": 245,
+      "c2_code_5": 227,
+      "c2_code_6": 204,
+      "c2_code_7": 391,
+      "c2_code_8": 397
+    }
+  },
+  "checks": {
+    "C/D answered by non-customer": 0,
+    "customer without NPS": 0,
+    "B2 answered while unaware": 0,
+    "D3 answered without contact": 0,
+    "C3r8 present before W3": 0,
+    "main bank not ticked at A1": 0,
+    "age outside 18-69": 0,
+    "duplicate resp_id": 0,
+    "removed respondent still present": 0,
+    "values outside codebook": {}
+  },
+  "rows_by_wave": {
+    "W1": 2864,
+    "W2": 2858,
+    "W3": 2855,
+    "W4": 2854
+  },
+  "customers_by_wave": {
+    "W1": 636,
+    "W2": 616,
+    "W3": 643,
+    "W4": 613
+  },
+  "columns": 96,
+  "files": [
+    "data/clean/tracker_clean.csv",
+    "data/clean/removed_respondents.csv"
+  ]
+}

@@ -1,0 +1,313 @@
+# =============================================================================
+# Mosaik Bank CX Tracker 2026 - codebook / datamap
+# -----------------------------------------------------------------------------
+# Single source of truth for variable names, labels, types, codes and bases.
+# Read by the Python pipeline (src/) and the R scripts (R/) alike.
+#
+#   name      clean variable name (snake_case) used from step 03 onwards
+#   raw       column name in the standard raw export; wave-specific deviations
+#             (e.g. QNPS in W2) live in config/wave_mappings.yaml
+#   label     short variable label, used as table and chart text
+#   type      int | float | string | datetime | text (open end)
+#   values    name of a value set below; codes not listed are invalid
+#   base      who is asked (routing); everyone else is "not asked" (-98)
+#   waves     only present in these waves (default: all)
+#   derived   true = computed in the pipeline, not in the raw export
+#   keep      false = raw/screening only, dropped from the clean file
+#
+# All brands and all data in this project are fictional / simulated.
+# =============================================================================
+
+meta:
+  study: Mosaik Bank Customer Experience Tracker 2026
+  client: Mosaik Bank (fictional)
+  method: CAWI online panel, adults 18-69 in Germany with an online current account
+  version: "1.0"
+  waves:
+    1: {label: "W1 Mar 2026", field_start: "2026-03-02", field_end: "2026-03-15"}
+    2: {label: "W2 Jun 2026", field_start: "2026-06-01", field_end: "2026-06-14"}
+    3: {label: "W3 Sep 2026", field_start: "2026-09-01", field_end: "2026-09-14"}
+    4: {label: "W4 Dec 2026", field_start: "2026-12-01", field_end: "2026-12-14"}
+
+# Special codes. In the clean file all three become NA; for C3 and F1 a
+# <var>_miss_reason column keeps which one it was.
+missing_codes:
+  -99: Refused / prefer not to say
+  -98: Not asked (routing)
+  -97: Don't know
+
+# -----------------------------------------------------------------------------
+# Reusable value sets
+# -----------------------------------------------------------------------------
+value_sets:
+  selected: {0: Not selected, 1: Selected}
+  yes_no: {0: "No", 1: "Yes"}
+  wave: {1: W1 Mar 2026, 2: W2 Jun 2026, 3: W3 Sep 2026, 4: W4 Dec 2026}
+  status: {1: Complete, 2: Partial, 3: Screened out, 4: Over quota}
+  device: {1: Desktop, 2: Mobile, 3: Tablet}
+  gender: {1: Male, 2: Female, 3: Diverse, -99: Prefer not to say}
+  gender_w: {1: Male, 2: Female}
+  age_band: {1: "18-29", 2: "30-39", 3: "40-49", 4: "50-59", 5: "60-69"}
+  state:
+    1: Schleswig-Holstein
+    2: Hamburg
+    3: Niedersachsen
+    4: Bremen
+    5: Nordrhein-Westfalen
+    6: Hessen
+    7: Rheinland-Pfalz
+    8: Baden-Wuerttemberg
+    9: Bayern
+    10: Saarland
+    11: Berlin
+    12: Brandenburg
+    13: Mecklenburg-Vorpommern
+    14: Sachsen
+    15: Sachsen-Anhalt
+    16: Thueringen
+  region: {1: North, 2: East, 3: South, 4: West}
+  brand: {1: Mosaik Bank, 2: Volta, 3: Atlas Direkt, 4: Sparhaus, 5: Pebble, 6: Other bank}
+  tenure: {1: Less than 1 year, 2: 1-2 years, 3: 3-5 years, 4: More than 5 years}
+  nps_0_10:
+    0: "0 - Not at all likely"
+    1: "1"
+    2: "2"
+    3: "3"
+    4: "4"
+    5: "5"
+    6: "6"
+    7: "7"
+    8: "8"
+    9: "9"
+    10: "10 - Extremely likely"
+  nps_group: {1: Detractor (0-6), 2: Passive (7-8), 3: Promoter (9-10)}
+  nps_score: {-100: Detractor, 0: Passive, 100: Promoter}
+  sat5_dk:
+    1: Very dissatisfied
+    2: Dissatisfied
+    3: Neither
+    4: Satisfied
+    5: Very satisfied
+    -97: Don't know
+  sat5:
+    1: Very dissatisfied
+    2: Dissatisfied
+    3: Neither
+    4: Satisfied
+    5: Very satisfied
+  likely5:
+    1: Very unlikely
+    2: Unlikely
+    3: Neither
+    4: Likely
+    5: Very likely
+  agree5:
+    1: Strongly disagree
+    2: Disagree
+    3: Neither
+    4: Agree
+    5: Strongly agree
+  app_freq: {1: Daily, 2: Weekly, 3: Monthly, 4: Less than monthly}
+  resolved: {1: "Yes, at first contact", 2: "Yes, after several contacts", 3: "No"}
+  income:
+    1: "Under EUR 1,500"
+    2: "EUR 1,500-2,499"
+    3: "EUR 2,500-3,499"
+    4: "EUR 3,500-4,499"
+    5: "EUR 4,500-5,999"
+    6: "EUR 6,000 or more"
+    -99: Prefer not to say
+  employment:
+    1: Full-time employed
+    2: Part-time employed
+    3: Self-employed
+    4: Student / trainee
+    5: Retired
+    6: Not working
+  education:
+    1: Lower secondary (Hauptschule)
+    2: Intermediate secondary (Realschule)
+    3: Upper secondary (Abitur)
+    4: Vocational / master craftsman
+    5: University degree
+  # Why a value is missing in the clean file (special codes become NA in step 03)
+  miss_reason: {-99: Refused / prefer not to say, -98: Not asked (routing), -97: "Don't know"}
+  # Code frame for the C2 open end (applied in step 03)
+  c2_codes:
+    1: Fees / value for money
+    2: App
+    3: Customer service
+    4: Security / trust
+    5: Transfers
+    6: Card
+    7: Interest / investing
+    8: Other / general
+
+# -----------------------------------------------------------------------------
+# Derivation rules shared by Python and R
+# -----------------------------------------------------------------------------
+derivations:
+  age_band_breaks: [18, 30, 40, 50, 60, 70]   # left-closed: [18,30) = 1 ...
+  state_to_region:
+    1: 1    # Schleswig-Holstein -> North
+    2: 1    # Hamburg
+    3: 1    # Niedersachsen
+    4: 1    # Bremen
+    5: 4    # Nordrhein-Westfalen -> West
+    6: 4    # Hessen
+    7: 4    # Rheinland-Pfalz
+    8: 3    # Baden-Wuerttemberg -> South
+    9: 3    # Bayern
+    10: 4   # Saarland
+    11: 2   # Berlin -> East
+    12: 2   # Brandenburg
+    13: 2   # Mecklenburg-Vorpommern
+    14: 2   # Sachsen
+    15: 2   # Sachsen-Anhalt
+    16: 2   # Thueringen
+  nps_group: {detractor: [0, 6], passive: [7, 8], promoter: [9, 10]}
+  top2box: [4, 5]
+  # Brand order used for every a1_/b1_/b2_ item
+  brand_items: {r1: Mosaik Bank, r2: Volta, r3: Atlas Direkt, r4: Sparhaus, r5: Pebble}
+  # Attribute order used for every c3_ item
+  c3_items:
+    r1: App ease
+    r2: Transfer speed
+    r3: Fees / value for money
+    r4: Customer service
+    r5: Security & trust
+    r6: Card features
+    r7: Savings interest
+    r8: Investing features
+
+# -----------------------------------------------------------------------------
+# Variables
+# -----------------------------------------------------------------------------
+variables:
+
+  # --- Identifiers and paradata ---------------------------------------------
+  - {name: resp_id, raw: null, label: Respondent ID (wave + record), type: string, base: all, derived: true}
+  - {name: record, raw: record, label: Record number within wave, type: int, base: all}
+  - {name: panel_id, raw: panel_id, label: Panel member ID, type: string, base: all}
+  - {name: wave, raw: null, label: Survey wave, type: int, values: wave, base: all, derived: true}
+  - {name: status, raw: status, label: Interview disposition, type: int, values: status, base: all, keep: false}
+  - {name: start_ts, raw: start_date, label: Interview start, type: datetime, base: all}
+  - {name: end_ts, raw: end_date, label: Interview end, type: datetime, base: all}
+  - {name: duration_s, raw: qtime, label: Interview length (seconds), type: int, base: all}
+  - {name: device, raw: device, label: Device, type: int, values: device, base: all}
+
+  # --- S: Screener ------------------------------------------------------------
+  - {name: age, raw: S1, label: Age, type: int, base: all, question: "How old are you?"}
+  - {name: age_band, raw: null, label: Age band, type: int, values: age_band, base: all, derived: true}
+  - {name: gender, raw: S2, label: Gender, type: int, values: gender, base: all}
+  - {name: gender_w, raw: null, label: Gender for weighting (diverse / refused imputed), type: int, values: gender_w, base: all, derived: true}
+  - {name: state, raw: S3, label: Federal state, type: int, values: state, base: all}
+  - {name: region, raw: null, label: Region, type: int, values: region, base: all, derived: true}
+  - {name: s4_account, raw: S4, label: Has current account with online access, type: int, values: yes_no, base: all, keep: false}
+  - {name: s5_r1, raw: S5r1, label: "Works in: banking / financial services", type: int, values: selected, base: all, keep: false}
+  - {name: s5_r2, raw: S5r2, label: "Works in: market research", type: int, values: selected, base: all, keep: false}
+  - {name: s5_r3, raw: S5r3, label: "Works in: advertising / media", type: int, values: selected, base: all, keep: false}
+  - {name: s5_r4, raw: S5r4, label: "Works in: none of these", type: int, values: selected, base: all, keep: false}
+
+  # --- A: Banking relationship ---------------------------------------------
+  - {name: a1_r1, raw: A1r1, label: "Bank used: Mosaik Bank", type: int, values: selected, base: all}
+  - {name: a1_r2, raw: A1r2, label: "Bank used: Volta", type: int, values: selected, base: all}
+  - {name: a1_r3, raw: A1r3, label: "Bank used: Atlas Direkt", type: int, values: selected, base: all}
+  - {name: a1_r4, raw: A1r4, label: "Bank used: Sparhaus", type: int, values: selected, base: all}
+  - {name: a1_r5, raw: A1r5, label: "Bank used: Pebble", type: int, values: selected, base: all}
+  - {name: a1_r6, raw: A1r6, label: "Bank used: Other bank", type: int, values: selected, base: all}
+  - {name: a1_r7, raw: A1r7, label: "Bank used: None", type: int, values: selected, base: all}
+  - {name: main_bank, raw: A2, label: Main bank, type: int, values: brand, base: all, question: "Which of these is your main bank (where your salary arrives)?"}
+  - {name: mosaik_cust, raw: null, label: Mosaik customer, type: int, values: yes_no, base: all, derived: true}
+  - {name: mosaik_main, raw: null, label: Mosaik is main bank, type: int, values: yes_no, base: all, derived: true}
+  - {name: a3_tenure, raw: A3, label: Tenure with Mosaik, type: int, values: tenure, base: mosaik_cust}
+
+  # --- B: Brand funnel --------------------------------------------------------
+  - {name: b1_r1, raw: B1r1, label: "Aware: Mosaik Bank", type: int, values: selected, base: all}
+  - {name: b1_r2, raw: B1r2, label: "Aware: Volta", type: int, values: selected, base: all}
+  - {name: b1_r3, raw: B1r3, label: "Aware: Atlas Direkt", type: int, values: selected, base: all}
+  - {name: b1_r4, raw: B1r4, label: "Aware: Sparhaus", type: int, values: selected, base: all}
+  - {name: b1_r5, raw: B1r5, label: "Aware: Pebble", type: int, values: selected, base: all}
+  - {name: b2_r1, raw: B2r1, label: "Would consider: Mosaik Bank", type: int, values: selected, base: b1_r1}
+  - {name: b2_r2, raw: B2r2, label: "Would consider: Volta", type: int, values: selected, base: b1_r2}
+  - {name: b2_r3, raw: B2r3, label: "Would consider: Atlas Direkt", type: int, values: selected, base: b1_r3}
+  - {name: b2_r4, raw: B2r4, label: "Would consider: Sparhaus", type: int, values: selected, base: b1_r4}
+  - {name: b2_r5, raw: B2r5, label: "Would consider: Pebble", type: int, values: selected, base: b1_r5}
+
+  # --- C: Mosaik experience -------------------------------------------------
+  - {name: c1_nps, raw: C1, label: Likelihood to recommend Mosaik (0-10), type: int, values: nps_0_10, base: mosaik_cust, question: "How likely are you to recommend Mosaik Bank to a friend or colleague?"}
+  - {name: nps_group, raw: null, label: NPS group, type: int, values: nps_group, base: mosaik_cust, derived: true}
+  - {name: nps_score, raw: null, label: NPS scoring variable (mean = NPS), type: int, values: nps_score, base: mosaik_cust, derived: true}
+  - {name: c2_reason, raw: C2, label: Main reason for NPS score (open end), type: text, base: mosaik_cust}
+  - {name: c2_code_1, raw: null, label: "Reason: fees / value for money", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c2_code_2, raw: null, label: "Reason: app", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c2_code_3, raw: null, label: "Reason: customer service", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c2_code_4, raw: null, label: "Reason: security / trust", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c2_code_5, raw: null, label: "Reason: transfers", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c2_code_6, raw: null, label: "Reason: card", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c2_code_7, raw: null, label: "Reason: interest / investing", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c2_code_8, raw: null, label: "Reason: other / general", type: int, values: selected, base: mosaik_cust, derived: true}
+  - {name: c3_r1, raw: C3r1, label: "Satisfaction: app ease", type: int, values: sat5_dk, base: mosaik_cust}
+  - {name: c3_r2, raw: C3r2, label: "Satisfaction: transfer speed", type: int, values: sat5_dk, base: mosaik_cust}
+  - {name: c3_r3, raw: C3r3, label: "Satisfaction: fees / value for money", type: int, values: sat5_dk, base: mosaik_cust}
+  - {name: c3_r4, raw: C3r4, label: "Satisfaction: customer service", type: int, values: sat5_dk, base: mosaik_cust}
+  - {name: c3_r5, raw: C3r5, label: "Satisfaction: security & trust", type: int, values: sat5_dk, base: mosaik_cust}
+  - {name: c3_r6, raw: C3r6, label: "Satisfaction: card features", type: int, values: sat5_dk, base: mosaik_cust}
+  - {name: c3_r7, raw: C3r7, label: "Satisfaction: savings interest", type: int, values: sat5_dk, base: mosaik_cust}
+  - {name: c3_r8, raw: C3r8, label: "Satisfaction: investing features", type: int, values: sat5_dk, base: mosaik_cust, waves: [3, 4]}
+  - {name: c3_t2b_r1, raw: null, label: "Top-2-box: app ease", type: int, values: yes_no, base: c3_r1 valid, derived: true}
+  - {name: c3_t2b_r2, raw: null, label: "Top-2-box: transfer speed", type: int, values: yes_no, base: c3_r2 valid, derived: true}
+  - {name: c3_t2b_r3, raw: null, label: "Top-2-box: fees / value for money", type: int, values: yes_no, base: c3_r3 valid, derived: true}
+  - {name: c3_t2b_r4, raw: null, label: "Top-2-box: customer service", type: int, values: yes_no, base: c3_r4 valid, derived: true}
+  - {name: c3_t2b_r5, raw: null, label: "Top-2-box: security & trust", type: int, values: yes_no, base: c3_r5 valid, derived: true}
+  - {name: c3_t2b_r6, raw: null, label: "Top-2-box: card features", type: int, values: yes_no, base: c3_r6 valid, derived: true}
+  - {name: c3_t2b_r7, raw: null, label: "Top-2-box: savings interest", type: int, values: yes_no, base: c3_r7 valid, derived: true}
+  - {name: c3_t2b_r8, raw: null, label: "Top-2-box: investing features", type: int, values: yes_no, base: c3_r8 valid, waves: [3, 4], derived: true}
+  - {name: c3x_attn, raw: C3x, label: "Attention check (correct answer = 4)", type: int, values: sat5, base: mosaik_cust}
+  - {name: c4_overall, raw: C4, label: Overall satisfaction with Mosaik, type: int, values: sat5, base: mosaik_cust}
+  - {name: c5_switch, raw: C5, label: Likelihood to switch main account (12 months), type: int, values: likely5, base: mosaik_cust}
+  - {name: c6_r1, raw: C6r1, label: "Mosaik product: current account", type: int, values: selected, base: mosaik_cust}
+  - {name: c6_r2, raw: C6r2, label: "Mosaik product: savings", type: int, values: selected, base: mosaik_cust}
+  - {name: c6_r3, raw: C6r3, label: "Mosaik product: credit card", type: int, values: selected, base: mosaik_cust}
+  - {name: c6_r4, raw: C6r4, label: "Mosaik product: investing", type: int, values: selected, base: mosaik_cust}
+  - {name: c6_r5, raw: C6r5, label: "Mosaik product: overdraft", type: int, values: selected, base: mosaik_cust}
+
+  # --- D: Usage and service -------------------------------------------------
+  - {name: d1_app_freq, raw: D1, label: Mosaik app use frequency, type: int, values: app_freq, base: mosaik_cust}
+  - {name: d2_contact, raw: D2, label: Contacted service in last 3 months, type: int, values: yes_no, base: mosaik_cust}
+  - {name: d3_resolved, raw: D3, label: Issue resolved, type: int, values: resolved, base: d2_contact == 1}
+
+  # --- E: Banking attitudes (all respondents) -------------------------------
+  - {name: e1_r1, raw: E1r1, label: "I would switch banks for a better interest rate", type: int, values: agree5, base: all}
+  - {name: e1_r2, raw: E1r2, label: "I prefer a bank with branches I can visit", type: int, values: agree5, base: all}
+  - {name: e1_r3, raw: E1r3, label: "I am comfortable banking only through an app", type: int, values: agree5, base: all}
+  - {name: e1_r4, raw: E1r4, label: "Sustainability matters in my choice of bank", type: int, values: agree5, base: all}
+  - {name: e1_r5, raw: E1r5, label: "I invest money regularly", type: int, values: agree5, base: all}
+  - {name: e1_r6, raw: E1r6, label: "Security matters more to me than new features", type: int, values: agree5, base: all}
+
+  # --- F: Demographics --------------------------------------------------------
+  - {name: f1_income, raw: F1, label: Monthly net household income, type: int, values: income, base: all}
+  - {name: f2_employment, raw: F2, label: Employment status, type: int, values: employment, base: all}
+  - {name: f3_education, raw: F3, label: Highest education, type: int, values: education, base: all}
+
+  # --- Missing-value reasons (derived in step 03) -----------------------------
+  - {name: gender_miss_reason, raw: null, label: "Why gender is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r1_miss_reason, raw: null, label: "Why c3_r1 is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r2_miss_reason, raw: null, label: "Why c3_r2 is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r3_miss_reason, raw: null, label: "Why c3_r3 is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r4_miss_reason, raw: null, label: "Why c3_r4 is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r5_miss_reason, raw: null, label: "Why c3_r5 is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r6_miss_reason, raw: null, label: "Why c3_r6 is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r7_miss_reason, raw: null, label: "Why c3_r7 is missing", type: int, values: miss_reason, base: all, derived: true}
+  - {name: c3_r8_miss_reason, raw: null, label: "Why c3_r8 is missing", type: int, values: miss_reason, base: all, waves: [3, 4], derived: true}
+  - {name: f1_income_miss_reason, raw: null, label: "Why income is missing", type: int, values: miss_reason, base: all, derived: true}
+
+  # --- Quality control and weighting (derived) ------------------------------
+  - {name: qc_speeder, raw: null, label: "QC: speeder (< 40% of wave x device median)", type: int, values: yes_no, base: all, derived: true}
+  - {name: qc_straightliner, raw: null, label: "QC: straightliner (identical grid answers)", type: int, values: yes_no, base: all, derived: true}
+  - {name: qc_attention, raw: null, label: "QC: failed attention check", type: int, values: yes_no, base: mosaik_cust, derived: true}
+  - {name: qc_duplicate, raw: null, label: "QC: duplicate panel ID within wave", type: int, values: yes_no, base: all, derived: true}
+  - {name: qc_gibberish, raw: null, label: "QC: gibberish open end", type: int, values: yes_no, base: mosaik_cust, derived: true}
+  - {name: qc_inconsistent, raw: null, label: "QC: logically inconsistent answers", type: int, values: yes_no, base: all, derived: true}
+  - {name: qc_remove, raw: null, label: "QC: removed (hard flag or 2+ soft flags)", type: int, values: yes_no, base: all, derived: true}
+  - {name: weight, raw: null, label: Raking weight (mean 1 within wave), type: float, base: all, derived: true}

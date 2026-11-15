@@ -1,0 +1,570 @@
+resp_id,wave,record,panel_id,qc_reasons
+W1_000094,1,94,P5738270,"straightliner(C3,E1); attention"
+W1_000099,1,99,P2267121,attention
+W1_000104,1,104,P1803774,"speeder; straightliner(C3,E1); attention"
+W1_000117,1,117,P7324460,inconsistent(age_vs_tenure)
+W1_000157,1,157,P7768903,attention
+W1_000164,1,164,P7987062,speeder; gibberish(too few letters); attention
+W1_000180,1,180,P1895025,inconsistent(age_vs_tenure)
+W1_000196,1,196,P3336299,speeder; straightliner(E1)
+W1_000245,1,245,P5147536,duplicate
+W1_000255,1,255,P6014761,duplicate
+W1_000263,1,263,P9492861,attention
+W1_000291,1,291,P7520797,duplicate
+W1_000340,1,340,P4870979,"straightliner(C3,E1); attention"
+W1_000351,1,351,P6975400,speeder; straightliner(E1)
+W1_000392,1,392,P4993559,attention
+W1_000434,1,434,P5189487,inconsistent(age_vs_tenure)
+W1_000436,1,436,P2063814,duplicate
+W1_000470,1,470,P6552378,inconsistent(d3_without_contact)
+W1_000471,1,471,P7139603,speeder; gibberish(too few letters); attention
+W1_000481,1,481,P7590489,attention
+W1_000506,1,506,P3759222,attention
+W1_000581,1,581,P3877091,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_000588,1,588,P2710218,duplicate
+W1_000614,1,614,P8444762,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_000622,1,622,P8962196,duplicate
+W1_000624,1,624,P3011961,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_000629,1,629,P2310989,speeder; gibberish(too few letters); attention
+W1_000639,1,639,P5508996,attention
+W1_000706,1,706,P2370434,"straightliner(C3,E1); attention"
+W1_000708,1,708,P7855519,duplicate
+W1_000709,1,709,P9687616,attention
+W1_000725,1,725,P6737698,inconsistent(age_vs_tenure)
+W1_000752,1,752,P6332760,"speeder; straightliner(C3,E1); attention"
+W1_000809,1,809,P6449448,attention
+W1_000813,1,813,P4531891,duplicate
+W1_000843,1,843,P6987366,"straightliner(C3,E1); attention"
+W1_000859,1,859,P7559860,inconsistent(d3_without_contact)
+W1_000917,1,917,P8247616,"speeder; straightliner(C3,E1)"
+W1_000930,1,930,P2554155,"speeder; straightliner(C3,E1); attention"
+W1_000944,1,944,P6717320,speeder; straightliner(E1)
+W1_000980,1,980,P3123799,speeder; straightliner(E1)
+W1_001008,1,1008,P4693334,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_001012,1,1012,P4001844,duplicate
+W1_001105,1,1105,P9018573,attention
+W1_001114,1,1114,P4401425,speeder; gibberish(repeated pattern); attention
+W1_001120,1,1120,P9597067,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_001157,1,1157,P6929114,speeder; straightliner(E1)
+W1_001171,1,1171,P8293256,speeder; straightliner(E1)
+W1_001200,1,1200,P7371592,duplicate
+W1_001207,1,1207,P7046370,duplicate
+W1_001238,1,1238,P2768808,attention
+W1_001350,1,1350,P1302380,attention
+W1_001358,1,1358,P9615456,inconsistent(age_vs_tenure)
+W1_001376,1,1376,P1931152,duplicate
+W1_001402,1,1402,P8031610,speeder; straightliner(E1)
+W1_001416,1,1416,P9235531,attention
+W1_001437,1,1437,P2144525,inconsistent(age_vs_tenure)
+W1_001483,1,1483,P5106492,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_001490,1,1490,P5844999,attention
+W1_001497,1,1497,P9066596,"speeder; straightliner(C3,E1); attention"
+W1_001498,1,1498,P4590747,speeder; straightliner(E1)
+W1_001502,1,1502,P6510126,"straightliner(C3,E1); attention"
+W1_001534,1,1534,P2101964,attention
+W1_001555,1,1555,P7354803,attention
+W1_001575,1,1575,P1067083,duplicate
+W1_001603,1,1603,P6225700,inconsistent(age_vs_tenure)
+W1_001680,1,1680,P8826762,duplicate
+W1_001685,1,1685,P4567011,duplicate
+W1_001729,1,1729,P8525640,speeder; straightliner(E1)
+W1_001750,1,1750,P6775944,attention
+W1_001753,1,1753,P7392996,speeder; straightliner(E1)
+W1_001774,1,1774,P7568256,attention
+W1_001799,1,1799,P4948369,duplicate
+W1_001805,1,1805,P6967492,inconsistent(age_vs_tenure)
+W1_001815,1,1815,P4619073,attention
+W1_001856,1,1856,P5347433,speeder; gibberish(keyboard run); attention
+W1_001864,1,1864,P5024739,duplicate
+W1_001880,1,1880,P5546581,attention
+W1_001895,1,1895,P9545709,inconsistent(d3_without_contact)
+W1_001896,1,1896,P1802830,attention
+W1_001902,1,1902,P3651065,attention
+W1_001943,1,1943,P8835630,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_001958,1,1958,P4075531,attention
+W1_001977,1,1977,P8492678,attention
+W1_001978,1,1978,P3584156,speeder; gibberish(keyboard run); attention
+W1_001980,1,1980,P2812533,duplicate
+W1_001981,1,1981,P9341125,inconsistent(d3_without_contact)
+W1_002011,1,2011,P9748894,"speeder; straightliner(C3,E1)"
+W1_002036,1,2036,P1705701,"speeder; straightliner(C3,E1); attention"
+W1_002089,1,2089,P2486982,speeder; gibberish(too few letters); attention
+W1_002099,1,2099,P4102445,duplicate
+W1_002129,1,2129,P6122897,inconsistent(d3_without_contact)
+W1_002132,1,2132,P7743245,"speeder; straightliner(C3,E1); attention"
+W1_002133,1,2133,P8190788,"speeder; straightliner(C3,E1); attention"
+W1_002186,1,2186,P8182078,inconsistent(d3_without_contact)
+W1_002192,1,2192,P2533155,inconsistent(age_vs_tenure)
+W1_002214,1,2214,P6198218,duplicate
+W1_002224,1,2224,P3695458,duplicate
+W1_002245,1,2245,P1848260,"straightliner(C3,E1); attention"
+W1_002325,1,2325,P5491683,"speeder; straightliner(C3,E1); attention"
+W1_002329,1,2329,P1651423,"straightliner(C3,E1); attention"
+W1_002353,1,2353,P4220631,speeder; straightliner(E1)
+W1_002411,1,2411,P4542811,speeder; straightliner(E1)
+W1_002425,1,2425,P3223041,attention
+W1_002445,1,2445,P1263356,speeder; straightliner(E1)
+W1_002493,1,2493,P1245567,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_002510,1,2510,P2903469,duplicate
+W1_002511,1,2511,P1954490,attention
+W1_002539,1,2539,P5712197,inconsistent(d3_without_contact)
+W1_002543,1,2543,P6070603,inconsistent(age_vs_tenure)
+W1_002578,1,2578,P3786887,speeder; straightliner(E1)
+W1_002579,1,2579,P6000731,"straightliner(C3,E1); attention"
+W1_002592,1,2592,P5789863,attention
+W1_002617,1,2617,P6088873,inconsistent(age_vs_tenure)
+W1_002635,1,2635,P6273926,speeder; gibberish(too few letters); attention
+W1_002652,1,2652,P5358978,attention
+W1_002672,1,2672,P4962090,duplicate
+W1_002712,1,2712,P4144926,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W1_002724,1,2724,P5146919,"straightliner(C3,E1); attention"
+W1_002736,1,2736,P2043482,attention
+W1_002741,1,2741,P8275584,inconsistent(d3_without_contact)
+W1_002769,1,2769,P4129388,duplicate
+W1_002770,1,2770,P8880275,duplicate
+W1_002778,1,2778,P1678443,"speeder; straightliner(C3,E1); attention"
+W1_002821,1,2821,P8845823,duplicate
+W1_002827,1,2827,P9915951,duplicate
+W1_002836,1,2836,P4363426,"speeder; straightliner(C3,E1); attention"
+W1_002843,1,2843,P4522465,inconsistent(age_vs_tenure)
+W1_002849,1,2849,P3540601,"speeder; straightliner(C3,E1); attention"
+W1_002852,1,2852,P4082100,attention
+W1_002864,1,2864,P5199957,inconsistent(d3_without_contact)
+W1_002942,1,2942,P6208225,"straightliner(C3,E1); attention"
+W1_002972,1,2972,P9387510,attention
+W1_002988,1,2988,P6779350,duplicate
+W1_002999,1,2999,P1948000,duplicate
+W1_003000,1,3000,P8529075,duplicate
+W2_000093,2,93,P5711951,speeder; straightliner(E1)
+W2_000094,2,94,P5289055,attention
+W2_000109,2,109,P9701068,attention
+W2_000115,2,115,P1986343,attention
+W2_000119,2,119,P5214106,speeder; straightliner(E1)
+W2_000134,2,134,P8708110,attention
+W2_000178,2,178,P1590639,attention
+W2_000195,2,195,P3038622,inconsistent(d3_without_contact)
+W2_000208,2,208,P9761538,attention
+W2_000223,2,223,P6036847,attention
+W2_000228,2,228,P1937294,"straightliner(C3,E1); attention"
+W2_000229,2,229,P3334333,inconsistent(d3_without_contact)
+W2_000257,2,257,P8781780,attention
+W2_000258,2,258,P4311168,attention
+W2_000259,2,259,P7759334,inconsistent(age_vs_tenure)
+W2_000261,2,261,P6240382,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_000265,2,265,P5416133,inconsistent(d3_without_contact)
+W2_000320,2,320,P8913971,"speeder; straightliner(C3,E1); attention"
+W2_000339,2,339,P3749819,attention
+W2_000344,2,344,P1201234,speeder; straightliner(E1)
+W2_000360,2,360,P3487003,speeder; straightliner(E1)
+W2_000380,2,380,P7796033,attention
+W2_000392,2,392,P9600645,attention
+W2_000498,2,498,P3978836,attention
+W2_000520,2,520,P5701137,attention
+W2_000536,2,536,P9162789,inconsistent(age_vs_tenure)
+W2_000560,2,560,P6008956,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_000593,2,593,P6216299,duplicate
+W2_000656,2,656,P7255396,attention
+W2_000747,2,747,P5749255,speeder; straightliner(E1)
+W2_000792,2,792,P4508079,attention
+W2_000802,2,802,P2561165,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_000821,2,821,P9631814,duplicate
+W2_000839,2,839,P8058565,attention
+W2_000849,2,849,P9861488,inconsistent(age_vs_tenure)
+W2_000891,2,891,P6679750,attention
+W2_000914,2,914,P9531153,inconsistent(age_vs_tenure)
+W2_000930,2,930,P5041648,attention
+W2_000964,2,964,P2966713,duplicate
+W2_000993,2,993,P4186525,speeder; straightliner(E1)
+W2_001008,2,1008,P8755204,duplicate
+W2_001023,2,1023,P5026514,attention
+W2_001036,2,1036,P5425147,inconsistent(age_vs_tenure)
+W2_001065,2,1065,P4988435,attention
+W2_001071,2,1071,P5408393,"speeder; straightliner(C3,E1); attention"
+W2_001097,2,1097,P5287665,speeder; straightliner(E1)
+W2_001101,2,1101,P3702272,duplicate
+W2_001118,2,1118,P1655834,inconsistent(age_vs_tenure)
+W2_001123,2,1123,P6925035,inconsistent(age_vs_tenure)
+W2_001140,2,1140,P3107739,duplicate
+W2_001146,2,1146,P8672846,duplicate
+W2_001191,2,1191,P4668614,duplicate
+W2_001196,2,1196,P4552906,duplicate
+W2_001246,2,1246,P8871138,duplicate
+W2_001276,2,1276,P5607130,"straightliner(C3,E1); attention"
+W2_001288,2,1288,P1877702,speeder; straightliner(E1)
+W2_001301,2,1301,P5412998,speeder; straightliner(E1)
+W2_001321,2,1321,P9318596,speeder; gibberish(too few letters); attention
+W2_001373,2,1373,P7768903,inconsistent(age_vs_tenure)
+W2_001378,2,1378,P1243569,speeder; straightliner(E1)
+W2_001382,2,1382,P7493063,"straightliner(C3,E1); attention"
+W2_001404,2,1404,P1584980,"speeder; straightliner(C3,E1); attention"
+W2_001424,2,1424,P8211017,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_001430,2,1430,P6804705,attention
+W2_001432,2,1432,P4276524,inconsistent(age_vs_tenure)
+W2_001434,2,1434,P4382167,attention
+W2_001464,2,1464,P2607183,"speeder; straightliner(C3,E1); attention"
+W2_001503,2,1503,P4233756,inconsistent(d3_without_contact)
+W2_001510,2,1510,P1072465,duplicate
+W2_001514,2,1514,P9343297,attention
+W2_001545,2,1545,P1755622,inconsistent(age_vs_tenure)
+W2_001550,2,1550,P5413622,"speeder; straightliner(C3,E1); attention"
+W2_001551,2,1551,P3902762,duplicate
+W2_001616,2,1616,P2126316,duplicate
+W2_001627,2,1627,P1487936,inconsistent(d3_without_contact)
+W2_001646,2,1646,P7061258,inconsistent(d3_without_contact)
+W2_001667,2,1667,P5538099,duplicate
+W2_001688,2,1688,P4904422,"straightliner(C3,E1); attention"
+W2_001745,2,1745,P6589422,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_001766,2,1766,P5727171,attention
+W2_001769,2,1769,P2184487,"straightliner(C3,E1); attention"
+W2_001831,2,1831,P6034942,duplicate
+W2_001855,2,1855,P5111179,"speeder; straightliner(C3,E1)"
+W2_002006,2,2006,P5083306,inconsistent(d3_without_contact)
+W2_002037,2,2037,P5991639,inconsistent(age_vs_tenure)
+W2_002048,2,2048,P5122155,speeder; straightliner(E1)
+W2_002057,2,2057,P9103654,inconsistent(age_vs_tenure)
+W2_002075,2,2075,P6517261,inconsistent(d3_without_contact)
+W2_002085,2,2085,P8744609,attention
+W2_002121,2,2121,P3330093,duplicate
+W2_002131,2,2131,P3886217,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_002145,2,2145,P2592001,attention
+W2_002148,2,2148,P3864371,attention
+W2_002178,2,2178,P1435131,attention
+W2_002222,2,2222,P5084564,inconsistent(d3_without_contact)
+W2_002225,2,2225,P8152008,speeder; straightliner(E1)
+W2_002232,2,2232,P9346515,"straightliner(C3,E1); attention"
+W2_002246,2,2246,P3247923,attention
+W2_002283,2,2283,P4223961,attention
+W2_002310,2,2310,P3762487,attention
+W2_002319,2,2319,P6269862,speeder; straightliner(E1)
+W2_002322,2,2322,P5647982,attention
+W2_002330,2,2330,P9103556,attention
+W2_002349,2,2349,P5020410,attention
+W2_002353,2,2353,P8407548,duplicate
+W2_002367,2,2367,P4220664,attention
+W2_002368,2,2368,P2668251,attention
+W2_002411,2,2411,P6042409,attention
+W2_002418,2,2418,P7722317,duplicate
+W2_002423,2,2423,P2707483,attention
+W2_002424,2,2424,P5487591,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_002431,2,2431,P3066966,duplicate
+W2_002463,2,2463,P9724618,speeder; straightliner(E1)
+W2_002465,2,2465,P5001100,duplicate
+W2_002496,2,2496,P8760531,duplicate
+W2_002525,2,2525,P7396612,speeder; gibberish(repeated pattern); attention
+W2_002597,2,2597,P5188526,speeder; straightliner(E1)
+W2_002618,2,2618,P7145596,duplicate
+W2_002671,2,2671,P3716818,"straightliner(C3,E1); attention"
+W2_002686,2,2686,P6375932,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_002727,2,2727,P9648797,attention
+W2_002732,2,2732,P4709437,attention
+W2_002763,2,2763,P3128120,duplicate
+W2_002798,2,2798,P9046554,speeder; straightliner(E1)
+W2_002803,2,2803,P8217563,speeder; straightliner(E1)
+W2_002843,2,2843,P6626976,speeder; straightliner(E1)
+W2_002844,2,2844,P9868175,duplicate
+W2_002853,2,2853,P9122048,speeder; straightliner(E1)
+W2_002877,2,2877,P5973561,attention
+W2_002879,2,2879,P8489106,attention
+W2_002903,2,2903,P3559143,duplicate
+W2_002912,2,2912,P1148647,attention
+W2_002914,2,2914,P1136494,"straightliner(C3,E1); attention"
+W2_002936,2,2936,P7216060,attention
+W2_002954,2,2954,P8709907,duplicate
+W2_002971,2,2971,P8331075,speeder; straightliner(E1)
+W2_002974,2,2974,P3614144,speeder; straightliner(E1)
+W2_002993,2,2993,P3864639,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W2_002997,2,2997,P8397689,duplicate
+W2_002998,2,2998,P9471936,duplicate
+W2_002999,2,2999,P5327065,duplicate
+W2_003000,2,3000,P5072653,duplicate
+W3_000002,3,2,P2418394,inconsistent(d3_without_contact)
+W3_000039,3,39,P3988395,attention
+W3_000098,3,98,P8031114,"straightliner(C3,E1); attention"
+W3_000126,3,126,P2216103,inconsistent(d3_without_contact)
+W3_000139,3,139,P1792921,attention
+W3_000146,3,146,P7903895,"straightliner(C3,E1); attention"
+W3_000161,3,161,P7427838,speeder; gibberish(repeated pattern); attention
+W3_000177,3,177,P3023448,attention
+W3_000178,3,178,P1900677,"straightliner(C3,E1); attention"
+W3_000187,3,187,P2693442,"speeder; straightliner(C3,E1)"
+W3_000206,3,206,P7216505,speeder; gibberish(same word repeated)
+W3_000214,3,214,P4495720,inconsistent(d3_without_contact)
+W3_000238,3,238,P4935920,inconsistent(age_vs_tenure)
+W3_000242,3,242,P1204281,attention
+W3_000248,3,248,P4739424,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_000265,3,265,P5483196,attention
+W3_000270,3,270,P6331628,speeder; straightliner(E1)
+W3_000309,3,309,P6317488,attention
+W3_000310,3,310,P2439500,duplicate
+W3_000318,3,318,P2608554,duplicate
+W3_000380,3,380,P8731967,speeder; straightliner(E1)
+W3_000403,3,403,P7576964,inconsistent(age_vs_tenure)
+W3_000417,3,417,P3122203,attention
+W3_000418,3,418,P5452529,attention
+W3_000431,3,431,P5137743,speeder; straightliner(E1)
+W3_000454,3,454,P6699821,attention
+W3_000511,3,511,P6142298,attention
+W3_000550,3,550,P5514096,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_000552,3,552,P8495064,duplicate
+W3_000560,3,560,P7328116,inconsistent(d3_without_contact)
+W3_000586,3,586,P1422680,inconsistent(age_vs_tenure)
+W3_000640,3,640,P1956125,inconsistent(age_vs_tenure)
+W3_000645,3,645,P2488513,attention
+W3_000661,3,661,P6793247,"straightliner(C3,E1); attention"
+W3_000673,3,673,P1508085,attention
+W3_000696,3,696,P5903133,duplicate
+W3_000724,3,724,P4363427,speeder; gibberish(no vowels); attention
+W3_000727,3,727,P3450236,speeder; straightliner(E1)
+W3_000799,3,799,P6072197,attention
+W3_000984,3,984,P4653740,duplicate
+W3_000995,3,995,P5149213,inconsistent(age_vs_tenure)
+W3_001028,3,1028,P1054363,attention
+W3_001040,3,1040,P5425970,duplicate
+W3_001060,3,1060,P8884963,attention
+W3_001134,3,1134,P8317719,"speeder; straightliner(C3,E1); attention"
+W3_001135,3,1135,P9057681,speeder; straightliner(E1)
+W3_001167,3,1167,P4437907,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_001174,3,1174,P4281502,attention
+W3_001179,3,1179,P3951102,speeder; straightliner(E1)
+W3_001182,3,1182,P6168435,attention
+W3_001192,3,1192,P3721894,speeder; straightliner(E1)
+W3_001252,3,1252,P3811204,attention
+W3_001273,3,1273,P3945282,duplicate
+W3_001302,3,1302,P3970229,duplicate
+W3_001312,3,1312,P7481776,attention
+W3_001349,3,1349,P4265500,attention
+W3_001423,3,1423,P1410287,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_001433,3,1433,P9968383,attention
+W3_001447,3,1447,P9377136,duplicate
+W3_001486,3,1486,P3537303,attention
+W3_001524,3,1524,P1046424,speeder; straightliner(E1)
+W3_001532,3,1532,P7184372,attention
+W3_001542,3,1542,P2551804,duplicate
+W3_001573,3,1573,P4206548,speeder; gibberish(repeated pattern); attention
+W3_001576,3,1576,P2543589,duplicate
+W3_001625,3,1625,P9571890,duplicate
+W3_001631,3,1631,P8813695,attention
+W3_001633,3,1633,P7646834,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_001641,3,1641,P8777412,inconsistent(d3_without_contact)
+W3_001649,3,1649,P8878980,inconsistent(d3_without_contact)
+W3_001666,3,1666,P2906965,speeder; straightliner(E1)
+W3_001673,3,1673,P1169763,speeder; straightliner(E1)
+W3_001675,3,1675,P1911949,inconsistent(d3_without_contact)
+W3_001685,3,1685,P8953496,attention
+W3_001726,3,1726,P1313156,speeder; straightliner(E1)
+W3_001742,3,1742,P7589898,speeder; straightliner(E1)
+W3_001790,3,1790,P7378429,inconsistent(age_vs_tenure)
+W3_001803,3,1803,P7842729,duplicate
+W3_001810,3,1810,P7169261,speeder; straightliner(E1)
+W3_001833,3,1833,P6876921,duplicate
+W3_001859,3,1859,P3134348,speeder; straightliner(E1)
+W3_001874,3,1874,P1875018,attention
+W3_001894,3,1894,P4336669,attention
+W3_001977,3,1977,P9176575,attention
+W3_001982,3,1982,P1639972,"speeder; straightliner(C3,E1); attention"
+W3_001987,3,1987,P6016480,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_001992,3,1992,P6076491,duplicate
+W3_001997,3,1997,P9341709,"speeder; straightliner(C3,E1); attention"
+W3_002010,3,2010,P5295156,attention
+W3_002039,3,2039,P8408090,attention
+W3_002043,3,2043,P4338455,inconsistent(age_vs_tenure)
+W3_002053,3,2053,P8280233,speeder; gibberish(repeated pattern); attention
+W3_002055,3,2055,P3652317,attention
+W3_002062,3,2062,P3432745,"straightliner(C3,E1); attention"
+W3_002069,3,2069,P8721152,speeder; straightliner(E1)
+W3_002091,3,2091,P9701068,duplicate
+W3_002109,3,2109,P4314575,attention
+W3_002113,3,2113,P2749226,duplicate
+W3_002120,3,2120,P9738509,duplicate
+W3_002144,3,2144,P5019525,duplicate
+W3_002150,3,2150,P9665805,speeder; gibberish(too few letters)
+W3_002157,3,2157,P3826526,duplicate
+W3_002158,3,2158,P5409885,inconsistent(age_vs_tenure)
+W3_002184,3,2184,P3510563,speeder; straightliner(E1)
+W3_002188,3,2188,P2459784,duplicate
+W3_002217,3,2217,P6912530,attention
+W3_002239,3,2239,P5063480,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_002319,3,2319,P2866755,duplicate
+W3_002350,3,2350,P4941612,attention
+W3_002384,3,2384,P1171927,inconsistent(age_vs_tenure)
+W3_002404,3,2404,P2976927,speeder; straightliner(E1)
+W3_002435,3,2435,P6855052,inconsistent(age_vs_tenure)
+W3_002450,3,2450,P2185697,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_002453,3,2453,P6328191,duplicate
+W3_002468,3,2468,P6424988,"straightliner(C3,E1); attention"
+W3_002552,3,2552,P8652768,speeder; straightliner(E1)
+W3_002595,3,2595,P3955735,speeder; straightliner(E1)
+W3_002620,3,2620,P2586408,attention
+W3_002648,3,2648,P3711340,attention
+W3_002650,3,2650,P9341448,attention
+W3_002652,3,2652,P7374759,speeder; gibberish(repeated pattern); attention
+W3_002687,3,2687,P2952636,inconsistent(d3_without_contact)
+W3_002694,3,2694,P3349598,duplicate
+W3_002697,3,2697,P7838985,attention
+W3_002715,3,2715,P1450892,attention
+W3_002723,3,2723,P6467926,inconsistent(age_vs_tenure)
+W3_002728,3,2728,P1978730,"straightliner(C3,E1); attention"
+W3_002742,3,2742,P4233030,duplicate
+W3_002771,3,2771,P3352826,"speeder; straightliner(C3,E1); attention"
+W3_002794,3,2794,P7084765,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W3_002828,3,2828,P7189862,speeder; gibberish(too few letters)
+W3_002833,3,2833,P3129854,speeder; straightliner(E1)
+W3_002905,3,2905,P2809744,"straightliner(C3,E1); attention"
+W3_002913,3,2913,P4599830,attention
+W3_002940,3,2940,P6881650,speeder; straightliner(E1)
+W3_002942,3,2942,P7874685,inconsistent(age_vs_tenure)
+W3_002943,3,2943,P2470388,inconsistent(d3_without_contact)
+W3_002947,3,2947,P2966435,duplicate
+W3_002971,3,2971,P7623210,attention
+W3_002978,3,2978,P1990585,"speeder; straightliner(C3,E1); attention"
+W3_002982,3,2982,P3648594,attention
+W3_002997,3,2997,P8621888,duplicate
+W3_002998,3,2998,P2935967,duplicate
+W3_002999,3,2999,P5483062,duplicate
+W3_003000,3,3000,P8541421,duplicate
+W4_000006,4,6,P8422620,speeder; straightliner(E1)
+W4_000012,4,12,P8865436,speeder; straightliner(E1)
+W4_000024,4,24,P7357517,speeder; straightliner(E1)
+W4_000084,4,84,P7151231,attention
+W4_000188,4,188,P7779531,inconsistent(d3_without_contact)
+W4_000210,4,210,P3943737,attention
+W4_000231,4,231,P2466273,duplicate
+W4_000251,4,251,P4437779,inconsistent(age_vs_tenure)
+W4_000279,4,279,P5284401,attention
+W4_000288,4,288,P6798880,duplicate
+W4_000298,4,298,P3056865,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_000308,4,308,P9205283,attention
+W4_000318,4,318,P1449443,attention
+W4_000328,4,328,P4441188,inconsistent(d3_without_contact)
+W4_000336,4,336,P8123160,attention
+W4_000360,4,360,P5796153,attention
+W4_000363,4,363,P6104739,duplicate
+W4_000369,4,369,P7750934,speeder; straightliner(E1)
+W4_000382,4,382,P6531654,"speeder; straightliner(C3,E1); attention"
+W4_000455,4,455,P1541529,duplicate
+W4_000473,4,473,P4790470,attention
+W4_000501,4,501,P9533479,speeder; straightliner(E1)
+W4_000523,4,523,P3348311,inconsistent(age_vs_tenure)
+W4_000531,4,531,P7712181,attention
+W4_000536,4,536,P9673712,"straightliner(C3,E1); attention"
+W4_000563,4,563,P3912517,speeder; straightliner(E1)
+W4_000574,4,574,P5938096,inconsistent(d3_without_contact)
+W4_000597,4,597,P3330093,speeder; gibberish(too few letters)
+W4_000675,4,675,P3527226,speeder; straightliner(E1)
+W4_000676,4,676,P3790465,attention
+W4_000684,4,684,P2107506,attention
+W4_000701,4,701,P4354576,speeder; straightliner(E1)
+W4_000732,4,732,P6512030,inconsistent(d3_without_contact)
+W4_000769,4,769,P4890335,speeder; straightliner(E1)
+W4_000772,4,772,P7708551,attention
+W4_000857,4,857,P5686343,inconsistent(age_vs_tenure)
+W4_000859,4,859,P2366838,duplicate
+W4_000869,4,869,P1998415,attention
+W4_000895,4,895,P6062865,inconsistent(age_vs_tenure)
+W4_000938,4,938,P9620641,attention
+W4_000964,4,964,P2717925,attention
+W4_000976,4,976,P7680212,attention
+W4_000984,4,984,P9232737,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_001051,4,1051,P7607411,inconsistent(d3_without_contact)
+W4_001061,4,1061,P5785559,"straightliner(C3,E1); attention"
+W4_001069,4,1069,P2924064,inconsistent(d3_without_contact)
+W4_001095,4,1095,P4416403,duplicate
+W4_001143,4,1143,P5559470,speeder; straightliner(E1)
+W4_001182,4,1182,P8150624,attention
+W4_001207,4,1207,P2361247,attention
+W4_001246,4,1246,P6493101,inconsistent(age_vs_tenure)
+W4_001307,4,1307,P4004685,attention
+W4_001311,4,1311,P9092802,attention
+W4_001335,4,1335,P1166519,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_001352,4,1352,P2288914,speeder; gibberish(same word repeated); attention
+W4_001359,4,1359,P7609904,duplicate
+W4_001396,4,1396,P7650419,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_001414,4,1414,P6759428,duplicate
+W4_001462,4,1462,P7885971,duplicate
+W4_001468,4,1468,P6475322,attention
+W4_001491,4,1491,P8075823,attention
+W4_001500,4,1500,P3852602,duplicate
+W4_001512,4,1512,P6804761,inconsistent(age_vs_tenure)
+W4_001533,4,1533,P6402625,speeder; gibberish(too few letters); attention
+W4_001534,4,1534,P1339859,speeder; straightliner(E1)
+W4_001548,4,1548,P6860345,attention
+W4_001584,4,1584,P6144307,attention
+W4_001587,4,1587,P5085557,"straightliner(C3,E1); attention"
+W4_001592,4,1592,P7921081,speeder; straightliner(E1)
+W4_001602,4,1602,P7139111,speeder; gibberish(same word repeated)
+W4_001639,4,1639,P8090201,"straightliner(C3,E1); attention"
+W4_001704,4,1704,P9676927,duplicate
+W4_001730,4,1730,P3079452,attention
+W4_001770,4,1770,P5356788,attention
+W4_001772,4,1772,P9075558,attention
+W4_001785,4,1785,P8225836,speeder; straightliner(E1)
+W4_001804,4,1804,P3848449,duplicate
+W4_001811,4,1811,P6702448,speeder; straightliner(E1)
+W4_001819,4,1819,P1565239,attention
+W4_001825,4,1825,P2434226,attention
+W4_001851,4,1851,P6264793,duplicate
+W4_001852,4,1852,P2101351,inconsistent(age_vs_tenure)
+W4_001859,4,1859,P7091854,attention
+W4_001882,4,1882,P6108056,duplicate
+W4_001932,4,1932,P2811647,attention
+W4_001948,4,1948,P3155045,inconsistent(d3_without_contact)
+W4_001957,4,1957,P1474889,attention
+W4_001966,4,1966,P3257690,attention
+W4_001979,4,1979,P7137512,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_001982,4,1982,P1939016,speeder; straightliner(E1)
+W4_002012,4,2012,P3961971,speeder; straightliner(E1)
+W4_002024,4,2024,P1886166,attention
+W4_002030,4,2030,P5390913,speeder; gibberish(too few letters); attention
+W4_002042,4,2042,P1477382,attention
+W4_002048,4,2048,P5468060,speeder; straightliner(E1)
+W4_002060,4,2060,P7410509,speeder; straightliner(E1)
+W4_002068,4,2068,P9818540,duplicate
+W4_002074,4,2074,P1012146,duplicate
+W4_002146,4,2146,P1649377,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_002166,4,2166,P9915076,speeder; straightliner(E1)
+W4_002176,4,2176,P1478149,attention
+W4_002186,4,2186,P3503796,"speeder; straightliner(C3,E1); attention"
+W4_002217,4,2217,P2150991,attention
+W4_002227,4,2227,P9483955,speeder; straightliner(E1)
+W4_002248,4,2248,P9204547,duplicate
+W4_002256,4,2256,P9044659,inconsistent(d3_without_contact)
+W4_002263,4,2263,P8527594,speeder; straightliner(E1)
+W4_002295,4,2295,P4243674,duplicate
+W4_002306,4,2306,P5512252,inconsistent(age_vs_tenure)
+W4_002340,4,2340,P9214491,duplicate
+W4_002400,4,2400,P2694061,"speeder; straightliner(C3,E1); attention"
+W4_002425,4,2425,P8321386,attention
+W4_002456,4,2456,P1501975,speeder; straightliner(E1)
+W4_002458,4,2458,P7370570,attention
+W4_002476,4,2476,P6630958,attention
+W4_002477,4,2477,P7814062,attention
+W4_002515,4,2515,P2768808,attention
+W4_002541,4,2541,P4722180,inconsistent(age_vs_tenure)
+W4_002556,4,2556,P5133206,inconsistent(age_vs_tenure)
+W4_002588,4,2588,P9563609,inconsistent(d3_without_contact)
+W4_002611,4,2611,P4429939,attention
+W4_002618,4,2618,P4680616,speeder; gibberish(too few letters); attention
+W4_002627,4,2627,P2316897,speeder; straightliner(E1)
+W4_002630,4,2630,P2405630,"speeder; straightliner(C3,E1)"
+W4_002643,4,2643,P9927669,inconsistent(age_vs_tenure)
+W4_002646,4,2646,P1209976,"straightliner(C3,E1); attention"
+W4_002671,4,2671,P8600537,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_002699,4,2699,P3240767,duplicate
+W4_002738,4,2738,P8058733,attention
+W4_002766,4,2766,P2737482,duplicate
+W4_002771,4,2771,P5009494,duplicate
+W4_002796,4,2796,P4205790,duplicate
+W4_002811,4,2811,P1306427,duplicate
+W4_002836,4,2836,P8183221,attention
+W4_002875,4,2875,P3262319,attention
+W4_002889,4,2889,P5046325,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_002891,4,2891,P2767167,duplicate
+W4_002895,4,2895,P8122023,attention
+W4_002931,4,2931,P7744224,"inconsistent(main_bank_not_used,c_section_without_mosaik)"
+W4_002953,4,2953,P1074560,"straightliner(C3,E1); attention"
+W4_002983,4,2983,P4494133,inconsistent(age_vs_tenure)
+W4_002996,4,2996,P4293515,duplicate
+W4_002997,4,2997,P2076697,duplicate
+W4_002998,4,2998,P6366331,duplicate
+W4_002999,4,2999,P2419167,duplicate
+W4_003000,4,3000,P9137858,duplicate

@@ -1,0 +1,36 @@
+# =============================================================================
+# Mosaik Bank CX Tracker 2026 - logic / routing consistency rules (step 02)
+# -----------------------------------------------------------------------------
+# A respondent breaking ANY rule is flagged qc_inconsistent (a hard flag:
+# removed). Each rule is a pandas expression evaluated on the stacked file
+# (clean variable names, special codes still present) that is TRUE for rows
+# that break the rule. Keep rules strict: a rule that also catches honest
+# respondents removes real data.
+# =============================================================================
+
+rules:
+  - id: age_vs_tenure
+    description: "More than 5 years with Mosaik, but too young to have opened an account 5+ years ago (accounts from age 18)"
+    when: "a3_tenure == 4 and age < 23"
+
+  - id: main_bank_not_used
+    description: "Main bank (A2) is not among the banks ticked at A1"
+    when: >-
+      (main_bank == 1 and a1_r1 != 1) or (main_bank == 2 and a1_r2 != 1) or
+      (main_bank == 3 and a1_r3 != 1) or (main_bank == 4 and a1_r4 != 1) or
+      (main_bank == 5 and a1_r5 != 1) or (main_bank == 6 and a1_r6 != 1)
+
+  - id: c_section_without_mosaik
+    description: "Answered the Mosaik experience section (C1) without ticking Mosaik at A1"
+    when: "c1_nps.notna() and a1_r1 != 1"
+
+  - id: d3_without_contact
+    description: "Rated issue resolution (D3) without having contacted service (D2 = no)"
+    when: "d3_resolved.notna() and d2_contact == 0"
+
+  - id: consider_without_awareness
+    description: "Would consider a brand (B2) the respondent said they had not heard of (B1)"
+    when: >-
+      (b2_r1.notna() and b1_r1 == 0) or (b2_r2.notna() and b1_r2 == 0) or
+      (b2_r3.notna() and b1_r3 == 0) or (b2_r4.notna() and b1_r4 == 0) or
+      (b2_r5.notna() and b1_r5 == 0)
